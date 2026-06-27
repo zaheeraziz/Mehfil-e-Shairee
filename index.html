@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f3efe6">
+  <title>Mehfil-e-Shairee | Daily Reader</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-grain" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="Mehfil-e-Shairee home">
+      <span class="brand-mark">م</span>
+      <span>
+        <strong>Mehfil-e-Shairee</strong>
+        <small>محفلِ شاعری</small>
+      </span>
+    </a>
+    <div class="header-actions">
+      <div class="app-signature" aria-label="App name">
+        <strong>Mehfil-e-Shairee</strong>
+        <span>One poem, every morning.</span>
+      </div>
+      <span class="streak"><span aria-hidden="true">✦</span> <b id="streakCount">1</b> day streak</span>
+      <button class="icon-button" id="themeButton" type="button" aria-label="Toggle dark mode">◐</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="dailyHeading">
+      <div>
+        <p class="eyebrow" id="todayLabel">TODAY'S READING</p>
+        <h1 id="dailyHeading">A few minutes with Iqbal.</h1>
+        <p class="intro-copy">One complete poem. Read slowly, then carry one idea into your day.</p>
+      </div>
+      <div class="progress-block" aria-label="Book progress">
+        <div class="progress-copy"><span>Bal-e-Jibril</span><span><b id="progressValue">1</b> / 30</span></div>
+        <div class="progress-track"><span id="progressBar"></span></div>
+      </div>
+    </section>
+
+    <article class="reader-card">
+      <div class="reader-meta">
+        <div>
+          <p class="collection" id="collectionName"></p>
+          <h2 id="readingTitle"></h2>
+          <p class="transliteration" id="readingTransliteration"></p>
+          <div class="historical-note" id="historicalNote" hidden>
+            <p class="historical-label">Historical Note · <span id="historicalConfidence"></span></p>
+            <p class="historical-context" id="historicalContext"></p>
+            <p class="historical-source" id="historicalSource"></p>
+          </div>
+        </div>
+        <button class="favorite-button" id="favoriteButton" type="button" aria-label="Add to favorites" aria-pressed="false">♡</button>
+      </div>
+
+      <section class="full-poem" aria-labelledby="fullPoemLabel">
+        <p class="poem-kicker" id="fullPoemLabel"></p>
+        <div class="poem-verses" id="fullPoem" dir="rtl" lang="ur"></div>
+      </section>
+    </article>
+
+    <section class="reflection-card">
+      <div class="reflection-heading">
+        <span class="reflection-icon">✦</span>
+        <div>
+          <p class="eyebrow">PAUSE & REFLECT</p>
+          <h2 id="reflectionQuestion"></h2>
+        </div>
+      </div>
+      <label class="sr-only" for="reflectionNote">Your private reflection</label>
+      <textarea id="reflectionNote" rows="3" placeholder="Write a thought for yourself…"></textarea>
+      <p class="saved-status" id="savedStatus">Saved only on this device</p>
+    </section>
+
+    <section class="takeaway">
+      <p class="eyebrow">TODAY'S TAKEAWAY</p>
+      <p id="takeawayText"></p>
+    </section>
+
+    <div class="complete-wrap">
+      <button class="complete-button" id="completeButton" type="button">
+        <span id="completeIcon">✓</span>
+        <span id="completeText">Complete today's reading</span>
+      </button>
+      <p>Your progress stays on this device for the trial.</p>
+    </div>
+  </main>
+
+  <footer>
+    <span>محفلِ شاعری</span>
+    <p>Contact <a href="mailto:zaheer.aziz@gmail.com">zaheer.aziz@gmail.com</a> with any Questions.</p>
+    <a href="https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part02/40.htm" target="_blank" rel="noreferrer">Iqbal Academy source ↗</a>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

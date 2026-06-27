@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-kya-ishq-ek-zindagi",
+  "status": "draft",
+  "generatedAt": "2026-06-20T03:03:29.484Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-kya-ishq-ek-zindagi",
+    "title": "کیا عشق ایک زندگی مستعار کا",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/05.htm",
+    "notes": "The separate four-line poem appended to this Academy page is intentionally excluded.",
+    "sequence": 5,
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "verified_against_scan",
+    "verification": {
+      "file": "BalEJibreelByAllamahMuhammadIqbalr.a.pdf",
+      "pdfPages": [
+        26
+      ],
+      "checkedOn": "2026-06-19"
+    },
+    "verses": [
+      {
+        "lines": [
+          "کیا عشق ایک زندگی مستعار کا",
+          "کیا عشق پائدار سے ناپائدار کا"
+        ]
+      },
+      {
+        "lines": [
+          "وہ عشق جس کی شمع بجھا دے اجل کی پھونک",
+          "اس میں مزا نہیں تپش و انتظار کا"
+        ]
+      },
+      {
+        "lines": [
+          "میری بساط کیا ہے، تب و تاب یک نفس",
+          "شعلے سے بے محل ہے الجھنا شرار کا"
+        ]
+      },
+      {
+        "lines": [
+          "کر پہلے مجھ کو زندگی جاوداں عطا",
+          "پھر ذوق و شوق دیکھ دل بے قرار کا"
+        ]
+      },
+      {
+        "lines": [
+          "کانٹا وہ دے کہ جس کی کھٹک لازوال ہو",
+          "یارب، وہ درد جس کی کسک لازوال ہو!"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "یہ شعر عشق کی نوعیت اور اس کی پائیداری پر سوال اٹھاتا ہے۔ شاعر پوچھتا ہے کہ کیا عشق کا تعلق صرف ایک عارضی زندگی سے ہے، یا کیا یہ ایک دائمی ہستی کا ایک فانی چیز سے تعلق ہے۔",
+        "difficultWords": [
+          {
+            "term": "مستعار",
+            "meaningUrdu": "عارضی، ادھار لی ہوئی"
+          },
+          {
+            "term": "پائدار",
+            "meaningUrdu": "ہمیشہ رہنے والا، مستقل"
+          },
+          {
+            "term": "ناپائدار",
+            "meaningUrdu": "فانی، عارضی"
+          }
+        ],
+        "englishTranslation": "Is love merely for a borrowed life? Is love between the eternal and the transient?"
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر کہتا ہے کہ اگر عشق ایسا ہو جو موت کی ایک پھونک سے ختم ہو جائے، تو ایسے عشق میں وہ سوز اور انتظار کا لطف نہیں جو حقیقی عشق کی پہچان ہے۔ یہ عشق کی فانی نوعیت کو رد کرتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "شمع",
+            "meaningUrdu": "چراغ، موم بتی"
+          },
+          {
+            "term": "اجل",
+            "meaningUrdu": "موت"
+          },
+          {
+            "term": "پھونک",
+            "meaningUrdu": "ہوا کا جھونکا، سانس"
+          },
+          {
+            "term": "مزا",
+            "meaningUrdu": "لطف، خوشی"
+          },
+          {
+            "term": "تپش",
+            "meaningUrdu": "گرمی، سوزش، بے چینی"
+          },
+          {
+            "term": "انتظار",
+            "meaningUrdu": "راہ دیکھنا"
+          }
+        ],
+        "englishTranslation": "That love whose candle is extinguished by the breath of death, holds no pleasure in its fervor and anticipation."
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اپنی ہستی کو بہت حقیر اور عارضی قرار دیتا ہے، جو ایک سانس کی چمک دمک کے برابر ہے۔ وہ کہتا ہے کہ ایک چھوٹی سی چنگاری کا بڑے شعلے سے الجھنا بے معنی ہے۔ یہ اپنی کمزوری اور فانی ہونے کا اعتراف ہے۔",
+        "difficultWords": [
+          {
+            "term": "بساط",
+            "meaningUrdu": "حیثیت، اوقات، طاقت"
+          },
+          {
+            "term": "تب و تاب",
+            "meaningUrdu": "چمک دمک، روشنی"
+          },
+          {
+            "term": "یک نفس",
+            "meaningUrdu": "ایک سانس، بہت مختصر وقت"
+          },
+          {
+            "term": "بے محل",
+            "meaningUrdu": "بے موقع، نامناسب"
+          },
+          {
+            "term": "الجھنا",
+            "meaningUrdu": "ٹکرانا، مقابلہ کرنا"
+          },
+          {
+            "term": "شرار",
+            "meaningUrdu": "چنگاری"
+          },
+          {
+            "term": "شعلے",
+            "meaningUrdu": "آگ کی لپٹ"
+          }
+        ],
+        "englishTranslation": "What is my capacity? The glow and fervor of a single breath. It is inappropriate for a spark to contend with a flame."
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر اللہ تعالیٰ سے دعا کرتا ہے کہ پہلے اسے ہمیشہ کی زندگی عطا کی جائے، اور اس کے بعد ہی اس کے بے چین دل کا حقیقی ذوق اور شوق دیکھا جائے۔ یہ عشق کی پائیداری کے لیے ابدی زندگی کی شرط ہے۔",
+        "difficultWords": [
+          {
+            "term": "جاوداں",
+            "meaningUrdu": "ہمیشہ رہنے والی، ابدی"
+          },
+          {
+            "term": "عطا",
+            "meaningUrdu": "دینا، بخشنا"
+          },
+          {
+            "term": "ذوق",
+            "meaningUrdu": "چکھنے کی حس، شوق، لگن"
+          },
+          {
+            "term": "شوق",
+            "meaningUrdu": "لگن، چاہت"
+          },
+          {
+            "term": "بے قرار",
+            "meaningUrdu": "بے چین، مضطرب"
+          }
+        ],
+        "englishTranslation": "First, grant me eternal life; then observe the zeal and longing of this restless heart."
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر اللہ سے ایسے کانٹے کی دعا کرتا ہے جس کی چبھن ہمیشہ قائم رہے، اور ایسے درد کی تمنا کرتا ہے جس کی کسک کبھی ختم نہ ہو۔ یہ عشق کے دائمی سوز اور تکلیف کی خواہش کا اظہار ہے، جو فانی نہیں ہے۔",
+        "difficultWords": [
+          {
+            "term": "کھٹک",
+            "meaningUrdu": "چبھن، خلش"
+          },
+          {
+            "term": "لازوال",
+            "meaningUrdu": "ہمیشہ رہنے والا، نہ ختم ہونے والا"
+          },
+          {
+            "term": "یارب",
+            "meaningUrdu": "اے میرے رب"
+          },
+          {
+            "term": "کسک",
+            "meaningUrdu": "چبھن، درد کی ہلکی لہر"
+          }
+        ],
+        "englishTranslation": "Grant me a thorn whose prick is everlasting; O Lord, that pain whose ache is eternal!"
+      }
+    ],
+    "reflectionQuestion": "What is the poet's ultimate desire regarding the nature of love and existence, and how does it challenge the concept of transient life?",
+    "takeaway": "True love, according to the poet, transcends the limitations of mortal life and seeks an eternal connection, desiring a pain and passion that are everlasting.",
+    "themes": [
+      "Immortality of Love",
+      "Transience of Life",
+      "Divine Love",
+      "Eternal Suffering/Passion",
+      "Quest for Eternity"
+    ],
+    "historicalContextUrdu": "فراہم کردہ ماخذی معلومات میں اس نظم کے لیے مخصوص تاریخی سیاق و سباق فراہم کرنے کے لیے کافی تفصیلات موجود نہیں ہیں۔ تاریخی سیاق و سباق کے لیے ایک تصدیق شدہ ماخذ درکار ہے۔",
+    "editorialWarnings": [
+      "The interpretation of \"شعلے سے بے محل ہے الجھنا شرار کا\" as the poet's acknowledgment of his own weakness in comparison to a greater, perhaps divine, \"شعلہ\" is a common interpretation but not explicitly stated in the verse.",
+      "The poem's connection to specific Sufi or philosophical traditions is implied by themes like \"Divine Love\" and \"Eternal Suffering,\" but not explicitly detailed in the explanation to avoid definitive claims."
+    ],
+    "historicalContext": {
+      "period": "Early 20th Century (1935 publication)",
+      "place": "Lahore, British India (for collection publication)",
+      "summaryUrdu": "بالِ جبریل علامہ اقبال کا ایک شعری مجموعہ ہے جو 1935 میں شائع ہوا۔ اس نظم کے لیے مخصوص تاریخی سیاق و سباق فراہم نہیں کیا گیا ہے۔",
+      "summaryEnglish": "Bal-e-Jibril is a collection of poetry by Allama Iqbal published in 1935. Specific historical context for this particular poem is not provided.",
+      "confidence": "likely",
+      "sourceNote": "The historical context provided is at the collection level (Bal-e-Jibril publication) and not specific to the writing date or place of this particular poem.",
+      "legacyUrduNote": "فراہم کردہ ماخذی معلومات میں اس نظم کے لیے مخصوص تاریخی سیاق و سباق فراہم کرنے کے لیے کافی تفصیلات موجود نہیں ہیں۔ تاریخی سیاق و سباق کے لیے ایک تصدیق شدہ ماخذ درکار ہے۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:53:17.178Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 921,
+      "cachedInputTokens": 0,
+      "outputTokens": 407,
+      "thinkingTokens": 1099,
+      "totalTokens": 2427
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.0002763,
+      "uncachedInputUsd": 0.0002763,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.003765,
+      "totalUsd": 0.0040413,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}

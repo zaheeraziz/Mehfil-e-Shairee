@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-asar-kare-na-kare",
+  "status": "draft",
+  "generatedAt": "2026-06-20T03:03:15.741Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-asar-kare-na-kare",
+    "title": "اثر کرے نہ کرے، سُن تو لے مِری فریاد",
+    "sourceUrl": "https://allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=0&lang_code=ur&orderno=208",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/04.htm",
+    "sequence": 4,
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "verified_against_scan",
+    "verification": {
+      "file": "BalEJibreelByAllamahMuhammadIqbalr.a.pdf",
+      "pdfPages": [
+        25
+      ],
+      "checkedOn": "2026-06-19"
+    },
+    "verses": [
+      {
+        "lines": [
+          "اثر کرے نہ کرے، سُن تو لے مِری فریاد",
+          "نہیں ہے داد کا طالب یہ بندۂ آزاد"
+        ]
+      },
+      {
+        "lines": [
+          "یہ مشتِ خاک، یہ صرصر، یہ وسعتِ افلاک",
+          "کرم ہے یا کہ ستم تیری لذّتِ ایجاد!"
+        ]
+      },
+      {
+        "lines": [
+          "ٹھہر سکا نہ ہوائے چمن میں خیمۂ گُل",
+          "یہی ہے فصلِ بہاری، یہی ہے بادِ مراد؟"
+        ]
+      },
+      {
+        "lines": [
+          "قصوروار، غریبُ الدّیار ہُوں لیکن",
+          "ترا خرابہ فرشتے نہ کر سکے آباد"
+        ]
+      },
+      {
+        "lines": [
+          "مری جفا طلبی کو دعائیں دیتا ہے",
+          "وہ دشتِ سادہ، وہ تیرا جہانِ بے بنیاد"
+        ]
+      },
+      {
+        "lines": [
+          "خطر پسند طبیعت کو سازگار نہیں",
+          "وہ گُلِستاں کہ جہاں گھات میں نہ ہو صّیاد"
+        ]
+      },
+      {
+        "lines": [
+          "مقامِ شوق ترے قدسیوں کے بس کا نہیں",
+          "اُنھی کا کام ہے یہ جن کے حوصلے ہیں زیاد"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر اللہ تعالیٰ سے مخاطب ہے اور کہتا ہے کہ میری فریاد کا اثر ہو یا نہ ہو، کم از کم اسے سن تو لیا جائے۔ یہ آزاد بندہ کسی داد یا انعام کا طلبگار نہیں ہے۔ اس میں ایک بندے کی بے نیازی اور صرف اپنی بات پہنچانے کی خواہش کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "اثر",
+            "meaningUrdu": "نتیجہ، تاثیر"
+          },
+          {
+            "term": "فریاد",
+            "meaningUrdu": "شکایت، پکار"
+          },
+          {
+            "term": "داد",
+            "meaningUrdu": "تعریف، انعام، انصاف"
+          },
+          {
+            "term": "طالب",
+            "meaningUrdu": "چاہنے والا، طلب کرنے والا"
+          },
+          {
+            "term": "بندۂ آزاد",
+            "meaningUrdu": "خود مختار بندہ، آزاد شخص"
+          }
+        ],
+        "englishTranslation": "Whether it has an effect or not, at least hear my plea; this free servant does not seek reward."
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر انسان (مشتِ خاک) اور کائنات کی وسعتوں (وسعتِ افلاک) کے تضاد کو بیان کرتا ہے، اور ساتھ ہی تیز ہواؤں (صرصر) کا ذکر کرتا ہے۔ وہ اللہ کی تخلیق کی لذت پر سوال اٹھاتا ہے کہ آیا یہ انسان کے لیے کرم ہے یا ستم۔ یہ تخلیق کے عمل اور اس کے نتائج پر غور و فکر کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "مشتِ خاک",
+            "meaningUrdu": "مٹھی بھر مٹی، انسان"
+          },
+          {
+            "term": "صرصر",
+            "meaningUrdu": "تیز ہوا، آندھی"
+          },
+          {
+            "term": "وسعتِ افلاک",
+            "meaningUrdu": "آسمانوں کی وسعت، کائنات کی وسعت"
+          },
+          {
+            "term": "کرم",
+            "meaningUrdu": "مہربانی، عنایت"
+          },
+          {
+            "term": "ستم",
+            "meaningUrdu": "ظلم، زیادتی"
+          },
+          {
+            "term": "لذّتِ ایجاد",
+            "meaningUrdu": "تخلیق کی لذت، بنانے کا مزہ"
+          }
+        ],
+        "englishTranslation": "This handful of dust, this fierce wind, this vastness of the heavens—is Your joy of creation a grace or a torment?"
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر کہتا ہے کہ پھول کا خیمہ (نازک وجود) چمن کی ہوا میں ٹھہر نہ سکا۔ وہ سوال کرتا ہے کہ کیا یہی بہار کا موسم ہے اور کیا یہی وہ مطلوبہ ہوا ہے؟ اس میں کسی کمزور یا نازک چیز کی بے ثباتی اور حالات کی ناموافقت پر حیرت کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "خیمۂ گُل",
+            "meaningUrdu": "پھول کا خیمہ (پھول کا نازک وجود)"
+          },
+          {
+            "term": "فصلِ بہاری",
+            "meaningUrdu": "بہار کا موسم"
+          },
+          {
+            "term": "بادِ مراد",
+            "meaningUrdu": "مطلوبہ ہوا، مراد کی ہوا"
+          }
+        ],
+        "englishTranslation": "The tent of the rose could not stand firm in the garden's breeze; is this the spring season, is this the desired wind?"
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر خود کو قصوروار اور پردیسی (غریبُ الدّیار) قرار دیتا ہے، لیکن ساتھ ہی یہ بھی کہتا ہے کہ اللہ کی ویران کی ہوئی جگہ (خرابہ) کو فرشتے بھی آباد نہ کر سکے۔ اس میں انسان کی اہمیت اور اس کی صلاحیتوں کا ایک پہلو بیان کیا گیا ہے، کہ بعض اوقات انسان ہی کسی ویرانی کو آباد کرنے کی صلاحیت رکھتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "قصوروار",
+            "meaningUrdu": "خطا کار، مجرم"
+          },
+          {
+            "term": "غریبُ الدّیار",
+            "meaningUrdu": "پردیسی، اپنے وطن سے دور"
+          },
+          {
+            "term": "خرابہ",
+            "meaningUrdu": "ویران جگہ، کھنڈر"
+          },
+          {
+            "term": "آباد",
+            "meaningUrdu": "بسانا، رونق دینا"
+          }
+        ],
+        "englishTranslation": "I am a sinner, a stranger in a foreign land, yet Your desolation could not be settled by angels."
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر کہتا ہے کہ اس کی جفا طلبی (مشکلات کی تلاش) کو وہ سادہ دشت اور اللہ کا بے بنیاد جہان دعائیں دیتا ہے۔ اس میں انسان کی ہمت اور مشکلات کا سامنا کرنے کی خواہش کو سراہا گیا ہے، اور یہ دکھایا گیا ہے کہ بعض اوقات ویران جگہیں بھی انسان کی جدوجہد کو پسند کرتی ہیں۔",
+        "difficultWords": [
+          {
+            "term": "جفا طلبی",
+            "meaningUrdu": "مشکلات کی تلاش، سختیاں جھیلنے کی خواہش"
+          },
+          {
+            "term": "دشتِ سادہ",
+            "meaningUrdu": "سادہ صحرا، ویران میدان"
+          },
+          {
+            "term": "جہانِ بے بنیاد",
+            "meaningUrdu": "بے بنیاد دنیا، غیر مستحکم دنیا"
+          }
+        ],
+        "englishTranslation": "My quest for hardship is blessed by that simple desert, that baseless world of Yours."
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر بیان کرتا ہے کہ خطر پسند طبیعت کو وہ باغ پسند نہیں آتا جہاں کوئی شکاری گھات میں نہ ہو۔ اس سے یہ ظاہر ہوتا ہے کہ کچھ لوگ چیلنجز اور خطرات کو پسند کرتے ہیں، اور ان کے بغیر زندگی انہیں بے معنی لگتی ہے۔ یہ جدوجہد اور خطرے سے لطف اندوز ہونے کی انسانی فطرت کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "خطر پسند",
+            "meaningUrdu": "خطرہ پسند کرنے والا"
+          },
+          {
+            "term": "سازگار",
+            "meaningUrdu": "موافق، مناسب"
+          },
+          {
+            "term": "گُلِستاں",
+            "meaningUrdu": "باغ"
+          },
+          {
+            "term": "گھات میں",
+            "meaningUrdu": "تاک میں، چھپا ہوا"
+          },
+          {
+            "term": "صّیاد",
+            "meaningUrdu": "شکاری"
+          }
+        ],
+        "englishTranslation": "A risk-loving nature finds no comfort in a garden where no hunter lies in wait."
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر کہتا ہے کہ شوق کا مقام (عشق کی منزل) فرشتوں (قدسیوں) کے بس کی بات نہیں ہے۔ یہ کام صرف ان لوگوں کا ہے جن کے حوصلے بہت بلند (زیاد) ہوں۔ اس میں انسان کی عظمت اور اس کے شوق و ہمت کو فرشتوں سے بھی بلند تر دکھایا گیا ہے۔",
+        "difficultWords": [
+          {
+            "term": "مقامِ شوق",
+            "meaningUrdu": "شوق کی منزل، عشق کی جگہ"
+          },
+          {
+            "term": "قدسیوں",
+            "meaningUrdu": "فرشتوں"
+          },
+          {
+            "term": "بس کا نہیں",
+            "meaningUrdu": "اختیار میں نہیں، بس سے باہر"
+          },
+          {
+            "term": "حوصلے",
+            "meaningUrdu": "ہمت، جرات"
+          },
+          {
+            "term": "زیاد",
+            "meaningUrdu": "زیادہ، بہت"
+          }
+        ],
+        "englishTranslation": "The station of passion is beyond Your holy ones; this is the task of those whose courage is abundant."
+      }
+    ],
+    "reflectionQuestion": "How does the poem challenge conventional notions of divine interaction and human purpose?",
+    "takeaway": "The poem explores themes of human agency, the pursuit of challenges, and a unique, often questioning, relationship with the divine, emphasizing the human spirit's capacity for struggle and aspiration beyond even angelic realms.",
+    "themes": [
+      "Human agency and free will",
+      "Divine interaction and questioning",
+      "The pursuit of challenges and struggle",
+      "The nature of creation",
+      "Self-reliance and independence"
+    ],
+    "historicalContextUrdu": "اس نظم کے تاریخی پس منظر کے لیے ایک تصدیق شدہ ماخذ کی ضرورت ہے۔ فراہم کردہ معلومات میں کوئی تاریخی سیاق و سباق موجود نہیں ہے۔",
+    "editorialWarnings": [
+      "ExplanationUrdu میں 'بندۂ آزاد' کی تشریح ایک ممکنہ تعبیر ہے، دیگر تعبیرات بھی ممکن ہیں۔",
+      "Couplet 2 میں 'لذّتِ ایجاد' کی تشریح تخلیق کے عمل کے لطف سے متعلق ہے، جو ایک ممکنہ مفہوم ہے۔",
+      "Couplet 3 میں 'خیمۂ گُل' کو پھول کے نازک وجود سے تعبیر کرنا ایک استعاراتی تشریح ہے، دیگر مفاہیم بھی ہو سکتے ہیں۔",
+      "Couplet 4 میں 'ترا خرابہ' کی تشریح کو اللہ کی ویران کی ہوئی جگہ سے جوڑنا ایک ممکنہ تعبیر ہے۔",
+      "Couplet 5 میں 'جہانِ بے بنیاد' کی تشریح ایک ممکنہ مفہوم ہے، اس کے دیگر پہلو بھی ہو سکتے ہیں۔",
+      "Couplet 6 میں 'خطر پسند طبیعت' کی تشریح میں چیلنجز اور خطرات سے لطف اندوز ہونے کا پہلو ایک ممکنہ تعبیر ہے۔",
+      "Couplet 7 میں 'مقامِ شوق' کی تشریح عشق کی منزل کے طور پر ایک ممکنہ تعبیر ہے۔"
+    ],
+    "historicalContext": {
+      "period": "Early 20th Century",
+      "place": "Lahore, British India",
+      "summaryUrdu": "یہ نظم علامہ اقبال کے مجموعہ کلام 'بالِ جبریل' کا حصہ ہے، جو 1935 میں شائع ہوا۔ اس مجموعے میں اقبال کے فکری ارتقاء اور فلسفہ خودی کی گہرائی نمایاں ہے۔ نظم کے مخصوص تاریخی پس منظر کے بارے میں معلومات دستیاب نہیں ہیں۔",
+      "summaryEnglish": "This poem is part of Allama Iqbal's poetry collection 'Bal-e-Jibril' (The Wing of Gabriel), which was published in 1935. The collection reflects Iqbal's intellectual evolution and the profoundness of his philosophy of Khudi (Selfhood). Specific historical context for the writing of this particular poem is not available.",
+      "confidence": "likely",
+      "sourceNote": "The historical context provided is for the collection 'Bal-e-Jibril', not for the specific poem. The collection was published in 1935 in Lahore, British India.",
+      "legacyUrduNote": "اس نظم کے تاریخی پس منظر کے لیے ایک تصدیق شدہ ماخذ کی ضرورت ہے۔ فراہم کردہ معلومات میں کوئی تاریخی سیاق و سباق موجود نہیں ہے۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:53:09.459Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 1304,
+      "cachedInputTokens": 0,
+      "outputTokens": 567,
+      "thinkingTokens": 1856,
+      "totalTokens": 3727
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.0003912,
+      "uncachedInputUsd": 0.0003912,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.0060574999999999995,
+      "totalUsd": 0.0064487,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}

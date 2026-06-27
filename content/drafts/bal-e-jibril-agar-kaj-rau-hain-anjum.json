@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-agar-kaj-rau-hain-anjum",
+  "status": "draft",
+  "generatedAt": "2026-06-20T03:02:35.991Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-agar-kaj-rau-hain-anjum",
+    "title": "اگر کج رَو ہیں انجم، آسماں تیرا ہے یا میرا",
+    "sourceUrl": "https://allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=4&lang_code=ur&orderno=205",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/02.htm",
+    "sequence": 2,
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "verified_against_scan",
+    "verification": {
+      "file": "BalEJibreelByAllamahMuhammadIqbalr.a.pdf",
+      "pdfPages": [
+        23
+      ],
+      "checkedOn": "2026-06-19"
+    },
+    "verses": [
+      {
+        "lines": [
+          "اگر کج رَو ہیں انجم، آسماں تیرا ہے یا میرا",
+          "مجھے فکرِ جہاں کیوں ہو، جہاں تیرا ہے یا میرا؟"
+        ]
+      },
+      {
+        "lines": [
+          "اگر ہنگامہ ہائے شوق سے ہے لامکاں خالی",
+          "خطا کس کی ہے یا رب! لامکاں تیرا ہے یا میرا؟"
+        ]
+      },
+      {
+        "lines": [
+          "اُسے صبحِ ازل انکار کی جُرأت ہوئی کیونکر",
+          "مجھے معلوم کیا، وہ راز داں تیرا ہے یا میرا؟"
+        ]
+      },
+      {
+        "lines": [
+          "محمدؐ بھی ترا، جبریل بھی، قرآن بھی تیرا",
+          "مگر یہ حرفِ شیریں ترجماں تیرا ہے یا میرا؟"
+        ]
+      },
+      {
+        "lines": [
+          "اسی کوکب کی تابانی سے ہے تیرا جہاں روشن",
+          "زوالِ آدمِ خاکی زیاں تیرا ہے یا میرا؟"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر کائنات کے مالک سے سوال کرتا ہے کہ اگر ستارے اپنی راہ سے بھٹک رہے ہیں تو یہ آسمان کس کا ہے؟ کیا یہ خدا کا ہے یا انسان کا؟ اسی طرح، شاعر یہ بھی پوچھتا ہے کہ اسے دنیا کی فکر کیوں ہونی چاہیے، جبکہ یہ دنیا بھی خدا کی ہے یا انسان کی؟ اس میں انسان کی اپنی ذمہ داری اور کائنات میں اس کے مقام پر غور کرنے کی دعوت ہے۔",
+        "difficultWords": [
+          {
+            "term": "کج رَو",
+            "meaningUrdu": "ٹیڑھا چلنے والا، کج روی کرنے والا"
+          },
+          {
+            "term": "انجم",
+            "meaningUrdu": "ستارے"
+          },
+          {
+            "term": "فکرِ جہاں",
+            "meaningUrdu": "دنیا کی فکر، دنیا کی پریشانی"
+          }
+        ],
+        "englishTranslation": "If the stars are wayward, is the sky yours or mine? Why should I worry about the world, is the world yours or mine?"
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر خدا سے مخاطب ہو کر کہتا ہے کہ اگر لامکاں (یعنی وہ عالم جو زمان و مکان کی قید سے آزاد ہے) شوق اور ولولے سے خالی ہے، تو اس میں کس کا قصور ہے؟ پھر وہ سوال کرتا ہے کہ یہ لامکاں کس کا ہے، خدا کا یا انسان کا؟ یہ سوال انسان کے روحانی جوش اور اس کی تخلیقی صلاحیتوں کی اہمیت کو اجاگر کرتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "ہنگامہ ہائے شوق",
+            "meaningUrdu": "شوق کے ہنگامے، جوش و ولولے"
+          },
+          {
+            "term": "لامکاں",
+            "meaningUrdu": "وہ جگہ جہاں کوئی مکان نہ ہو، بے مکانی، کائنات سے ماورا"
+          },
+          {
+            "term": "خطا",
+            "meaningUrdu": "غلطی، قصور"
+          }
+        ],
+        "englishTranslation": "If the boundless realm is empty of the clamor of passion, whose fault is it, O Lord! Is the boundless realm yours or mine?"
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اس واقعے کی طرف اشارہ کرتا ہے جب صبحِ ازل (تخلیق کے آغاز میں) خدا کے حکم کے سامنے سر جھکانے سے انکار کیا گیا تھا۔ شاعر حیرت کا اظہار کرتا ہے کہ اسے یہ جرات کیسے ہوئی؟ پھر وہ کہتا ہے کہ اسے کیا معلوم کہ وہ راز داں (جو اس راز سے واقف ہے) خدا کا ہے یا انسان کا؟ یہ شعر انسان کی آزادیِ ارادہ اور اس کے نتائج پر غور کرنے کی دعوت دیتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "صبحِ ازل",
+            "meaningUrdu": "تخلیق کا آغاز، جب روحوں سے عہد لیا گیا تھا"
+          },
+          {
+            "term": "انکار کی جُرأت",
+            "meaningUrdu": "انکار کرنے کی ہمت"
+          },
+          {
+            "term": "راز داں",
+            "meaningUrdu": "راز جاننے والا، بھید کا واقف"
+          }
+        ],
+        "englishTranslation": "How did it dare to refuse on the morning of eternity? What do I know, is that confidant yours or mine?"
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر خدا سے کہتا ہے کہ پیغمبر محمد صلی اللہ علیہ وسلم، فرشتے جبریل علیہ السلام اور قرآن مجید، یہ سب تیری ہی مخلوق اور تیرا ہی کلام ہیں۔ لیکن پھر وہ سوال کرتا ہے کہ یہ میٹھا حرف (یعنی وہ کلام جو انسان کی زبان سے ادا ہوتا ہے، یا خود شاعری) جو تیری ترجمانی کرتا ہے، یہ تیرا ہے یا میرا؟ اس میں انسان کی تخلیقی صلاحیت، خاص طور پر شاعری اور کلام کی اہمیت اور اس کے منبع پر غور کیا گیا ہے۔",
+        "difficultWords": [
+          {
+            "term": "حرفِ شیریں",
+            "meaningUrdu": "میٹھا حرف، دلکش بات، کلام"
+          },
+          {
+            "term": "ترجماں",
+            "meaningUrdu": "ترجمانی کرنے والا، ترجمان"
+          }
+        ],
+        "englishTranslation": "Muhammad (PBUH) is yours, Gabriel is yours, the Quran is also yours; but is this sweet word, the interpreter, yours or mine?"
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر کہتا ہے کہ اسی ستارے (جس سے مراد انسان یا اس کی روح کی چمک ہو سکتی ہے) کی روشنی سے تیری دنیا روشن ہے۔ پھر وہ سوال کرتا ہے کہ اگر مٹی سے بنے انسان (آدمِ خاکی) کا زوال ہوتا ہے تو یہ نقصان تیرا ہے یا میرا؟ یہ شعر انسان کی عظمت، اس کی اہمیت اور اس کے عروج و زوال کے کائنات پر پڑنے والے اثرات پر غور کرنے کی دعوت دیتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "کوکب",
+            "meaningUrdu": "ستارہ"
+          },
+          {
+            "term": "تابانی",
+            "meaningUrdu": "چمک، روشنی"
+          },
+          {
+            "term": "آدمِ خاکی",
+            "meaningUrdu": "مٹی کا بنا ہوا انسان، حضرت آدم علیہ السلام اور ان کی نسل"
+          },
+          {
+            "term": "زیاں",
+            "meaningUrdu": "نقصان، خسارہ"
+          }
+        ],
+        "englishTranslation": "By the radiance of this very star, your world is illuminated; is the decline of the earthly Adam your loss or mine?"
+      }
+    ],
+    "reflectionQuestion": "How does Iqbal's questioning of ownership (\"yours or mine?\") challenge our understanding of responsibility and agency in the universe, both for humanity and for the divine?",
+    "takeaway": "This poem explores the profound relationship between humanity and the divine, questioning the boundaries of ownership, responsibility, and creative expression. It invites reflection on human agency, the consequences of choices, and the inherent value of human existence within the grand cosmic design.",
+    "themes": [
+      "Human agency and responsibility",
+      "Divine ownership and creation",
+      "The nature of rebellion and obedience",
+      "The power of human expression (poetry/speech)",
+      "The significance of human existence in the cosmos"
+    ],
+    "historicalContextUrdu": "اس نظم کے تاریخی پس منظر کے بارے میں تصدیق شدہ ماخذ درکار ہے۔ فراہم کردہ میٹا ڈیٹا میں اس نظم کی تخلیق کے وقت کے مخصوص تاریخی حالات یا واقعات کا ذکر نہیں ہے۔",
+    "editorialWarnings": [
+      "شعر نمبر 2 میں 'اُسے' کی شناخت ابلیس کے ساتھ ایک عام اسلامی تشریح ہے، تاہم نظم میں اس کا واضح طور پر ذکر نہیں ہے۔",
+      "شعر نمبر 3 میں 'حرفِ شیریں' کی تشریح بطور 'شاعری' یا 'انسانی کلام' ایک ممکنہ تعبیر ہے، لیکن اس کے دیگر مفاہیم بھی ہو سکتے ہیں جو الہامی پیغام کے انسانی فہم سے متعلق ہوں۔",
+      "شعر نمبر 4 میں 'اسی کوکب' سے مراد 'انسان یا اس کی روح کی چمک' ایک ممکنہ تشریح ہے، لیکن یہ کسی خاص ستارے یا رہنمائی کے استعاراتی ستارے کی طرف بھی اشارہ کر سکتا ہے۔"
+    ],
+    "historicalContext": {
+      "period": "Early 20th Century",
+      "place": "Lahore, British India",
+      "summaryUrdu": "بالِ جبریل علامہ اقبال کا شعری مجموعہ ہے جو 1935 میں شائع ہوا۔ یہ نظم اسی مجموعے کا حصہ ہے۔",
+      "summaryEnglish": "Bal-e-Jibril (Gabriel's Wing) is a collection of poetry by Allama Iqbal, published in 1935. This poem is part of that collection.",
+      "confidence": "likely",
+      "sourceNote": "This historical context refers to the publication of the collection 'Bal-e-Jibril', not the specific writing date or circumstances of this individual poem.",
+      "legacyUrduNote": "اس نظم کے تاریخی پس منظر کے بارے میں تصدیق شدہ ماخذ درکار ہے۔ فراہم کردہ میٹا ڈیٹا میں اس نظم کی تخلیق کے وقت کے مخصوص تاریخی حالات یا واقعات کا ذکر نہیں ہے۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:52:49.993Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 1211,
+      "cachedInputTokens": 0,
+      "outputTokens": 429,
+      "thinkingTokens": 996,
+      "totalTokens": 2636
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.0003633,
+      "uncachedInputUsd": 0.0003633,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.0035625,
+      "totalUsd": 0.0039258,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}

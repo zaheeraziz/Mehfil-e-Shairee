@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-15-اک-دانش-نورانی-اک-دانش-برہانی",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:49:09.724Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 851,
+    "cachedInputTokens": 0,
+    "outputTokens": 1593,
+    "thinkingTokens": 0,
+    "totalTokens": 2444
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.00021275,
+    "uncachedInputUsd": 0.00021275,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.0023895,
+    "totalUsd": 0.00260225,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-15-اک-دانش-نورانی-اک-دانش-برہانی",
+    "title": "اک دانش نورانی، اک دانش برہانی",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/15.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/15.htm",
+    "sequence": 15,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "اک دانش نورانی، اک دانش برہانی",
+          "ہے دانش برہانی، حیرت کی فراوانی"
+        ]
+      },
+      {
+        "lines": [
+          "اس پیکر خاکی میں اک شے ہے، سو وہ تیری",
+          "میرے لیے مشکل ہے اس شے کی نگہبانی"
+        ]
+      },
+      {
+        "lines": [
+          "اب کیا جو فغاں میری پہنچی ہے ستاروں تک",
+          "تو نے ہی سکھائی تھی مجھ کو یہ غزل خوانی"
+        ]
+      },
+      {
+        "lines": [
+          "ہو نقش اگر باطل، تکرار سے کیا حاصل",
+          "کیا تجھ کو خوش آتی ہے آدم کی یہ ارزانی؟"
+        ]
+      },
+      {
+        "lines": [
+          "مجھ کو تو سکھا دی ہے افرنگ نے زندیقی",
+          "اس دور کے ملا ہیں کیوں ننگ مسلمانی!"
+        ]
+      },
+      {
+        "lines": [
+          "تقدیر شکن قوت باقی ہے ابھی اس میں",
+          "ناداں جسے کہتے ہیں تقدیر کا زندانی"
+        ]
+      },
+      {
+        "lines": [
+          "تیرے بھی صنم خانے، میرے بھی صنم خانے",
+          "دونوں کے صنم خاکی، دونوں کے صنم فانی"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "اس شعر میں دو طرح کی دانش کا ذکر ہے۔ ایک وہ جو نورانی ہے اور دوسری وہ جو برہانی (دلیل پر مبنی) ہے۔ شاعر کے نزدیک برہانی دانش انسان کو حیرت اور الجھن میں ڈال دیتی ہے۔",
+        "englishTranslation": "One is a luminous wisdom, one is a demonstrative wisdom; demonstrative wisdom is an abundance of bewilderment.",
+        "difficultWords": [
+          {
+            "term": "دانش",
+            "meaningUrdu": "عقل، علم"
+          },
+          {
+            "term": "نورانی",
+            "meaningUrdu": "روشنی والی، منور"
+          },
+          {
+            "term": "برہانی",
+            "meaningUrdu": "دلیل پر مبنی"
+          },
+          {
+            "term": "فراوانی",
+            "meaningUrdu": "کثرت، زیادتی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر انسان کے وجود میں کسی خاص چیز کی موجودگی کا ذکر کر رہا ہے جو دراصل خدا کی عطا کردہ ہے۔ اس کی حفاظت کرنا شاعر کے لیے ایک مشکل کام معلوم ہوتا ہے۔",
+        "englishTranslation": "In this earthen form there is a thing, and that is Yours; it is difficult for me to guard that thing.",
+        "difficultWords": [
+          {
+            "term": "پیکر خاکی",
+            "meaningUrdu": "مٹی کا جسم، انسان"
+          },
+          {
+            "term": "نگہبانی",
+            "meaningUrdu": "حفاظت، دیکھ بھال"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر خدا سے مخاطب ہے کہ اگر میری فریاد ستاروں تک پہنچ گئی ہے تو یہ ہنر بھی تو تو نے ہی مجھے سکھایا تھا۔",
+        "englishTranslation": "Now what if my lament has reached the stars; it was You who taught me this singing of ghazals.",
+        "difficultWords": [
+          {
+            "term": "فغاں",
+            "meaningUrdu": "فریاد، آہ و زاری"
+          },
+          {
+            "term": "غزل خوانی",
+            "meaningUrdu": "شاعری کرنا، گانا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "یہاں باطل نظریات پر تنقید کی گئی ہے۔ شاعر پوچھتا ہے کہ اگر کوئی چیز غلط ہے تو اسے بار بار دہرانے کا کیا فائدہ؟ کیا خدا کو انسان کی یہ بے وقعتی پسند ہے؟",
+        "englishTranslation": "If the impression is false, what is gained by repetition? Does this cheapness of Adam please You?",
+        "difficultWords": [
+          {
+            "term": "نقش",
+            "meaningUrdu": "نشان، اثر"
+          },
+          {
+            "term": "باطل",
+            "meaningUrdu": "غلط، جھوٹا"
+          },
+          {
+            "term": "ارزانی",
+            "meaningUrdu": "سستا ہونا، بے وقعتی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر مغرب کی تعلیمات کے اثرات کا ذکر کر رہا ہے اور اپنے دور کے مذہبی پیشواؤں پر تنقید کر رہا ہے کہ وہ مسلمانوں کے لیے باعثِ شرم ہیں۔",
+        "englishTranslation": "The West has taught me heresy; why are the mullahs of this age a disgrace to Islam!",
+        "difficultWords": [
+          {
+            "term": "افرنگ",
+            "meaningUrdu": "مغرب، یورپ"
+          },
+          {
+            "term": "زندیقی",
+            "meaningUrdu": "بے دینی، الحاد"
+          },
+          {
+            "term": "ننگ",
+            "meaningUrdu": "شرم، عیب"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر کہتا ہے کہ انسان میں ابھی بھی تقدیر کو بدلنے کی طاقت موجود ہے، حالانکہ نادان لوگ اسے تقدیر کا قیدی سمجھتے ہیں۔",
+        "englishTranslation": "The power to break destiny still remains in it; that which the ignorant call the prisoner of destiny.",
+        "difficultWords": [
+          {
+            "term": "تقدیر شکن",
+            "meaningUrdu": "تقدیر کو توڑنے والا"
+          },
+          {
+            "term": "زندانی",
+            "meaningUrdu": "قیدی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "اس آخری شعر میں شاعر کہتا ہے کہ میرے اور تیرے (مخاطب کے) بنائے ہوئے بت خانے ایک جیسے ہیں کیونکہ دونوں کے بت مٹی کے ہیں اور فانی ہیں۔",
+        "englishTranslation": "Your idol-houses too, my idol-houses too; both have earthen idols, both have perishable idols.",
+        "difficultWords": [
+          {
+            "term": "صنم خانے",
+            "meaningUrdu": "بت خانے"
+          },
+          {
+            "term": "فانی",
+            "meaningUrdu": "ختم ہونے والا"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet reconcile the concept of human agency with the idea of divine influence in this poem?",
+    "takeaway": "The poem explores the tension between intellectual inquiry, spiritual guidance, and the critique of contemporary religious and social conditions.",
+    "themes": [
+      "Wisdom",
+      "Humanity",
+      "Divine Relationship",
+      "Critique of Orthodoxy",
+      "Human Agency"
+    ],
+    "historicalContext": {
+      "period": "بالِ جبریل (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم بالِ جبریل کے پہلے حصے میں شامل ہے۔ اس مجموعے کی اشاعت 1935 میں ہوئی۔",
+      "summaryEnglish": "This poem is part of the first section of Bal-e-Jibril, which was published in 1935.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection title provided in the metadata."
+    },
+    "editorialWarnings": [
+      "The interpretation of 'دانش برہانی' as purely negative is a subjective reading and may vary among scholars.",
+      "The identity of the 'مخاطب' (addressee) in the poem is not explicitly stated and remains open to interpretation.",
+      "The term 'زندیقی' is used in a specific historical and cultural context which may require further theological study."
+    ]
+  }
+}

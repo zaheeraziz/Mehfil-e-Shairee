@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-10-متاع-بے-بہا-ہے-درد-و-سوز",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:46:46.365Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 860,
+    "cachedInputTokens": 0,
+    "outputTokens": 1667,
+    "thinkingTokens": 0,
+    "totalTokens": 2527
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.000215,
+    "uncachedInputUsd": 0.000215,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.0025005,
+    "totalUsd": 0.0027155,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-10-متاع-بے-بہا-ہے-درد-و-سوز",
+    "title": "متاع بے بہا ہے درد و سوز آرزو مندی",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/10.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/10.htm",
+    "sequence": 10,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "متاع بے بہا ہے درد و سوز آرزو مندی",
+          "مقام بندگی دے کر نہ لوں شان خداوندی"
+        ]
+      },
+      {
+        "lines": [
+          "ترے آزاد بندوں کی نہ یہ دنیا، نہ وہ دنیا",
+          "یہاں مرنے کی پابندی، وہاں جینے کی پابندی"
+        ]
+      },
+      {
+        "lines": [
+          "حجاب اکسیر ہے آوارہ کوئے محبت کو",
+          "میری آتش کو بھڑکاتی ہے تیری دیر پیوندی"
+        ]
+      },
+      {
+        "lines": [
+          "گزر اوقات کر لیتا ہے یہ کوہ و بیاباں میں",
+          "کہ شاہیں کے لیے ذلت ہے کار آشیاں بندی"
+        ]
+      },
+      {
+        "lines": [
+          "یہ فیضان نظر تھا یا کہ مکتب کی کرامت تھی",
+          "سکھائے کس نے اسمعیل کو آداب فرزندی"
+        ]
+      },
+      {
+        "lines": [
+          "زیارت گاہ اہل عزم و ہمت ہے لحد میری",
+          "کہ خاک راہ کو میں نے بتایا راز الوندی"
+        ]
+      },
+      {
+        "lines": [
+          "مری مشاطگی کی کیا ضرورت حسن معنی کو",
+          "کہ فطرت خود بخود کرتی ہے لالے کی حنا بندی"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "اس شعر میں شاعر درد و سوز اور آرزو مندی کو ایک قیمتی سرمایہ قرار دیتا ہے۔ ایسا لگتا ہے کہ شاعر کے نزدیک بندگی کا مقام خداوندی کے رتبے سے زیادہ اہم ہے کیونکہ اس میں عشق اور تڑپ شامل ہے۔",
+        "englishTranslation": "The pain and burning of longing is a priceless commodity; I would not trade the station of servitude for the glory of divinity.",
+        "difficultWords": [
+          {
+            "term": "متاع",
+            "meaningUrdu": "سرمایہ"
+          },
+          {
+            "term": "بے بہا",
+            "meaningUrdu": "قیمتی"
+          },
+          {
+            "term": "درد و سوز",
+            "meaningUrdu": "تکلیف اور تڑپ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر آزاد بندوں کی کیفیت بیان کر رہا ہے کہ وہ دنیا اور آخرت کی روایتی قیدوں سے بالاتر ہیں۔ یہاں مرنے اور وہاں جینے کی پابندی سے مراد دنیاوی اور اخروی حدود ہو سکتی ہیں۔",
+        "englishTranslation": "Neither this world nor that world belongs to Your free servants; here is the restriction of dying, there is the restriction of living.",
+        "difficultWords": [
+          {
+            "term": "آزاد بندوں",
+            "meaningUrdu": "خود مختار لوگ"
+          },
+          {
+            "term": "پابندی",
+            "meaningUrdu": "قید"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "یہاں حجاب اور دیر پیوندی کے اثرات کا ذکر ہے۔ شاعر کہتا ہے کہ محبت کی راہ میں حائل رکاوٹیں یا دوری اس کے اندر کے جذبے کو مزید تیز کر دیتی ہیں۔",
+        "englishTranslation": "The veil is an elixir for the wanderer of the lane of love; your association with the temple fuels my fire.",
+        "difficultWords": [
+          {
+            "term": "حجاب",
+            "meaningUrdu": "پردہ"
+          },
+          {
+            "term": "اکسیر",
+            "meaningUrdu": "کیمیا"
+          },
+          {
+            "term": "دیر پیوندی",
+            "meaningUrdu": "مندر سے تعلق"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاہین کی مثال دے کر خودداری اور آزادی کی اہمیت بتائی گئی ہے۔ گھونسلہ بنانا شاہین کے لیے ذلت سمجھا گیا ہے کیونکہ وہ بلند پرواز ہے۔",
+        "englishTranslation": "He manages to live in these mountains and deserts; for the falcon, the act of nest-building is a humiliation.",
+        "difficultWords": [
+          {
+            "term": "گزر اوقات",
+            "meaningUrdu": "زندگی گزارنا"
+          },
+          {
+            "term": "کوہ و بیاباں",
+            "meaningUrdu": "پہاڑ اور صحرا"
+          },
+          {
+            "term": "آشیاں بندی",
+            "meaningUrdu": "گھونسلہ بنانا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "یہ شعر حضرت اسمعیل علیہ السلام کی اطاعت اور فرزندی کے آداب کی طرف اشارہ کرتا ہے۔ شاعر پوچھتا ہے کہ یہ تربیت نظر کی کرامت تھی یا مکتب کا اثر۔",
+        "englishTranslation": "Was this the bounty of vision or the miracle of the school; who taught Ismail the etiquettes of sonship?",
+        "difficultWords": [
+          {
+            "term": "فیضان نظر",
+            "meaningUrdu": "نگاہ کا فیض"
+          },
+          {
+            "term": "کرامت",
+            "meaningUrdu": "معجزہ"
+          },
+          {
+            "term": "آداب فرزندی",
+            "meaningUrdu": "بیٹے ہونے کے طور طریقے"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر اپنی قبر کو اہل عزم و ہمت کے لیے زیارت گاہ قرار دیتا ہے کیونکہ اس نے خاک راہ کو بلندی کا راز سکھایا ہے۔",
+        "englishTranslation": "My grave is a place of pilgrimage for the people of resolve and courage; for I have taught the dust of the path the secret of loftiness.",
+        "difficultWords": [
+          {
+            "term": "لحد",
+            "meaningUrdu": "قبر"
+          },
+          {
+            "term": "خاک راہ",
+            "meaningUrdu": "راستے کی مٹی"
+          },
+          {
+            "term": "الوندی",
+            "meaningUrdu": "بلندی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "فطرت کے حسن کو کسی بناؤ سنگھار کی ضرورت نہیں ہے۔ شاعر لالے کے پھول کی مثال دے کر کہتا ہے کہ قدرت خود ہی اسے رنگ و روپ دیتی ہے۔",
+        "englishTranslation": "What is the need for my beautification to the beauty of meaning; for nature itself performs the henna-staining of the tulip.",
+        "difficultWords": [
+          {
+            "term": "مشاطگی",
+            "meaningUrdu": "سنگھار کرنا"
+          },
+          {
+            "term": "حسن معنی",
+            "meaningUrdu": "معنی کا حسن"
+          },
+          {
+            "term": "حنا بندی",
+            "meaningUrdu": "مہندی لگانا"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet reconcile the concepts of worldly freedom and spiritual servitude in this poem?",
+    "takeaway": "The poem emphasizes that true greatness lies in the intensity of longing and the preservation of one's inner freedom, rather than in material or worldly status.",
+    "themes": [
+      "Longing",
+      "Freedom",
+      "Servitude",
+      "Nature",
+      "Self-respect"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم علامہ اقبال کی کتاب بالِ جبریل کے پہلے حصے میں شامل ہے۔",
+      "summaryEnglish": "This poem is included in the first part of Allama Iqbal's collection Bal-e-Jibril.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection-level metadata provided in the source."
+    },
+    "editorialWarnings": [
+      "The interpretation of 'dair paiwandi' as 'association with the temple' is a literal translation; the philosophical intent may vary.",
+      "The reference to 'Ismail' is a historical/religious allusion and requires specific theological context for full understanding.",
+      "The explanation of 'duniya' and 'akhirat' in the second verse is an interpretive inference."
+    ]
+  }
+}

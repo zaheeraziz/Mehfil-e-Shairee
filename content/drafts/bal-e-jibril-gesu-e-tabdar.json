@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-gesu-e-tabdar",
+  "status": "draft",
+  "generatedAt": "2026-06-20T03:02:55.206Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-gesu-e-tabdar",
+    "title": "گیسوئے تاب‌دار کو اور بھی تاب‌دار کر",
+    "sourceUrl": "https://www.allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=4&lang_code=ur&orderno=206",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/03.htm",
+    "sequence": 3,
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "verified_against_scan",
+    "verification": {
+      "file": "BalEJibreelByAllamahMuhammadIqbalr.a.pdf",
+      "pdfPages": [
+        23,
+        24,
+        25
+      ],
+      "checkedOn": "2026-06-19"
+    },
+    "verses": [
+      {
+        "lines": [
+          "گیسوئے تاب‌دار کو اور بھی تاب‌دار کر",
+          "ہوش و خرد شکار کر، قلب و نظر شکار کر"
+        ]
+      },
+      {
+        "lines": [
+          "عشق بھی ہو حجاب میں، حُسن بھی ہو حجاب میں",
+          "یا تو خود آشکار ہو یا مجھے آشکار کر"
+        ]
+      },
+      {
+        "lines": [
+          "تُو ہے محیطِ بےکراں، میں ہُوں ذرا سی آبُجو",
+          "یا مجھے ہمکنار کر یا مجھے بے کنار کر"
+        ]
+      },
+      {
+        "lines": [
+          "میں ہُوں صدَف تو تیرے ہاتھ میرے گُہر کی آبرو",
+          "میں ہُوں خزَف تو تُو مجھے گوہرِ شاہوار کر"
+        ]
+      },
+      {
+        "lines": [
+          "نغمۂ نَو بہار اگر میرے نصیب میں نہ ہو",
+          "اس دمِ نیم سوز کو طائرکِ بہار کر"
+        ]
+      },
+      {
+        "lines": [
+          "باغِ بہشت سے مجھے حکمِ سفر دیا تھا کیوں",
+          "کارِ جہاں دراز ہے، اب مرا انتظار کر"
+        ]
+      },
+      {
+        "lines": [
+          "روزِ حساب جب مرا پیش ہو دفترِ عمل",
+          "آپ بھی شرمسار ہو، مجھ کو بھی شرمسار کر"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر اللہ تعالیٰ سے دعا کر رہا ہے کہ وہ اس کے محبوب (جسے گیسوئے تابدار سے تشبیہ دی گئی ہے) کی چمک اور خوبصورتی کو مزید بڑھا دے۔ وہ یہ بھی چاہتا ہے کہ اس محبوب کی کشش عقل و شعور اور دل و نگاہ کو اپنی گرفت میں لے لے۔",
+        "difficultWords": [
+          {
+            "term": "گیسوئے تاب‌دار",
+            "meaningUrdu": "چمکدار زلفیں/بال"
+          },
+          {
+            "term": "تاب‌دار",
+            "meaningUrdu": "چمکدار، روشن"
+          },
+          {
+            "term": "ہوش و خرد",
+            "meaningUrdu": "عقل اور سمجھ"
+          },
+          {
+            "term": "شکار کر",
+            "meaningUrdu": "قابو کر، اپنی طرف کھینچ"
+          },
+          {
+            "term": "قلب و نظر",
+            "meaningUrdu": "دل اور نگاہ"
+          }
+        ],
+        "englishTranslation": "Make the radiant tresses even more radiant; capture intellect and wisdom, capture heart and sight."
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر کہتا ہے کہ اگر عشق اور حسن دونوں پردے میں ہیں (یعنی محبوب کی ذات اور اس کا جلوہ پوشیدہ ہے)، تو اے محبوب یا تو خود کو ظاہر کر دے یا مجھے اس قابل بنا دے کہ میں تجھے پہچان سکوں اور تیرا دیدار کر سکوں۔ یہ محبوب اور عاشق کے درمیان قربت کی خواہش کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "حجاب",
+            "meaningUrdu": "پردہ، اوٹ"
+          },
+          {
+            "term": "آشکار ہو",
+            "meaningUrdu": "ظاہر ہو، نمایاں ہو"
+          }
+        ],
+        "englishTranslation": "If love is veiled, and beauty is also veiled, then either reveal yourself, or make me capable of revelation."
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اللہ تعالیٰ کی عظمت اور اپنی کمتری کا اظہار کر رہا ہے۔ وہ کہتا ہے کہ تو ایک بے کراں سمندر کی طرح ہے اور میں ایک چھوٹی سی ندی ہوں۔ اس لیے یا تو مجھے اپنے ساتھ ملا کر سمندر بنا دے (یعنی اپنی ذات میں فنا کر دے) یا مجھے مکمل طور پر بے سہارا اور بے کنار کر دے۔ یہ وصل یا مکمل جدائی کی خواہش ہو سکتی ہے۔",
+        "difficultWords": [
+          {
+            "term": "محیطِ بےکراں",
+            "meaningUrdu": "بے انتہا سمندر، جس کا کوئی کنارہ نہ ہو"
+          },
+          {
+            "term": "آبُجو",
+            "meaningUrdu": "چھوٹی ندی، نہر"
+          },
+          {
+            "term": "ہمکنار کر",
+            "meaningUrdu": "گلے لگا، اپنے ساتھ ملا لے"
+          },
+          {
+            "term": "بے کنار کر",
+            "meaningUrdu": "بے سہارا کر دے، کنارہ چھڑا دے"
+          }
+        ],
+        "englishTranslation": "You are the boundless ocean, I am a small stream; either make me one with you, or make me utterly shoreless."
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر اپنی حیثیت کو بیان کرتے ہوئے کہتا ہے کہ اگر میں سیپ ہوں تو میرے موتی کی قدر و قیمت تیرے ہاتھ میں ہے۔ اور اگر میں ایک ٹوٹا ہوا ٹھیکرا ہوں تو تو مجھے شاہی موتی بنا دے۔ اس میں شاعر اپنی ذات کو اللہ کی قدرت اور کرم پر چھوڑتا ہے اور اپنی قدر و منزلت کو اللہ کی عطا کا محتاج قرار دیتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "صدَف",
+            "meaningUrdu": "سیپ"
+          },
+          {
+            "term": "گُہر",
+            "meaningUrdu": "موتی"
+          },
+          {
+            "term": "آبرو",
+            "meaningUrdu": "عزت، قدر"
+          },
+          {
+            "term": "خزَف",
+            "meaningUrdu": "ٹھیکرا، مٹی کا ٹوٹا ہوا برتن"
+          },
+          {
+            "term": "گوہرِ شاہوار",
+            "meaningUrdu": "شاہی موتی، قیمتی موتی"
+          }
+        ],
+        "englishTranslation": "If I am a shell, the honor of my pearl is in your hands; if I am a potsherd, then make me a royal gem."
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر کہتا ہے کہ اگر میرے مقدر میں نئی بہار کا نغمہ (یعنی خوشی اور شادمانی) نہیں ہے، تو کم از کم میری اس نیم جلی ہوئی سانس (یعنی میری اداس اور بے جان حالت) کو بہار کے پرندے کی طرح چہکنے والا بنا دے۔ یہ مایوسی کے عالم میں بھی امید اور زندگی کی خواہش کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "نغمۂ نَو بہار",
+            "meaningUrdu": "نئی بہار کا گیت"
+          },
+          {
+            "term": "نصیب",
+            "meaningUrdu": "قسمت، مقدر"
+          },
+          {
+            "term": "دمِ نیم سوز",
+            "meaningUrdu": "آدھی جلی ہوئی سانس، بے جان سانس"
+          },
+          {
+            "term": "طائرکِ بہار",
+            "meaningUrdu": "بہار کا چھوٹا پرندہ"
+          }
+        ],
+        "englishTranslation": "If the song of new spring is not in my destiny, then make this half-burnt breath a bird of spring."
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر اللہ تعالیٰ سے مخاطب ہو کر کہتا ہے کہ مجھے جنت کے باغ سے دنیا میں کیوں بھیجا گیا؟ دنیا کا کام ابھی بہت لمبا ہے، اس لیے اب تو میرا انتظار کر (یعنی مجھے دنیا میں مزید مہلت دے تاکہ میں اپنے کام مکمل کر سکوں)۔ یہ دنیا میں انسان کے مقصد اور اس کی جدوجہد کی طرف اشارہ ہے۔",
+        "difficultWords": [
+          {
+            "term": "باغِ بہشت",
+            "meaningUrdu": "جنت کا باغ"
+          },
+          {
+            "term": "حکمِ سفر",
+            "meaningUrdu": "سفر کا حکم"
+          },
+          {
+            "term": "کارِ جہاں",
+            "meaningUrdu": "دنیا کا کام"
+          },
+          {
+            "term": "دراز",
+            "meaningUrdu": "لمبا"
+          }
+        ],
+        "englishTranslation": "Why did you command me to journey from the garden of paradise? The work of the world is long; now, await me."
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر روزِ قیامت کے بارے میں بات کرتا ہے اور کہتا ہے کہ جب میرا اعمال نامہ پیش ہو تو اے اللہ، تو بھی شرمسار ہو اور مجھے بھی شرمسار کر۔ اس میں ایک گہرا فلسفہ پوشیدہ ہے کہ اگر اللہ تعالیٰ اپنے بندے کے اعمال پر شرمسار ہو تو یہ اس کی رحمت اور بندے کی کمزوری کا اعتراف ہو سکتا ہے، اور بندے کی شرمساری اس کے گناہوں کا اقرار ہے۔ یہ اللہ کی رحمت اور بندے کی عاجزی کا ایک منفرد انداز ہے۔",
+        "difficultWords": [
+          {
+            "term": "روزِ حساب",
+            "meaningUrdu": "قیامت کا دن، حساب کا دن"
+          },
+          {
+            "term": "پیش ہو",
+            "meaningUrdu": "سامنے آئے"
+          },
+          {
+            "term": "دفترِ عمل",
+            "meaningUrdu": "اعمال نامہ"
+          },
+          {
+            "term": "شرمسار ہو",
+            "meaningUrdu": "شرمندہ ہو"
+          }
+        ],
+        "englishTranslation": "On the Day of Judgment, when my record of deeds is presented, be ashamed yourself, and make me ashamed too."
+      }
+    ],
+    "reflectionQuestion": "In what ways does the poem explore the relationship between the human self and the divine, and what does it suggest about the nature of human aspiration and divine will?",
+    "takeaway": "The poem reflects a profound spiritual yearning for connection with the divine, expressing both humility and a bold demand for transformation and purpose in the face of existential questions.",
+    "themes": [
+      "Divine Love and Beauty",
+      "Human Aspiration and Limitations",
+      "The Search for Self and God",
+      "Transformation and Spiritual Growth",
+      "Accountability and Divine Mercy"
+    ],
+    "historicalContextUrdu": "اس نظم کے تاریخی پس منظر کے بارے میں تصدیق شدہ معلومات فراہم کرنے کے لیے ایک مستند ماخذ درکار ہے۔ فراہم کردہ ماخذی میٹا ڈیٹا میں اس نظم کے مخصوص تاریخی سیاق و سباق کا ذکر نہیں ہے۔",
+    "editorialWarnings": [
+      "The interpretation of \"گیسوئے تاب‌دار\" as the beloved (محبوب) is a common poetic convention but not explicitly stated in the text.",
+      "The interpretation of \"یا مجھے ہمکنار کر یا مجھے بے کنار کر\" as a desire for either complete union (fana) or complete detachment is a possible reading, but other interpretations might exist.",
+      "The philosophical interpretation of \"آپ بھی شرمسار ہو، مجھ کو بھی شرمسار کر\" is complex and open to multiple readings, particularly regarding the divine being \"sharmsaar.\" The provided explanation offers one possible understanding of divine mercy and human humility."
+    ],
+    "historicalContext": {
+      "period": "1935 (publication of Bal-e-Jibril)",
+      "place": "Lahore, British India (publication place of Bal-e-Jibril)",
+      "summaryUrdu": "اس نظم کے تاریخی پس منظر کے بارے میں تصدیق شدہ معلومات فراہم کرنے کے لیے ایک مستند ماخذ درکار ہے۔ فراہم کردہ ماخذی میٹا ڈیٹا میں اس نظم کے مخصوص تاریخی سیاق و سباق کا ذکر نہیں ہے۔",
+      "summaryEnglish": "An authentic source is required to provide verified information about the historical background of this poem. The provided source metadata does not mention the specific historical context of this poem.",
+      "confidence": "likely",
+      "sourceNote": "This context refers to the publication of the collection Bal-e-Jibril, not the specific writing date or place of this poem.",
+      "legacyUrduNote": "اس نظم کے تاریخی پس منظر کے بارے میں تصدیق شدہ معلومات فراہم کرنے کے لیے ایک مستند ماخذ درکار ہے۔ فراہم کردہ ماخذی میٹا ڈیٹا میں اس نظم کے مخصوص تاریخی سیاق و سباق کا ذکر نہیں ہے۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:52:58.294Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 1387,
+      "cachedInputTokens": 0,
+      "outputTokens": 533,
+      "thinkingTokens": 1094,
+      "totalTokens": 3014
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.0004161,
+      "uncachedInputUsd": 0.0004161,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.0040675,
+      "totalUsd": 0.0044836,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}

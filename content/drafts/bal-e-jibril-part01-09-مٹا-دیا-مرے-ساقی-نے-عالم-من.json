@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-09-مٹا-دیا-مرے-ساقی-نے-عالم-من",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:45:57.417Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 863,
+    "cachedInputTokens": 0,
+    "outputTokens": 1422,
+    "thinkingTokens": 0,
+    "totalTokens": 2285
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.00021575,
+    "uncachedInputUsd": 0.00021575,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.0021330000000000003,
+    "totalUsd": 0.00234875,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-09-مٹا-دیا-مرے-ساقی-نے-عالم-من",
+    "title": "مٹا دیا مرے ساقی نے عالم من و تو",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/09.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/09.htm",
+    "sequence": 9,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "مٹا دیا مرے ساقی نے عالم من و تو",
+          "پلا کے مجھ کو مے لا الہ الا ھو '"
+        ]
+      },
+      {
+        "lines": [
+          "نہ مے،نہ شعر، نہ ساقی، نہ شور چنگ و رباب",
+          "سکوت کوہ و لب جوے و لالہ خود رو!"
+        ]
+      },
+      {
+        "lines": [
+          "گدائے مے کدہ کی شان بے نیازی دیکھ",
+          "پہنچ کے چشمہ حیواں پہ توڑتا ہے سبو!"
+        ]
+      },
+      {
+        "lines": [
+          "مرا سبوچہ غنیمت ہے اس زمانے میں",
+          "کہ خانقاہ میں خالی ہیں صوفیوں کے کدو"
+        ]
+      },
+      {
+        "lines": [
+          "میں نو نیاز ہوں، مجھ سے حجاب ہی اولی",
+          "کہ دل سے بڑھ کے ہے میری نگاہ بے قابو"
+        ]
+      },
+      {
+        "lines": [
+          "اگرچہ بحر کی موجوں میں ہے مقام اس کا",
+          "صفائے پاکی طینت سے ہے گہر کا وضو"
+        ]
+      },
+      {
+        "lines": [
+          "جمیل تر ہیں گل و لالہ فیض سے اس کے",
+          "نگاہ شاعر رنگیں نوا میں ہے جادو"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر کہتا ہے کہ ساقی نے مجھے توحید کا جام پلا کر میرے اندر سے خودی اور غیر کی تمیز ختم کر دی ہے۔ یہ کیفیت فنا فی اللہ کی طرف اشارہ ہو سکتی ہے۔",
+        "englishTranslation": "My Saqi has erased the world of 'I' and 'You', by making me drink the wine of 'There is no god but He'.",
+        "difficultWords": [
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا"
+          },
+          {
+            "term": "عالم من و تو",
+            "meaningUrdu": "میں اور تم کی دنیا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "یہاں مادی لذتوں اور موسیقی سے دوری کا ذکر ہے۔ شاعر فطرت کے خاموش مناظر میں سکون تلاش کر رہا ہے۔",
+        "englishTranslation": "Neither wine, nor poetry, nor Saqi, nor the noise of the harp and lute; only the silence of the mountain, the riverbank, and the wild poppy.",
+        "difficultWords": [
+          {
+            "term": "چنگ و رباب",
+            "meaningUrdu": "موسیقی کے ساز"
+          },
+          {
+            "term": "لب جوے",
+            "meaningUrdu": "ندی کا کنارہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "ایک سچے طالب کی بے نیازی کا ذکر ہے کہ وہ ابدی زندگی کے چشمے تک پہنچ کر بھی دنیاوی برتن کی پرواہ نہیں کرتا۔",
+        "englishTranslation": "Behold the indifference of the beggar of the tavern; upon reaching the fountain of life, he breaks his pitcher.",
+        "difficultWords": [
+          {
+            "term": "گدائے مے کدہ",
+            "meaningUrdu": "شراب خانے کا فقیر"
+          },
+          {
+            "term": "سبو",
+            "meaningUrdu": "مٹی کا برتن"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر اپنے ظرف کو اس دور میں غنیمت سمجھتا ہے کیونکہ روحانیت کے مراکز اب خالی دکھائی دیتے ہیں۔",
+        "englishTranslation": "My small pitcher is a treasure in this age, for the gourds of the Sufis in the monastery are empty.",
+        "difficultWords": [
+          {
+            "term": "سبوچہ",
+            "meaningUrdu": "چھوٹا برتن"
+          },
+          {
+            "term": "کدو",
+            "meaningUrdu": "پیالہ یا برتن"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر اپنی نئی عقیدت اور شرمندگی کا اظہار کر رہا ہے کہ اس کی نظر ابھی قابو میں نہیں ہے۔",
+        "englishTranslation": "I am a new seeker, for me, modesty is better, as my gaze is more uncontrollable than my heart.",
+        "difficultWords": [
+          {
+            "term": "نو نیاز",
+            "meaningUrdu": "نیا عقیدت مند"
+          },
+          {
+            "term": "حجاب",
+            "meaningUrdu": "پردہ یا شرم"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "موتی کی پاکیزگی اور اس کے مقام کی بلندی کو فطری طہارت سے جوڑا گیا ہے۔",
+        "englishTranslation": "Although its place is in the waves of the sea, the pearl performs its ablution through the purity of its nature.",
+        "difficultWords": [
+          {
+            "term": "بحر",
+            "meaningUrdu": "سمندر"
+          },
+          {
+            "term": "طینت",
+            "meaningUrdu": "فطرت"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر کی نگاہ اور اس کے کلام کے اثر کو جادوئی قرار دیا گیا ہے جو کائنات کی خوبصورتی کو بڑھا دیتا ہے۔",
+        "englishTranslation": "Flowers and poppies are more beautiful due to its grace; there is magic in the gaze of the colorful poet.",
+        "difficultWords": [
+          {
+            "term": "جمیل تر",
+            "meaningUrdu": "زیادہ خوبصورت"
+          },
+          {
+            "term": "رنگیں نوا",
+            "meaningUrdu": "خوش الحان"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet contrast the 'emptiness' of the monastery with the 'fullness' of his own spiritual state?",
+    "takeaway": "The poem explores the transition from worldly identity to spiritual realization, emphasizing inner purity over external rituals.",
+    "themes": [
+      "Tasawwuf",
+      "Self-realization",
+      "Nature",
+      "Spiritual indifference"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم بالِ جبریل کے حصہ اول میں شامل ہے۔ بالِ جبریل علامہ اقبال کا اردو شعری مجموعہ ہے جو 1935 میں شائع ہوا۔",
+      "summaryEnglish": "This poem is part of the first section of Bal-e-Jibril, which is a collection of Urdu poetry by Allama Iqbal published in 1935.",
+      "confidence": "likely",
+      "sourceNote": "Context is derived from the collection-level metadata provided."
+    },
+    "editorialWarnings": [
+      "The interpretation of 'Saqi' and 'wine' as purely spiritual symbols is a common literary convention but remains an interpretation.",
+      "The specific intent behind the 'empty gourds of the Sufis' is open to multiple readings regarding the state of contemporary religious institutions."
+    ]
+  }
+}

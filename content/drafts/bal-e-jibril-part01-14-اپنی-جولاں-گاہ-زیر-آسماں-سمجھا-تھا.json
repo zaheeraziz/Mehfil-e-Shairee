@@ -1,0 +1,223 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-14-اپنی-جولاں-گاہ-زیر-آسماں-سمجھا-تھا",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:48:42.523Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 838,
+    "cachedInputTokens": 0,
+    "outputTokens": 1407,
+    "thinkingTokens": 0,
+    "totalTokens": 2245
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.0002095,
+    "uncachedInputUsd": 0.0002095,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.0021105,
+    "totalUsd": 0.00232,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-14-اپنی-جولاں-گاہ-زیر-آسماں-سمجھا-تھا",
+    "title": "اپنی جولاں گاہ زیر آسماں سمجھا تھا میں",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/14.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/14.htm",
+    "sequence": 14,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "اپنی جولاں گاہ زیر آسماں سمجھا تھا میں",
+          "آب و گل کے کھیل کو اپنا جہاں سمجھا تھا میں"
+        ]
+      },
+      {
+        "lines": [
+          "بے حجابی سے تری ٹوٹا نگاہوں کا طلسم",
+          "اک ردائے نیلگوں کو آسماں سمجھا تھا میں"
+        ]
+      },
+      {
+        "lines": [
+          "کارواں تھک کر فضا کے پیچ و خم میں رہ گیا",
+          "مہروماہ و مشتری کو ہم عناں سمجھا تھا میں"
+        ]
+      },
+      {
+        "lines": [
+          "عشق کی اک جست نے طے کر دیا قصہ تمام",
+          "اس زمین و آسماں کو بے کراں سمجھا تھا میں"
+        ]
+      },
+      {
+        "lines": [
+          "کہہ گئیں راز محبت پردہ دار یہاے شوق",
+          "تھی فغاں وہ بھی جسے ضبط فغاں سمجھا تھا میں"
+        ]
+      },
+      {
+        "lines": [
+          "تھی کسی درماندہ رہرو کی صداے درد ناک",
+          "جس کو آواز رحیل کارواں سمجھا تھا میں"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر یہاں اپنی محدود سوچ کا ذکر کر رہا ہے کہ پہلے وہ سمجھتا تھا کہ یہ دنیا اور آسمان ہی سب کچھ ہے اور مادی زندگی ہی اصل حقیقت ہے۔",
+        "englishTranslation": "I had considered the space beneath the sky as my arena; I had considered this game of water and clay as my world.",
+        "difficultWords": [
+          {
+            "term": "جولاں گاہ",
+            "meaningUrdu": "دوڑنے کی جگہ، میدانِ عمل"
+          },
+          {
+            "term": "آب و گل",
+            "meaningUrdu": "مٹی اور پانی، مادی دنیا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "یہاں حقیقت کے انکشاف کی بات ہے کہ جب حقیقت سامنے آئی تو وہم کا پردہ ہٹ گیا اور معلوم ہوا کہ جسے آسمان سمجھا تھا وہ محض ایک ظاہری پردہ تھا۔",
+        "englishTranslation": "With your unveiling, the spell of my eyes was broken; I had considered a blue veil to be the sky.",
+        "difficultWords": [
+          {
+            "term": "بے حجابی",
+            "meaningUrdu": "پردہ اٹھنا، ظاہر ہونا"
+          },
+          {
+            "term": "طلسم",
+            "meaningUrdu": "جادو، فریبِ نظر"
+          },
+          {
+            "term": "ردائے نیلگوں",
+            "meaningUrdu": "نیلے رنگ کی چادر"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اپنی سابقہ غلط فہمی کا اظہار کر رہا ہے کہ وہ کائنات کے ستاروں اور سیاروں کو اپنی منزل کا ساتھی سمجھتا تھا مگر حقیقت میں وہ سب الگ الگ ہیں۔",
+        "englishTranslation": "The caravan grew tired and remained in the twists and turns of space; I had considered the sun, moon, and Jupiter to be my companions.",
+        "difficultWords": [
+          {
+            "term": "پیچ و خم",
+            "meaningUrdu": "بل کھاتے راستے"
+          },
+          {
+            "term": "ہم عناں",
+            "meaningUrdu": "ساتھ چلنے والا، ہم سفر"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "عشق کی طاقت سے شاعر کو یہ ادراک ہوا کہ کائنات کی وسعتیں محدود ہیں اور وہ جسے لامتناہی سمجھتا تھا وہ عشق کی ایک جست میں طے ہو گیا۔",
+        "englishTranslation": "A single leap of love finished the story; I had considered this earth and sky to be boundless.",
+        "difficultWords": [
+          {
+            "term": "جست",
+            "meaningUrdu": "چھلانگ"
+          },
+          {
+            "term": "بے کراں",
+            "meaningUrdu": "جس کا کوئی کنارہ نہ ہو"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "یہاں شاعر اپنی کیفیت کا ذکر کر رہا ہے کہ جسے وہ ضبطِ فغاں یعنی خاموشی سمجھ رہا تھا، وہ دراصل اندر چھپی ہوئی فریاد تھی۔",
+        "englishTranslation": "The veil-holders of longing revealed the secret of love; that which I had considered the suppression of lament was itself a lament.",
+        "difficultWords": [
+          {
+            "term": "پردہ دار",
+            "meaningUrdu": "راز چھپانے والے"
+          },
+          {
+            "term": "فغاں",
+            "meaningUrdu": "فریاد، آہ و زاری"
+          },
+          {
+            "term": "ضبط فغاں",
+            "meaningUrdu": "فریاد کو روکنا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر اپنی غلط فہمی بیان کرتا ہے کہ وہ کسی کی درد بھری آواز کو قافلے کے کوچ کا اعلان سمجھ بیٹھا تھا۔",
+        "englishTranslation": "It was the painful voice of some weary traveler; which I had considered the sound of the caravan's departure.",
+        "difficultWords": [
+          {
+            "term": "درماندہ",
+            "meaningUrdu": "تھکا ہوا، عاجز"
+          },
+          {
+            "term": "رہرو",
+            "meaningUrdu": "راہی، مسافر"
+          },
+          {
+            "term": "رحیل",
+            "meaningUrdu": "کوچ، روانگی"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet's shift in perspective regarding the 'sky' and 'caravan' reflect a change in his understanding of reality?",
+    "takeaway": "The poem explores the transition from a material, limited worldview to a spiritual realization where the boundaries of the physical world are transcended through love.",
+    "themes": [
+      "Spiritual awakening",
+      "Limitations of human perception",
+      "The transformative power of love",
+      "Illusion vs. Reality"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم علامہ اقبال کی کتاب 'بالِ جبریل' کے پہلے حصے میں شامل ہے۔",
+      "summaryEnglish": "This poem is included in the first part of Allama Iqbal's collection 'Bal-e-Jibril'.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection title provided in the source metadata."
+    },
+    "editorialWarnings": [
+      "The explanation provided is a subjective interpretation of the poet's philosophical journey and should not be treated as the only valid reading.",
+      "The historical context is limited to the publication of the collection; specific dates or locations of composition are not provided in the source."
+    ]
+  }
+}

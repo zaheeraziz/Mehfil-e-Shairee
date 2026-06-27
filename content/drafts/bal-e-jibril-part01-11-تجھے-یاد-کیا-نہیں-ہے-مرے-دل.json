@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-11-تجھے-یاد-کیا-نہیں-ہے-مرے-دل",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:47:06.394Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 856,
+    "cachedInputTokens": 0,
+    "outputTokens": 1560,
+    "thinkingTokens": 0,
+    "totalTokens": 2416
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.000214,
+    "uncachedInputUsd": 0.000214,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.00234,
+    "totalUsd": 0.002554,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-11-تجھے-یاد-کیا-نہیں-ہے-مرے-دل",
+    "title": "تجھے یاد کیا نہیں ہے مرے دل کا وہ زمانہ",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/11.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/11.htm",
+    "sequence": 11,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "تجھے یاد کیا نہیں ہے مرے دل کا وہ زمانہ",
+          "وہ ادب گہ محبت، وہ نگہ کا تازیانہ"
+        ]
+      },
+      {
+        "lines": [
+          "یہ بتان عصر حاضر کہ بنے ہیں مدرسے میں",
+          "نہ ادائے کافرانہ، نہ تراش آزرانہ"
+        ]
+      },
+      {
+        "lines": [
+          "نہیں اس کھلی فضا میں کوئی گوشہء فراغت",
+          "یہ جہاں عجب جہاں ہے، نہ قفس نہ آشیانہ"
+        ]
+      },
+      {
+        "lines": [
+          "رگ تاک منتظر ہے تری بارش کرم کی",
+          "کہ عجم کے مے کدوں میں نہ رہی مے مغانہ"
+        ]
+      },
+      {
+        "lines": [
+          "مرے ہم صفیر اسے بھی اثر بہار سمجھے",
+          "انھیں کیا خبر کہ کیا ہے یہ نوائے عاشقانہ"
+        ]
+      },
+      {
+        "lines": [
+          "مرے خاک و خوں سے تونے یہ جہاں کیا ہے پیدا",
+          "صلہ شہید کیا ہے، تب و تاب جاودانہ"
+        ]
+      },
+      {
+        "lines": [
+          "تری بندہ پروری سے مرے دن گزر رہے ہیں",
+          "نہ گلہ ہے دوستوں کا، نہ شکایت زمانہ"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر اپنے دل سے مخاطب ہو کر اس دور کو یاد کر رہے ہیں جب محبت کا احترام اور نگاہوں کی تاثیر کا ایک خاص مقام تھا۔ یہ اشارہ ہو سکتا ہے کہ ماضی میں روحانی اور جذباتی تعلقات زیادہ گہرے اور باادب تھے۔",
+        "englishTranslation": "Do you not remember that time of my heart, that sanctuary of love, that lash of the gaze?",
+        "difficultWords": [
+          {
+            "term": "ادب گہ",
+            "meaningUrdu": "ادب کی جگہ"
+          },
+          {
+            "term": "تازیانہ",
+            "meaningUrdu": "کوڑا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "یہاں موجودہ دور کے لوگوں پر تنقید کی گئی ہے کہ وہ جدید تعلیمی اداروں سے تو نکلے ہیں لیکن ان میں نہ تو پرانی کافرانہ اداؤں کی کشش ہے اور نہ ہی بت تراشی جیسا فنکارانہ کمال۔",
+        "englishTranslation": "These idols of the present age, who have been made in schools, possess neither the infidel-like charm nor the idol-carving craftsmanship.",
+        "difficultWords": [
+          {
+            "term": "بتان عصر حاضر",
+            "meaningUrdu": "موجودہ دور کے لوگ"
+          },
+          {
+            "term": "تراش آزرانہ",
+            "meaningUrdu": "آزر کی طرح بت تراشنے کا انداز"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اس دنیا کی کیفیت بیان کر رہے ہیں جہاں سکون کا کوئی گوشہ نہیں ملتا۔ یہ دنیا ایسی ہے کہ نہ تو یہ مکمل قید خانہ ہے اور نہ ہی پرسکون آشیانہ۔",
+        "englishTranslation": "There is no corner of leisure in this open space; this world is a strange world, neither a cage nor a nest.",
+        "difficultWords": [
+          {
+            "term": "گوشہء فراغت",
+            "meaningUrdu": "فارغ وقت کا کونا"
+          },
+          {
+            "term": "قفس",
+            "meaningUrdu": "پنجرہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "یہاں عجم کے مے کدوں کی ویرانی کا ذکر ہے، جس کا مطلب روحانی فیض کا ختم ہونا ہو سکتا ہے۔ شاعر کسی کرم کی بارش کے منتظر ہیں تاکہ دوبارہ وہ پرانی کیفیت پیدا ہو سکے۔",
+        "englishTranslation": "The vein of the vine is waiting for your rain of grace, for in the taverns of Ajam, there remains no wine of the Magi.",
+        "difficultWords": [
+          {
+            "term": "رگ تاک",
+            "meaningUrdu": "انگور کی بیل کی رگ"
+          },
+          {
+            "term": "مے مغانہ",
+            "meaningUrdu": "مغوں کی شراب"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر اپنی شاعری کو بہار کا اثر سمجھنے والوں سے مخاطب ہیں اور کہتے ہیں کہ وہ اس کے پیچھے چھپے عاشقانہ درد اور حقیقت سے ناواقف ہیں۔",
+        "englishTranslation": "My fellow-singer considers this too an effect of spring; what do they know what this lover's melody is?",
+        "difficultWords": [
+          {
+            "term": "ہم صفیر",
+            "meaningUrdu": "ساتھی پرندہ"
+          },
+          {
+            "term": "نوائے عاشقانہ",
+            "meaningUrdu": "عاشق کی آواز"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "یہاں شہادت کے صلے اور قربانی کی اہمیت بیان کی گئی ہے۔ شاعر کا ماننا ہے کہ خون اور خاک سے جو دنیا بنتی ہے، اس کا اصل انعام ابدی تابندگی ہے۔",
+        "englishTranslation": "From my dust and blood you have created this world; what is the reward of the martyr? Eternal brilliance.",
+        "difficultWords": [
+          {
+            "term": "خاک و خوں",
+            "meaningUrdu": "مٹی اور خون"
+          },
+          {
+            "term": "تب و تاب جاودانہ",
+            "meaningUrdu": "ہمیشہ رہنے والی چمک"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر خدا کی بندہ پروری کا شکر ادا کر رہے ہیں کہ اب انہیں نہ تو دوستوں سے کوئی گلہ ہے اور نہ ہی زمانے کی کوئی شکایت باقی رہی ہے۔",
+        "englishTranslation": "Through your grace towards your servant, my days are passing; I have no complaint against friends, nor any grievance against the age.",
+        "difficultWords": [
+          {
+            "term": "بندہ پروری",
+            "meaningUrdu": "غلاموں پر مہربانی"
+          },
+          {
+            "term": "گلہ",
+            "meaningUrdu": "شکوہ"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet contrast the 'idols of the present age' with the 'martyr's eternal brilliance'?",
+    "takeaway": "The poem reflects on the loss of traditional spiritual depth in modern times and emphasizes that true value is found in sacrifice and divine grace rather than worldly structures.",
+    "themes": [
+      "Nostalgia",
+      "Spiritual decay",
+      "Sacrifice",
+      "Divine grace",
+      "Critique of modernity"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم اقبال کے مجموعہ کلام 'بالِ جبریل' کے پہلے حصے میں شامل ہے۔",
+      "summaryEnglish": "This poem is included in the first part of Iqbal's collection 'Bal-e-Jibril'.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection title provided in the metadata."
+    },
+    "editorialWarnings": [
+      "The explanation of 'wine of the Magi' (مے مغانہ) as spiritual grace is a common literary interpretation but remains subjective.",
+      "The identification of 'idols of the present age' as a critique of modern education is an interpretation and not explicitly stated in the text.",
+      "The historical context is limited to the publication of the collection and does not specify the exact date or location of the poem's composition."
+    ]
+  }
+}

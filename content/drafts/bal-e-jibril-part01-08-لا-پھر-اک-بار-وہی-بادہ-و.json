@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-08-لا-پھر-اک-بار-وہی-بادہ-و",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:45:42.851Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 844,
+    "cachedInputTokens": 0,
+    "outputTokens": 1492,
+    "thinkingTokens": 0,
+    "totalTokens": 2336
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.000211,
+    "uncachedInputUsd": 0.000211,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.002238,
+    "totalUsd": 0.002449,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-08-لا-پھر-اک-بار-وہی-بادہ-و",
+    "title": "لا پھر اک بار وہی بادہ و جام اے ساقی",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/08.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/08.htm",
+    "sequence": 8,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "لا پھر اک بار وہی بادہ و جام اے ساقی",
+          "ہاتھ آ جائے مجھے میرا مقام اے ساقی!"
+        ]
+      },
+      {
+        "lines": [
+          "تین سو سال سے ہیں ہند کے میخانے بند",
+          "اب مناسب ہے ترا فیض ہو عام اے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "مری مینائے غزل میں تھی ذرا سی باقی",
+          "شیخ کہتا ہے کہ ہے یہ بھی حرام اے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "شیر مردوں سے ہوا بیشہء تحقیق تہی",
+          "رہ گئے صوفی و ملا کے غلام اے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "عشق کی تیغ جگردار اڑا لی کس نے",
+          "علم کے ہاتھ میں خالی ہے نیام اے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "سینہ روشن ہو تو ہے سوز سخن عین حیات",
+          "ہو نہ روشن، تو سخن مرگ دوام اے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "تو مری رات کو مہتاب سے محروم نہ رکھ",
+          "ترے پیمانے میں ہے ماہ تمام اے ساقی!"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر ساقی سے مخاطب ہو کر ایک بار پھر روحانی فیض اور معرفت کی طلب کر رہا ہے تاکہ اسے اپنا کھویا ہوا مقام دوبارہ حاصل ہو سکے۔",
+        "englishTranslation": "Bring once again that same wine and cup, O Saqi, so that I may regain my true station, O Saqi!",
+        "difficultWords": [
+          {
+            "term": "بادہ",
+            "meaningUrdu": "شراب"
+          },
+          {
+            "term": "جام",
+            "meaningUrdu": "پیالہ"
+          },
+          {
+            "term": "مقام",
+            "meaningUrdu": "مرتبہ یا درجہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "یہاں تین سو سال کا ذکر برصغیر میں روحانی جمود کی طرف اشارہ ہو سکتا ہے، جہاں شاعر فیض عام کا مطالبہ کر رہا ہے۔",
+        "englishTranslation": "The taverns of India have been closed for three hundred years; now it is appropriate that your bounty becomes universal, O Saqi.",
+        "difficultWords": [
+          {
+            "term": "میخانے",
+            "meaningUrdu": "شراب خانے"
+          },
+          {
+            "term": "فیض",
+            "meaningUrdu": "بخشیش یا فائدہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اپنی شاعری کو ایک روحانی کیفیت سے تعبیر کر رہا ہے جبکہ مذہبی طبقہ اسے ممنوع قرار دے رہا ہے۔",
+        "englishTranslation": "There was a little left in my flask of ghazal; the Sheikh says that even this is forbidden, O Saqi.",
+        "difficultWords": [
+          {
+            "term": "مینائے غزل",
+            "meaningUrdu": "غزل کی بوتل"
+          },
+          {
+            "term": "حرام",
+            "meaningUrdu": "ممنوع"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر معاشرے میں جرات مندانہ تحقیق اور فکر کی کمی پر افسوس کا اظہار کر رہا ہے اور صوفی و ملا کی تقلید کو تنقید کا نشانہ بنا رہا ہے۔",
+        "englishTranslation": "The forest of research has become empty of lion-hearted men; only the slaves of the Sufi and the Mullah remain, O Saqi.",
+        "difficultWords": [
+          {
+            "term": "شیر مردوں",
+            "meaningUrdu": "بہادر لوگ"
+          },
+          {
+            "term": "بیشہء تحقیق",
+            "meaningUrdu": "تحقیق کا جنگل"
+          },
+          {
+            "term": "تہی",
+            "meaningUrdu": "خالی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "یہاں علم اور عشق کے توازن کی بات کی گئی ہے، جہاں عشق کے بغیر علم صرف ایک بے اثر خول کی طرح ہے۔",
+        "englishTranslation": "Who has stolen the heart-piercing sword of love? The scabbard is empty in the hand of knowledge, O Saqi.",
+        "difficultWords": [
+          {
+            "term": "تیغ جگردار",
+            "meaningUrdu": "جگر کو چیرنے والی تلوار"
+          },
+          {
+            "term": "نیام",
+            "meaningUrdu": "تلوار کا غلاف"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر کا کہنا ہے کہ کلام میں تاثیر تبھی پیدا ہوتی ہے جب دل روشن ہو، ورنہ شاعری محض بے جان الفاظ کا مجموعہ ہے۔",
+        "englishTranslation": "If the heart is illuminated, then the passion of speech is life itself; if it is not illuminated, then speech is eternal death, O Saqi.",
+        "difficultWords": [
+          {
+            "term": "سوز سخن",
+            "meaningUrdu": "شاعری کا درد یا تاثیر"
+          },
+          {
+            "term": "مرگ دوام",
+            "meaningUrdu": "ہمیشہ کی موت"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر اپنی تاریک زندگی میں روحانی روشنی اور معرفت کی طلب کر رہا ہے تاکہ وہ مکمل ہو سکے۔",
+        "englishTranslation": "Do not keep my night deprived of moonlight; in your cup is the full moon, O Saqi!",
+        "difficultWords": [
+          {
+            "term": "مہتاب",
+            "meaningUrdu": "چاند کی روشنی"
+          },
+          {
+            "term": "ماہ تمام",
+            "meaningUrdu": "پورا چاند"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet contrast the 'lion-hearted men' of research with the 'slaves of the Sufi and Mullah' in the context of intellectual freedom?",
+    "takeaway": "The poem emphasizes the necessity of spiritual passion (Ishq) to animate knowledge and intellectual inquiry, suggesting that without this inner light, both speech and scholarship become stagnant.",
+    "themes": [
+      "Spiritual awakening",
+      "Intellectual decline",
+      "The role of passion in knowledge",
+      "Critique of traditionalism"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم علامہ اقبال کے مجموعہ کلام 'بالِ جبریل' کے پہلے حصے میں شامل ہے۔",
+      "summaryEnglish": "This poem is part of the first section of Allama Iqbal's collection 'Bal-e-Jibril'.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection title provided in the metadata."
+    },
+    "editorialWarnings": [
+      "The interpretation of 'three hundred years' as a specific historical reference is speculative.",
+      "The identification of 'Sufi and Mullah' as specific social classes is an interpretive reading of the text.",
+      "The poem uses metaphorical language (Saqi, wine, tavern) which is subject to multiple literary and mystical interpretations."
+    ]
+  }
+}

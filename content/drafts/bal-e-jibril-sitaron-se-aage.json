@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-sitaron-se-aage",
+  "status": "draft",
+  "review": {
+    "status": "needs_revision",
+    "reviewedAt": "2026-06-19",
+    "findings": [
+      "The gloss for مقاماتِ آہ و فغاں mixes lexical meaning with a speculative interpretation.",
+      "Several difficult-word meanings use مراد and belong in the explanation instead.",
+      "The historical context includes broad claims that are not supported by the supplied source metadata."
+    ]
+  },
+  "generatedAt": "2026-06-20T02:28:37.162Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-sitaron-se-aage",
+    "collection": "بالِ جبریل · غزل ۶۱",
+    "title": "ستاروں سے آگے جہاں اور بھی ہیں",
+    "transliteration": "Sitaron se aage jahan aur bhi hain",
+    "sourceUrl": "https://www.rekhta.org/ghazals/sitaaron-se-aage-jahaan-aur-bhii-hain-allama-iqbal-ghazals-1",
+    "sourceChecked": true,
+    "verses": [
+      {
+        "lines": [
+          "ستاروں سے آگے جہاں اور بھی ہیں",
+          "ابھی عشق کے امتحاں اور بھی ہیں"
+        ]
+      },
+      {
+        "lines": [
+          "تہی، زندگی سے نہیں یہ فضائیں",
+          "یہاں سینکڑوں کارواں اور بھی ہیں"
+        ]
+      },
+      {
+        "lines": [
+          "قناعت نہ کر عالمِ رنگ و بُو پر",
+          "چمن اور بھی آشیاں اور بھی ہیں"
+        ]
+      },
+      {
+        "lines": [
+          "اگر کھو گیا اک نشیمن تو کیا غم",
+          "مقاماتِ آہ و فغاں اور بھی ہیں"
+        ]
+      },
+      {
+        "lines": [
+          "تو شاہیں ہے، پرواز ہے کام تیرا",
+          "ترے سامنے آسماں اور بھی ہیں"
+        ]
+      },
+      {
+        "lines": [
+          "اسی روز و شب میں اُلجھ کر نہ رہ جا",
+          "کہ تیرے زمان و مکاں اور بھی ہیں"
+        ]
+      },
+      {
+        "lines": [
+          "گئے دن کہ تنہا تھا مَیں انجمن میں",
+          "یہاں اب مِرے رازداں اور بھی ہیں"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "یہ شعر انسان کو ترغیب دیتا ہے کہ وہ موجودہ کامیابیوں پر اکتفا نہ کرے بلکہ مزید آگے بڑھنے کی کوشش کرے۔ یہ بتاتا ہے کہ کائنات وسیع ہے اور عشق یعنی جدوجہد اور جستجو کے مزید مراحل باقی ہیں۔",
+        "difficultWords": [
+          {
+            "term": "ستاروں سے آگے",
+            "meaningUrdu": "موجودہ حدود سے پرے، مزید آگے"
+          },
+          {
+            "term": "جہاں",
+            "meaningUrdu": "دنیا، کائنات"
+          },
+          {
+            "term": "عشق",
+            "meaningUrdu": "یہاں مراد جدوجہد، لگن، جستجو"
+          },
+          {
+            "term": "امتحاں",
+            "meaningUrdu": "آزمائشیں، مراحل"
+          }
+        ],
+        "englishTranslation": "Beyond the stars, there are other worlds; there are still more trials of love (or striving)."
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر کہتا ہے کہ یہ کائنات اور اس کی وسعتیں زندگی سے خالی نہیں ہیں۔ بلکہ یہاں بے شمار ایسی جگہیں اور امکانات موجود ہیں جہاں زندگی کے قافلے رواں دواں ہیں۔ یہ انسان کو مایوسی سے نکال کر امید دلاتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "تہی",
+            "meaningUrdu": "خالی"
+          },
+          {
+            "term": "فضائیں",
+            "meaningUrdu": "وسعتیں، جگہیں، کائنات"
+          },
+          {
+            "term": "کارواں",
+            "meaningUrdu": "قافلے، مراد زندگی کے سفر کرنے والے یا امکانات"
+          }
+        ],
+        "englishTranslation": "These expanses are not devoid of life; here, hundreds of caravans (of life) still exist."
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "اس شعر میں انسان کو نصیحت کی گئی ہے کہ وہ صرف ظاہری دنیا کی خوبصورتیوں اور محدودات پر قانع نہ ہو جائے۔ اس سے آگے بھی بہت سی خوبصورت جگہیں (چمن) اور رہنے کے ٹھکانے (آشیاں) موجود ہیں جنہیں تلاش کیا جا سکتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "قناعت",
+            "meaningUrdu": "اکتفا کرنا، راضی رہنا"
+          },
+          {
+            "term": "عالمِ رنگ و بُو",
+            "meaningUrdu": "یہ دنیا، ظاہری دنیا، مادی دنیا"
+          },
+          {
+            "term": "چمن",
+            "meaningUrdu": "باغ، خوبصورت جگہ"
+          },
+          {
+            "term": "آشیاں",
+            "meaningUrdu": "گھونسلا، ٹھکانہ"
+          }
+        ],
+        "englishTranslation": "Do not be content with this world of color and fragrance; there are other gardens and other nests."
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر حوصلہ دیتا ہے کہ اگر کوئی ایک ٹھکانہ یا امید کی جگہ ختم ہو جائے تو پریشان نہیں ہونا چاہیے۔ دنیا میں اور بھی بہت سی جگہیں اور مواقع موجود ہیں جہاں انسان اپنی جدوجہد جاری رکھ سکتا ہے یا اپنے دکھ کا اظہار کر سکتا ہے۔ یہ غم سے نکل کر آگے بڑھنے کی ترغیب ہے۔",
+        "difficultWords": [
+          {
+            "term": "نشیمن",
+            "meaningUrdu": "گھونسلا، ٹھکانہ، پناہ گاہ"
+          },
+          {
+            "term": "غم",
+            "meaningUrdu": "دکھ، افسوس"
+          },
+          {
+            "term": "مقاماتِ آہ و فغاں",
+            "meaningUrdu": "رونے دھونے کی جگہیں، مراد مزید مواقع جہاں انسان اپنی حالت پر غور کر سکے یا جدوجہد کر سکے"
+          }
+        ],
+        "englishTranslation": "If one nest is lost, what sorrow? There are other places for lamentation and outcry."
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "یہ شعر انسان کو اس کی حقیقی صلاحیتوں اور مقصد کی یاد دلاتا ہے۔ اسے شاہین سے تشبیہ دی گئی ہے جو بلند پروازی کے لیے بنا ہے۔ اس کا کام مسلسل پرواز کرنا ہے اور اس کے لیے ابھی بہت سے آسمان باقی ہیں جنہیں وہ سر کر سکتا ہے۔",
+        "difficultWords": [
+          {
+            "term": "شاہیں",
+            "meaningUrdu": "ایک شکاری پرندہ، باز کی ایک قسم جو اونچی پرواز کرتا ہے"
+          },
+          {
+            "term": "پرواز",
+            "meaningUrdu": "اڑنا، بلند ہونا"
+          },
+          {
+            "term": "کام",
+            "meaningUrdu": "مقصد، فعل"
+          },
+          {
+            "term": "آسماں",
+            "meaningUrdu": "آسمان، مراد بلندیاں، مواقع"
+          }
+        ],
+        "englishTranslation": "You are an eagle, flight is your task; before you, there are still other skies."
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر انسان کو روزمرہ کی زندگی کی محدودات اور معمولات میں قید نہ رہنے کی تلقین کرتا ہے۔ وہ کہتا ہے کہ انسان کے لیے وقت اور جگہ کے نئے امکانات اور جہتیں موجود ہیں جنہیں اسے تلاش کرنا چاہیے۔",
+        "difficultWords": [
+          {
+            "term": "روز و شب",
+            "meaningUrdu": "دن اور رات، مراد روزمرہ کی زندگی، معمولات"
+          },
+          {
+            "term": "اُلجھ کر نہ رہ جا",
+            "meaningUrdu": "پھنس کر نہ رہ جانا، محدود نہ ہو جانا"
+          },
+          {
+            "term": "زمان و مکاں",
+            "meaningUrdu": "وقت اور جگہ، مراد نئے امکانات، نئی جہتیں"
+          }
+        ],
+        "englishTranslation": "Do not remain entangled in these days and nights; for you, there are still other times and spaces."
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "یہ شعر شاعر کے ذاتی احساس کو ظاہر کرتا ہے کہ اب وہ تنہا نہیں ہے۔ پہلے وہ شاید اپنی سوچ اور نظریات میں اکیلا تھا، لیکن اب اس کے ہم خیال اور راز جاننے والے لوگ موجود ہیں جو اس کے ساتھ ہیں۔ یہ ایک طرح سے امید اور ہم آہنگی کا اظہار ہے۔",
+        "difficultWords": [
+          {
+            "term": "تنہا",
+            "meaningUrdu": "اکیلا"
+          },
+          {
+            "term": "انجمن",
+            "meaningUrdu": "محفل، بزم"
+          },
+          {
+            "term": "رازداں",
+            "meaningUrdu": "راز جاننے والا، ہم راز، ہم خیال"
+          }
+        ],
+        "englishTranslation": "Gone are the days when I was alone in the assembly; now, here, there are others who share my secrets."
+      }
+    ],
+    "reflectionQuestion": "What does Iqbal's emphasis on \"more worlds\" and \"more trials of love\" suggest about the nature of human ambition and spiritual journey?",
+    "takeaway": "The poem encourages continuous striving, exploration beyond perceived limits, and resilience in the face of setbacks, emphasizing that human potential and the universe's possibilities are boundless.",
+    "themes": [
+      "Continuous striving",
+      "Exploration and discovery",
+      "Self-realization and potential",
+      "Optimism and hope",
+      "Breaking free from limitations",
+      "Spiritual journey",
+      "Companionship"
+    ],
+    "historicalContextUrdu": "یہ غزل علامہ اقبال کے مجموعہ کلام \"بالِ جبریل\" میں شامل ہے۔ یہ مجموعہ ۱۹۳۵ میں شائع ہوا۔ اس دور میں برصغیر کے مسلمانوں میں بیداری اور خودی کا تصور اجاگر کرنے کی ضرورت تھی، اور اقبال نے اپنی شاعری کے ذریعے انہیں جمود توڑ کر آگے بڑھنے اور اپنی صلاحیتوں کو پہچاننے کی ترغیب دی۔ یہ غزل اسی فکری تسلسل کا حصہ ہے جہاں وہ انسان کو کائنات کی وسعتوں اور اپنی اندرونی قوتوں کو دریافت کرنے کی دعوت دیتے ہیں۔",
+    "editorialWarnings": [
+      "\"عشق\" کے معنی کی تشریح سیاق و سباق کے مطابق کی گئی ہے، جو یہاں محض رومانوی محبت کے بجائے جدوجہد اور لگن کے وسیع تر مفہوم میں استعمال ہوا ہے۔",
+      "\"مقاماتِ آہ و فغاں\" کی تشریح میں مختلف آراء ممکن ہیں؛ یہاں اسے جدوجہد جاری رکھنے کے مواقع کے طور پر لیا گیا ہے۔",
+      "\"رازداں\" کے مفہوم میں شاعر کے ہم خیالوں یا اس کے نظریات کو سمجھنے والوں کا اشارہ شامل ہے۔",
+      "تاریخی سیاق و سباق کی تفصیلات کے لیے مزید تحقیق کی ضرورت ہو سکتی ہے۔"
+    ],
+    "historicalContext": {
+      "period": "Early 20th Century (1935)",
+      "place": "British India",
+      "summaryUrdu": "یہ غزل علامہ اقبال کے مجموعہ کلام \"بالِ جبریل\" میں شامل ہے۔ یہ مجموعہ ۱۹۳۵ میں شائع ہوا۔ اس دور میں برصغیر کے مسلمانوں میں بیداری اور خودی کا تصور اجاگر کرنے کی ضرورت تھی، اور اقبال نے اپنی شاعری کے ذریعے انہیں جمود توڑ کر آگے بڑھنے اور اپنی صلاحیتوں کو پہچاننے کی ترغیب دی۔ یہ غزل اسی فکری تسلسل کا حصہ ہے جہاں وہ انسان کو کائنات کی وسعتوں اور اپنی اندرونی قوتوں کو دریافت کرنے کی دعوت دیتے ہیں۔",
+      "summaryEnglish": "This ghazal is included in Allama Iqbal's collection of poetry, \"Bal-e-Jibril,\" which was published in 1935. During this period, there was a need to awaken a sense of selfhood and awareness among the Muslims of the Indian subcontinent. Iqbal, through his poetry, encouraged them to break free from stagnation, move forward, and recognize their potential. This ghazal is part of that intellectual continuum where he invites humanity to explore the vastness of the universe and their inner strengths.",
+      "confidence": "likely",
+      "sourceNote": "The context provided is at the collection level (Bal-e-Jibril publication), not specific to the writing date or place of this particular poem.",
+      "legacyUrduNote": "یہ غزل علامہ اقبال کے مجموعہ کلام \"بالِ جبریل\" میں شامل ہے۔ یہ مجموعہ ۱۹۳۵ میں شائع ہوا۔ اس دور میں برصغیر کے مسلمانوں میں بیداری اور خودی کا تصور اجاگر کرنے کی ضرورت تھی، اور اقبال نے اپنی شاعری کے ذریعے انہیں جمود توڑ کر آگے بڑھنے اور اپنی صلاحیتوں کو پہچاننے کی ترغیب دی۔ یہ غزل اسی فکری تسلسل کا حصہ ہے جہاں وہ انسان کو کائنات کی وسعتوں اور اپنی اندرونی قوتوں کو دریافت کرنے کی دعوت دیتے ہیں۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:52:35.256Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 1151,
+      "cachedInputTokens": 0,
+      "outputTokens": 633,
+      "thinkingTokens": 1197,
+      "totalTokens": 2981
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.00034529999999999994,
+      "uncachedInputUsd": 0.00034529999999999994,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.004575,
+      "totalUsd": 0.0049203,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}

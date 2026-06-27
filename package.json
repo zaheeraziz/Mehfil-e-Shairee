@@ -1,0 +1,17 @@
+{
+  "name": "mehfil-e-shairee",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "draft": "node scripts/generate-reading.mjs",
+    "draft:check": "node scripts/generate-reading.mjs --dry-run",
+    "enrich": "node scripts/enrich-readings.mjs",
+    "enrich:check": "node scripts/enrich-readings.mjs --dry-run",
+    "import:iqbal-academy": "node scripts/import-iqbal-academy.mjs",
+    "import:iqbal-academy:full": "node scripts/import-iqbal-academy-full.mjs",
+    "build:delivery-plan": "node scripts/build-delivery-plan.mjs",
+    "build:readings": "node scripts/build-readings.mjs",
+    "tokens": "node scripts/token-report.mjs",
+    "estimate:full-book": "node scripts/estimate-full-book-cost.mjs"
+  }
+}

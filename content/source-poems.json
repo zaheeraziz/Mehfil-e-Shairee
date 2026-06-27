@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "readings": [
+    {
+      "id": "bal-e-jibril-sitaron-se-aage",
+      "collection": "بالِ جبریل · غزل ۶۱",
+      "title": "ستاروں سے آگے جہاں اور بھی ہیں",
+      "transliteration": "Sitaron se aage jahan aur bhi hain",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part02/40.htm",
+      "verificationUrls": [
+        "https://www.rekhta.org/ghazals/sitaaron-se-aage-jahaan-aur-bhii-hain-allama-iqbal-ghazals-1"
+      ],
+      "sourceChecked": true,
+      "verses": [
+        { "lines": ["ستاروں سے آگے جہاں اور بھی ہیں", "ابھی عشق کے امتحاں اور بھی ہیں"] },
+        { "lines": ["تہی، زندگی سے نہیں یہ فضائیں", "یہاں سینکڑوں کارواں اور بھی ہیں"] },
+        { "lines": ["قناعت نہ کر عالمِ رنگ و بُو پر", "چمن اور بھی آشیاں اور بھی ہیں"] },
+        { "lines": ["اگر کھو گیا اک نشیمن تو کیا غم", "مقاماتِ آہ و فغاں اور بھی ہیں"] },
+        { "lines": ["تو شاہیں ہے، پرواز ہے کام تیرا", "ترے سامنے آسماں اور بھی ہیں"] },
+        { "lines": ["اسی روز و شب میں اُلجھ کر نہ رہ جا", "کہ تیرے زمان و مکاں اور بھی ہیں"] },
+        { "lines": ["گئے دن کہ تنہا تھا مَیں انجمن میں", "یہاں اب مِرے رازداں اور بھی ہیں"] }
+      ]
+    }
+  ]
+}

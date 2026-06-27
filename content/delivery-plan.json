@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-27T15:04:55.190Z",
+  "source": "content/approved-readings.json",
+  "totalReadings": 17,
+  "readings": [
+    {
+      "sequence": 1,
+      "id": "bal-e-jibril-sitaron-se-aage",
+      "title": "ستاروں سے آگے جہاں اور بھی ہیں",
+      "transliteration": "Sitaron se aage jahan aur bhi hain",
+      "collection": "بالِ جبریل · غزل ۶۱",
+      "sourceUrl": "https://www.rekhta.org/ghazals/sitaaron-se-aage-jahaan-aur-bhii-hain-allama-iqbal-ghazals-1",
+      "status": "planned"
+    },
+    {
+      "sequence": 2,
+      "id": "bal-e-jibril-meri-nawa-e-shauq",
+      "title": "میری نوائے شوق سے شور حریمِ ذات میں",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=0&lang_code=ur&orderno=203",
+      "status": "planned"
+    },
+    {
+      "sequence": 3,
+      "id": "bal-e-jibril-agar-kaj-rau-hain-anjum",
+      "title": "اگر کج رَو ہیں انجم، آسماں تیرا ہے یا میرا",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=4&lang_code=ur&orderno=205",
+      "status": "planned"
+    },
+    {
+      "sequence": 4,
+      "id": "bal-e-jibril-gesu-e-tabdar",
+      "title": "گیسوئے تاب‌دار کو اور بھی تاب‌دار کر",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=4&lang_code=ur&orderno=206",
+      "status": "planned"
+    },
+    {
+      "sequence": 5,
+      "id": "bal-e-jibril-asar-kare-na-kare",
+      "title": "اثر کرے نہ کرے، سُن تو لے مِری فریاد",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://allamaiqbal.com/poetry.php?bookbup=24&conType=ur&lang=0&lang_code=ur&orderno=208",
+      "status": "planned"
+    },
+    {
+      "sequence": 6,
+      "id": "bal-e-jibril-kya-ishq-ek-zindagi",
+      "title": "کیا عشق ایک زندگی مستعار کا",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/05.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 7,
+      "id": "bal-e-jibril-pareshan-hoke-meri-khak",
+      "title": "پریشاں ہوکے میری خاک آخر دل نہ بن جائے",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/06.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 8,
+      "id": "bal-e-jibril-digargun-hai-jahan",
+      "title": "دگرگوں ہے جہاں، تاروں کی گردش تیز ہے ساقی",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/07.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 9,
+      "id": "bal-e-jibril-part01-08-لا-پھر-اک-بار-وہی-بادہ-و",
+      "title": "لا پھر اک بار وہی بادہ و جام اے ساقی",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/08.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 10,
+      "id": "bal-e-jibril-part01-09-مٹا-دیا-مرے-ساقی-نے-عالم-من",
+      "title": "مٹا دیا مرے ساقی نے عالم من و تو",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/09.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 11,
+      "id": "bal-e-jibril-part01-10-متاع-بے-بہا-ہے-درد-و-سوز",
+      "title": "متاع بے بہا ہے درد و سوز آرزو مندی",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/10.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 12,
+      "id": "bal-e-jibril-part01-11-تجھے-یاد-کیا-نہیں-ہے-مرے-دل",
+      "title": "تجھے یاد کیا نہیں ہے مرے دل کا وہ زمانہ",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/11.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 13,
+      "id": "bal-e-jibril-part01-12-ضمیر-لالہ-مے-لعل-سے-ہوا-لبریز",
+      "title": "ضمیر لالہ مے لعل سے ہوا لبریز",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/12.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 14,
+      "id": "bal-e-jibril-part01-13-وہی-میری-کم-نصیبی-وہی-تیری-بے",
+      "title": "وہی میری کم نصیبی، وہی تیری بے نیازی",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/13.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 15,
+      "id": "bal-e-jibril-part01-14-اپنی-جولاں-گاہ-زیر-آسماں-سمجھا-تھا",
+      "title": "اپنی جولاں گاہ زیر آسماں سمجھا تھا میں",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/14.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 16,
+      "id": "bal-e-jibril-part01-15-اک-دانش-نورانی-اک-دانش-برہانی",
+      "title": "اک دانش نورانی، اک دانش برہانی",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/15.htm",
+      "status": "planned"
+    },
+    {
+      "sequence": 17,
+      "id": "bal-e-jibril-part01-16-یارب-یہ-جہان-گزراں-خوب-ہے-لیکن",
+      "title": "یارب! یہ جہان گزراں خوب ہے لیکن",
+      "transliteration": "",
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/16.htm",
+      "status": "planned"
+    }
+  ]
+}

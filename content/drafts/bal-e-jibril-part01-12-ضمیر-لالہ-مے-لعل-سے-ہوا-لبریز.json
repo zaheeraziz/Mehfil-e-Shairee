@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-12-ضمیر-لالہ-مے-لعل-سے-ہوا-لبریز",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:47:38.592Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 849,
+    "cachedInputTokens": 0,
+    "outputTokens": 1668,
+    "thinkingTokens": 0,
+    "totalTokens": 2517
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.00021225,
+    "uncachedInputUsd": 0.00021225,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.002502,
+    "totalUsd": 0.00271425,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-12-ضمیر-لالہ-مے-لعل-سے-ہوا-لبریز",
+    "title": "ضمیر لالہ مے لعل سے ہوا لبریز",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/12.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/12.htm",
+    "sequence": 12,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "ضمیر لالہ مے لعل سے ہوا لبریز",
+          "اشارہ پاتے ہی صوفی نے توڑ دی پرہیز"
+        ]
+      },
+      {
+        "lines": [
+          "بچھائی ہے جو کہیں عشق نے بساط اپنی",
+          "کیا ہے اس نے فقیروں کو وارث پرویز"
+        ]
+      },
+      {
+        "lines": [
+          "پرانے ہیں یہ ستارے، فلک بھی فرسودہ",
+          "جہاں وہ چاہیے مجھ کو کہ ہو ابھی نوخیز"
+        ]
+      },
+      {
+        "lines": [
+          "کسے خبر ہے کہ ہنگامہ نشور ہے کیا",
+          "تری نگاہ کی گردش ہے میری رستاخیز"
+        ]
+      },
+      {
+        "lines": [
+          "نہ چھین لذت آہ سحر گہی مجھ سے",
+          "نہ کر نگہ سے تغافل کو التفات آمیز"
+        ]
+      },
+      {
+        "lines": [
+          "دل غمیں کے موافق نہیں ہے موسم گل",
+          "صدائے مرغ چمن ہے بہت نشاط انگیز"
+        ]
+      },
+      {
+        "lines": [
+          "حدیث بے خبراں ہے، تو با زمانہ بساز",
+          "زمانہ با تو نسازد، تو با زمانہ ستیز"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "اس شعر میں شاعر نے فطرت کے ایک منظر کو بیان کیا ہے جہاں لالہ کا پھول اپنی سرخی سے بھر گیا ہے۔ اس کیفیت کو دیکھ کر صوفی پر ایک وجدانی کیفیت طاری ہوتی ہے اور وہ اپنی ظاہری پابندیوں کو ترک کر دیتا ہے۔",
+        "englishTranslation": "The conscience of the tulip has become filled with ruby-colored wine; receiving the signal, the Sufi has broken his abstinence.",
+        "difficultWords": [
+          {
+            "term": "ضمیر",
+            "meaningUrdu": "اندرونی کیفیت یا باطن"
+          },
+          {
+            "term": "لالہ",
+            "meaningUrdu": "ایک سرخ پھول"
+          },
+          {
+            "term": "لبریز",
+            "meaningUrdu": "بھرا ہوا"
+          },
+          {
+            "term": "پرہیز",
+            "meaningUrdu": "اجتناب یا احتیاط"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "یہاں عشق کی طاقت کا ذکر ہے کہ جب عشق اپنا میدان سجاتا ہے تو وہ فقیروں کو بادشاہوں جیسا مقام عطا کر دیتا ہے۔",
+        "englishTranslation": "Wherever love has spread its carpet, it has made the dervishes the heirs of Parvez.",
+        "difficultWords": [
+          {
+            "term": "بساط",
+            "meaningUrdu": "شطرنج کی بساط یا میدان"
+          },
+          {
+            "term": "وارث",
+            "meaningUrdu": "جانشین"
+          },
+          {
+            "term": "پرویز",
+            "meaningUrdu": "ایران کا ایک قدیم بادشاہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اس دنیا کے نظام سے بیزار نظر آتا ہے اور ایک ایسی نئی دنیا کی خواہش کرتا ہے جو تازہ اور جوان ہو۔",
+        "englishTranslation": "These stars are old, the sky too is worn out; I desire a world that is still fresh and new.",
+        "difficultWords": [
+          {
+            "term": "فرسودہ",
+            "meaningUrdu": "پرانا یا گھسا ہوا"
+          },
+          {
+            "term": "نوخیز",
+            "meaningUrdu": "نئی اگنے والی یا تازہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر محبوب کی نگاہ کی اہمیت کو بیان کر رہا ہے کہ اس کی ایک نظر ہی کائنات کے بدلنے یا قیامت لانے کے لیے کافی ہے۔",
+        "englishTranslation": "Who knows what the tumult of the Resurrection is? The turning of your gaze is my resurrection.",
+        "difficultWords": [
+          {
+            "term": "ہنگامہ",
+            "meaningUrdu": "شور و غل"
+          },
+          {
+            "term": "نشور",
+            "meaningUrdu": "قیامت کا دن"
+          },
+          {
+            "term": "رستاخیز",
+            "meaningUrdu": "قیامت یا ہلچل"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر اپنی صبح کی آہ اور عبادت کے سکون کو برقرار رکھنا چاہتا ہے اور محبوب سے التجا کرتا ہے کہ وہ اپنی بے رخی کو توجہ میں نہ بدلے۔",
+        "englishTranslation": "Do not snatch the pleasure of my early morning sigh from me; do not mix indifference with attention in your gaze.",
+        "difficultWords": [
+          {
+            "term": "آہ سحر گہی",
+            "meaningUrdu": "صبح کے وقت کی آہ"
+          },
+          {
+            "term": "تغافل",
+            "meaningUrdu": "بے رخی"
+          },
+          {
+            "term": "التفات",
+            "meaningUrdu": "توجہ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "غمزدہ دل کے لیے بہار کا موسم خوشگوار نہیں ہوتا کیونکہ باغ کی آوازیں اسے مزید اداس کرتی ہیں۔",
+        "englishTranslation": "The season of flowers is not in harmony with a sorrowful heart; the sound of the garden bird is very joy-inducing.",
+        "difficultWords": [
+          {
+            "term": "غمیں",
+            "meaningUrdu": "غمگین"
+          },
+          {
+            "term": "مرغ چمن",
+            "meaningUrdu": "باغ کا پرندہ"
+          },
+          {
+            "term": "نشاط انگیز",
+            "meaningUrdu": "خوشی پیدا کرنے والا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "یہ شعر ایک فلسفیانہ مشورہ ہے کہ اگر زمانہ آپ کے مطابق نہ چلے تو اس سے سمجھوتہ کرنے کے بجائے اس کے خلاف جدوجہد کرنی چاہیے۔",
+        "englishTranslation": "It is the talk of the ignorant, 'adapt yourself to the times'; if the times do not adapt to you, then struggle against the times.",
+        "difficultWords": [
+          {
+            "term": "حدیث",
+            "meaningUrdu": "بات یا قول"
+          },
+          {
+            "term": "بے خبراں",
+            "meaningUrdu": "ناواقف لوگ"
+          },
+          {
+            "term": "ستیز",
+            "meaningUrdu": "لڑائی یا مقابلہ"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does Iqbal's call to 'struggle against the times' in the final verse contrast with the traditional Sufi concept of resignation to fate?",
+    "takeaway": "The poem explores the tension between spiritual ecstasy, the desire for a new world order, and the necessity of active resistance against stagnant societal norms.",
+    "themes": [
+      "Sufism",
+      "Revolutionary thought",
+      "Nature",
+      "Love",
+      "Resistance"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم اقبال کے مجموعہ کلام 'بالِ جبریل' کا حصہ ہے جو 1935 میں شائع ہوا۔",
+      "summaryEnglish": "This poem is part of Iqbal's collection 'Bal-e-Jibril', published in 1935.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection title provided in the metadata."
+    },
+    "editorialWarnings": [
+      "The interpretation of 'Sufi' in the first verse is metaphorical and may vary based on different schools of thought.",
+      "The historical context is limited to the publication date of the collection; no specific date or location for the composition of this individual poem is provided in the source.",
+      "The translation of 'Parvez' as a symbol of worldly power is a standard literary interpretation but remains an interpretation."
+    ]
+  }
+}

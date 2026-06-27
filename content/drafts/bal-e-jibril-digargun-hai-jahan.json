@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-digargun-hai-jahan",
+  "status": "draft",
+  "generatedAt": "2026-06-20T03:05:47.824Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-digargun-hai-jahan",
+    "title": "دگرگوں ہے جہاں، تاروں کی گردش تیز ہے ساقی",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/07.htm",
+    "sequence": 7,
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "verified_against_scan",
+    "verification": {
+      "file": "BalEJibreelByAllamahMuhammadIqbalr.a.pdf",
+      "pdfPages": [
+        27,
+        28
+      ],
+      "checkedOn": "2026-06-19"
+    },
+    "verses": [
+      {
+        "lines": [
+          "دگرگوں ہے جہاں، تاروں کی گردش تیز ہے ساقی",
+          "دل ہر ذرہ میں غوغائے رستاخیز ہے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "متاع دین و دانش لٹ گئی اللہ والوں کی",
+          "یہ کس کافر ادا کا غمزۂ خوں ریز ہے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "وہی دیرینہ بیماری، وہی نامحکمی دل کی",
+          "علاج اس کا وہی آب نشاط انگیز ہے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "حرم کے دل میں سوز آرزو پیدا نہیں ہوتا",
+          "کہ پیدائی تری اب تک حجاب آمیز ہے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "نہ اٹھا پھر کوئی رومی عجم کے لالہ زاروں سے",
+          "وہی آب و گل ایران، وہی تبریز ہے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "نہیں ہے ناامید اقبال اپنی کشت ویراں سے",
+          "ذرا نم ہو تو یہ مٹی بہت زرخیز ہے ساقی"
+        ]
+      },
+      {
+        "lines": [
+          "فقیر راہ کو بخشے گئے اسرار سلطانی",
+          "بہا میری نوا کی دولت پرویز ہے ساقی"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "دنیا میں بڑی تبدیلیاں آ رہی ہیں، اور وقت کی رفتار بہت تیز ہو گئی ہے۔ ہر چھوٹی سے چھوٹی چیز میں بھی ایک بڑی ہلچل اور بیداری محسوس ہو رہی ہے۔",
+        "difficultWords": [
+          {
+            "term": "دگرگوں",
+            "meaningUrdu": "بدلا ہوا، تبدیل شدہ"
+          },
+          {
+            "term": "جہاں",
+            "meaningUrdu": "دنیا"
+          },
+          {
+            "term": "تاروں کی گردش",
+            "meaningUrdu": "ستاروں کا گھومنا، وقت کا گزرنا"
+          },
+          {
+            "term": "تیز",
+            "meaningUrdu": "تیز رفتار"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          },
+          {
+            "term": "ذرہ",
+            "meaningUrdu": "چھوٹا ٹکڑا، ذرہ"
+          },
+          {
+            "term": "غوغائے رستاخیز",
+            "meaningUrdu": "قیامت کا شور، بہت زیادہ شور و غل، ہنگامہ"
+          },
+          {
+            "term": "رستاخیز",
+            "meaningUrdu": "قیامت، دوبارہ اٹھنا"
+          }
+        ],
+        "englishTranslation": "The world is undergoing change, the stars' rotation is swift, O Saqi; In the heart of every particle, there is the clamor of resurrection, O Saqi."
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "اللہ کے نیک بندوں سے دین اور علم کی دولت چھن گئی ہے۔ شاعر سوال کرتا ہے کہ یہ کس ظالم محبوب کی ادا ہے جس نے یہ تباہی مچائی ہے۔",
+        "difficultWords": [
+          {
+            "term": "متاع",
+            "meaningUrdu": "سامان، دولت"
+          },
+          {
+            "term": "دین",
+            "meaningUrdu": "مذہب"
+          },
+          {
+            "term": "دانش",
+            "meaningUrdu": "عقل، علم"
+          },
+          {
+            "term": "لٹ گئی",
+            "meaningUrdu": "چھن گئی، ضائع ہو گئی"
+          },
+          {
+            "term": "اللہ والوں کی",
+            "meaningUrdu": "خدا کے نیک بندوں کی"
+          },
+          {
+            "term": "کافر ادا",
+            "meaningUrdu": "ظالم محبوب کی ادا، بے رحم انداز"
+          },
+          {
+            "term": "غمزہ",
+            "meaningUrdu": "آنکھ کا اشارہ، ناز"
+          },
+          {
+            "term": "خوں ریز",
+            "meaningUrdu": "خون بہانے والا، تباہ کن"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          }
+        ],
+        "englishTranslation": "The wealth of faith and wisdom has been plundered from the people of God; Whose infidel-like glance is this, O Saqi, that sheds blood?"
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "دل کی وہی پرانی کمزوری اور بے یقینی کی بیماری اب بھی موجود ہے۔ شاعر کہتا ہے کہ اس کا علاج وہی پرجوش اور زندگی بخش مشروب (یا روحانی بیداری) ہے۔",
+        "difficultWords": [
+          {
+            "term": "دیرینہ",
+            "meaningUrdu": "پرانی"
+          },
+          {
+            "term": "بیماری",
+            "meaningUrdu": "مرض"
+          },
+          {
+            "term": "نامحکمی",
+            "meaningUrdu": "کمزوری، پختگی نہ ہونا"
+          },
+          {
+            "term": "دل کی",
+            "meaningUrdu": "دل کی"
+          },
+          {
+            "term": "علاج",
+            "meaningUrdu": "شفا"
+          },
+          {
+            "term": "آب نشاط انگیز",
+            "meaningUrdu": "خوشی اور جوش پیدا کرنے والا پانی (علامتی طور پر)"
+          },
+          {
+            "term": "نشاط انگیز",
+            "meaningUrdu": "خوشی دینے والا، جوش پیدا کرنے والا"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          }
+        ],
+        "englishTranslation": "The same old illness, the same instability of the heart persists; Its cure is that same exhilarating drink, O Saqi."
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "حرم (مسلمانوں کے روحانی مرکز) کے دل میں آرزو اور تڑپ کا جذبہ پیدا نہیں ہو رہا ہے۔ اس کی وجہ یہ ہو سکتی ہے کہ ساقی (یا روحانی رہنما) کا ظہور ابھی تک پردے میں ہے، یعنی وہ پوری طرح سامنے نہیں آیا یا اس کا اثر واضح نہیں ہے۔",
+        "difficultWords": [
+          {
+            "term": "حرم",
+            "meaningUrdu": "کعبہ، مسلمانوں کا روحانی مرکز"
+          },
+          {
+            "term": "سوز",
+            "meaningUrdu": "تڑپ، جلن"
+          },
+          {
+            "term": "آرزو",
+            "meaningUrdu": "خواہش، تمنا"
+          },
+          {
+            "term": "پیدا نہیں ہوتا",
+            "meaningUrdu": "جنم نہیں لیتا"
+          },
+          {
+            "term": "پیدائی",
+            "meaningUrdu": "ظہور، وجود"
+          },
+          {
+            "term": "تری",
+            "meaningUrdu": "تیری"
+          },
+          {
+            "term": "اب تک",
+            "meaningUrdu": "ابھی تک"
+          },
+          {
+            "term": "حجاب آمیز",
+            "meaningUrdu": "پردے میں، پوشیدہ"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          }
+        ],
+        "englishTranslation": "The heart of the Haram does not generate the burning desire; For your manifestation, O Saqi, is still veiled."
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "ایران کی سرزمین سے (جسے عجم کہا جاتا ہے) رومی جیسا کوئی عظیم صوفی یا مفکر دوبارہ پیدا نہیں ہوا۔ حالانکہ ایران کی مٹی اور تبریز کا شہر وہی ہے، لیکن اب ویسی روحانی شخصیتیں نہیں ابھر رہیں۔",
+        "difficultWords": [
+          {
+            "term": "اٹھا",
+            "meaningUrdu": "پیدا ہوا، ابھرا"
+          },
+          {
+            "term": "رومی",
+            "meaningUrdu": "مولانا روم (ایک عظیم صوفی شاعر)"
+          },
+          {
+            "term": "عجم",
+            "meaningUrdu": "ایران، غیر عرب ممالک"
+          },
+          {
+            "term": "لالہ زاروں",
+            "meaningUrdu": "پھولوں کے باغات، مراد سرزمین"
+          },
+          {
+            "term": "آب و گل",
+            "meaningUrdu": "پانی اور مٹی، مراد سرزمین"
+          },
+          {
+            "term": "ایران",
+            "meaningUrdu": "ایک ملک کا نام"
+          },
+          {
+            "term": "تبریز",
+            "meaningUrdu": "ایران کا ایک شہر (شمس تبریزی سے منسوب)"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          }
+        ],
+        "englishTranslation": "No Rumi has risen again from the tulip fields of Persia; Though the water and soil of Iran are the same, and Tabriz is the same, O Saqi."
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "اقبال اپنی ویران کھیتی (قوم یا امت) سے ناامید نہیں ہیں۔ وہ کہتے ہیں کہ اگر اس مٹی کو تھوڑی سی نمی مل جائے (یعنی تھوڑی سی توجہ یا روحانی بیداری) تو یہ بہت زرخیز ثابت ہو سکتی ہے۔",
+        "difficultWords": [
+          {
+            "term": "ناامید",
+            "meaningUrdu": "مایوس"
+          },
+          {
+            "term": "اقبال",
+            "meaningUrdu": "شاعر کا تخلص"
+          },
+          {
+            "term": "کشت ویراں",
+            "meaningUrdu": "ویران کھیتی، بنجر زمین (علامتی طور پر قوم)"
+          },
+          {
+            "term": "ذرا",
+            "meaningUrdu": "تھوڑا سا"
+          },
+          {
+            "term": "نم ہو",
+            "meaningUrdu": "گیلی ہو، نمی ملے"
+          },
+          {
+            "term": "مٹی",
+            "meaningUrdu": "زمین"
+          },
+          {
+            "term": "زرخیز",
+            "meaningUrdu": "بہت زیادہ پیداوار دینے والی، fertile"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          }
+        ],
+        "englishTranslation": "Iqbal is not hopeless about his desolate field; If it gets a little moisture, this soil is very fertile, O Saqi."
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "اس شعر میں شاعر کہتا ہے کہ راہ کے فقیروں کو بادشاہوں کے راز عطا کیے گئے ہیں۔ میری آواز (شاعری یا پیغام) کی قیمت پرویز (ایک قدیم بادشاہ) کی دولت کے برابر ہے۔ یہ اس بات کی طرف اشارہ ہے کہ روحانی دولت مادی دولت سے زیادہ قیمتی ہے۔",
+        "difficultWords": [
+          {
+            "term": "فقیر راہ",
+            "meaningUrdu": "راستے کا فقیر، درویش"
+          },
+          {
+            "term": "بخشے گئے",
+            "meaningUrdu": "عطا کیے گئے"
+          },
+          {
+            "term": "اسرار",
+            "meaningUrdu": "راز"
+          },
+          {
+            "term": "سلطانی",
+            "meaningUrdu": "بادشاہی، بادشاہوں کے"
+          },
+          {
+            "term": "بہا",
+            "meaningUrdu": "قیمت"
+          },
+          {
+            "term": "نوا",
+            "meaningUrdu": "آواز، نغمہ، شاعری"
+          },
+          {
+            "term": "دولت",
+            "meaningUrdu": "مال، ثروت"
+          },
+          {
+            "term": "پرویز",
+            "meaningUrdu": "خسرو پرویز، ساسانی بادشاہ"
+          },
+          {
+            "term": "ساقی",
+            "meaningUrdu": "شراب پلانے والا (یہاں علامتی طور پر مخاطب)"
+          }
+        ],
+        "englishTranslation": "The secrets of kingship have been bestowed upon the mendicant of the path; The worth of my melody, O Saqi, is the wealth of Parvez."
+      }
+    ],
+    "reflectionQuestion": "In what ways do you observe \"دگرگوں ہے جہاں\" (the world is changing) in your own time, and how might one respond to these changes with hope and spiritual renewal, as Iqbal suggests?",
+    "takeaway": "The poem expresses a sense of profound change and spiritual decline within the Muslim world, lamenting the loss of religious and intellectual vigor. However, it also conveys a strong message of hope and potential for revival, emphasizing that with the right spiritual \"moisture\" and leadership, the dormant potential can be reawakened.",
+    "themes": [
+      "Spiritual decline and revival",
+      "Hope and despair",
+      "The role of leadership (Saki)",
+      "The importance of self-awareness and inner strength",
+      "Critique of contemporary Muslim society",
+      "The legacy of great spiritual figures (Rumi)"
+    ],
+    "historicalContextUrdu": "ایک تصدیق شدہ ماخذ کی ضرورت ہے جو اس نظم کے تاریخی پس منظر کے بارے میں معلومات فراہم کرے۔ موجودہ ماخذ میں تاریخی سیاق و سباق کے بارے میں کوئی معلومات شامل نہیں ہے۔",
+    "editorialWarnings": [
+      "The interpretation of \"ساقی\" throughout the poem is symbolic and can refer to a spiritual guide, a divine source, or even the poet's own inspiring message. The specific interpretation may vary.",
+      "The \"دیرینہ بیماری\" (old ailment) and \"نامحکمی دل کی\" (weakness of heart) are open to interpretation, likely referring to spiritual apathy, lack of conviction, or intellectual stagnation within the Muslim community.",
+      "The \"آب نشاط انگیز\" (joy-inducing water) is a metaphor for spiritual awakening, divine inspiration, or a revitalizing ideology.",
+      "The reference to \"حرم\" (Kaaba/sanctuary) is symbolic of the spiritual heart of the Muslim world.",
+      "The comparison of \"نوا\" (poet's voice) to \"دولت پرویز\" (wealth of Parvez) emphasizes the spiritual value over material wealth, but the exact historical context of Parvez's wealth is not explicitly detailed in the poem itself.",
+      "The \"کشت ویراں\" (barren field) is a metaphor for the Muslim nation or community, suggesting its current state of dormancy but inherent potential."
+    ],
+    "historicalContext": {
+      "period": "Early 20th Century (1935)",
+      "place": "Lahore, British India",
+      "summaryUrdu": "بالِ جبریل علامہ اقبال کا ایک شعری مجموعہ ہے جو 1935 میں شائع ہوا۔ یہ مجموعہ اقبال کی فکری پختگی اور اسلامی دنیا کے مسائل پر گہری بصیرت کا عکاس ہے۔",
+      "summaryEnglish": "Bal-e-Jibril is a collection of poetry by Allama Iqbal, published in 1935. It reflects Iqbal's intellectual maturity and deep insight into the issues of the Islamic world.",
+      "confidence": "likely",
+      "sourceNote": "The historical context provided is for the collection 'Bal-e-Jibril', not for this specific poem, as poem-specific details are not available in the supplied metadata.",
+      "legacyUrduNote": "ایک تصدیق شدہ ماخذ کی ضرورت ہے جو اس نظم کے تاریخی پس منظر کے بارے میں معلومات فراہم کرے۔ موجودہ ماخذ میں تاریخی سیاق و سباق کے بارے میں کوئی معلومات شامل نہیں ہے۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:53:35.982Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 1097,
+      "cachedInputTokens": 0,
+      "outputTokens": 581,
+      "thinkingTokens": 1553,
+      "totalTokens": 3231
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.00032910000000000003,
+      "uncachedInputUsd": 0.00032910000000000003,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.005335,
+      "totalUsd": 0.0056641,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}

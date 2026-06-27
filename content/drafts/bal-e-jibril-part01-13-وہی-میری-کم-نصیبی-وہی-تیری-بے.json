@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-13-وہی-میری-کم-نصیبی-وہی-تیری-بے",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:48:28.718Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 870,
+    "cachedInputTokens": 0,
+    "outputTokens": 1617,
+    "thinkingTokens": 0,
+    "totalTokens": 2487
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.0002175,
+    "uncachedInputUsd": 0.0002175,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.0024254999999999997,
+    "totalUsd": 0.0026429999999999995,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-13-وہی-میری-کم-نصیبی-وہی-تیری-بے",
+    "title": "وہی میری کم نصیبی، وہی تیری بے نیازی",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/13.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/13.htm",
+    "sequence": 13,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "وہی میری کم نصیبی، وہی تیری بے نیازی",
+          "میرے کام کچھ نہ آیا یہ کمال نے نوازی"
+        ]
+      },
+      {
+        "lines": [
+          "میں کہاں ہوں تو کہاں ہے، یہ مکاں کہ لامکاں ہے؟",
+          "یہ جہاں مرا جہاں ہے کہ تری کرشمہ سازی"
+        ]
+      },
+      {
+        "lines": [
+          "اسی کشمکش میں گزریں مری زندگی کی راتیں",
+          "کبھی سوزو ساز رومی، کبھی پیچ و تاب رازی"
+        ]
+      },
+      {
+        "lines": [
+          "وہ فریب خوردہ شاہیں کہ پلا ہو کرگسوں میں",
+          "اسے کیا خبر کہ کیا ہے رہ و رسم شاہبازی"
+        ]
+      },
+      {
+        "lines": [
+          "نہ زباں کوئی غزل کی، نہ زباں سے باخبر میں",
+          "کوئی دلکشا صدا ہو، عجمی ہو یا کہ تازی"
+        ]
+      },
+      {
+        "lines": [
+          "نہیں فقر و سلطنت میں کوئی امتیاز ایسا",
+          "یہ سپہ کی تیغ بازی، وہ نگہ کی تیغ بازی"
+        ]
+      },
+      {
+        "lines": [
+          "کوئی کارواں سے ٹوٹا، کوئی بدگماں حرم سے",
+          "کہ امیر کارواں میں نہیں خوئے دل نوازی"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر اپنی بدقسمتی اور محبوب کی بے رخی کا ذکر کر رہا ہے۔ ایسا لگتا ہے کہ شاعر کی شاعری کی صلاحیتیں محبوب کو متوجہ کرنے میں ناکام رہی ہیں۔",
+        "englishTranslation": "The same is my misfortune, the same is your indifference; this excellence in melody has been of no use to me.",
+        "difficultWords": [
+          {
+            "term": "کم نصیبی",
+            "meaningUrdu": "بدقسمتی"
+          },
+          {
+            "term": "بے نیازی",
+            "meaningUrdu": "لاپرواہی"
+          },
+          {
+            "term": "نوازی",
+            "meaningUrdu": "خوش الحانی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "یہاں شاعر اپنے اور محبوب کے درمیان دوری اور کائنات کی حقیقت پر غور کر رہا ہے کہ یہ دنیا کس کی تخلیق ہے۔",
+        "englishTranslation": "Where am I and where are you, is this a place or a placeless realm? Is this world mine, or is it your miracle-making?",
+        "difficultWords": [
+          {
+            "term": "مکاں",
+            "meaningUrdu": "جگہ"
+          },
+          {
+            "term": "لامکاں",
+            "meaningUrdu": "بے جگہ"
+          },
+          {
+            "term": "کرشمہ سازی",
+            "meaningUrdu": "معجزہ گری"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر اپنی زندگی کی کشمکش کو رومی اور رازی کے افکار کے تناظر میں بیان کر رہا ہے، جو روحانی اور عقلی تضاد کی علامت ہو سکتے ہیں۔",
+        "englishTranslation": "My nights of life passed in this struggle; sometimes the passion of Rumi, sometimes the complexity of Razi.",
+        "difficultWords": [
+          {
+            "term": "کشمکش",
+            "meaningUrdu": "جدوجہد"
+          },
+          {
+            "term": "سوزو ساز",
+            "meaningUrdu": "جذبہ اور موسیقی"
+          },
+          {
+            "term": "پیچ و تاب",
+            "meaningUrdu": "الجھن"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "یہ شعر اس شاہین کی مثال دیتا ہے جو غلط ماحول میں پرورش پا کر اپنی اصل فطرت اور پرواز کے انداز کو بھول گیا ہے۔",
+        "englishTranslation": "That deceived falcon which has been raised among vultures; what does it know of the ways and customs of falconry?",
+        "difficultWords": [
+          {
+            "term": "فریب خوردہ",
+            "meaningUrdu": "دھوکا کھایا ہوا"
+          },
+          {
+            "term": "شاہیں",
+            "meaningUrdu": "باز"
+          },
+          {
+            "term": "کرگسوں",
+            "meaningUrdu": "گدھ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر اپنی شاعری کی زبان اور اس کے اثر کے بارے میں بات کر رہا ہے کہ اسے کسی خاص زبان سے زیادہ دل کو چھو لینے والی آواز کی تلاش ہے۔",
+        "englishTranslation": "Neither do I have the language of ghazal, nor am I aware of the language; may there be an attractive voice, whether Arabic or Persian.",
+        "difficultWords": [
+          {
+            "term": "دلکشا",
+            "meaningUrdu": "دل کو لبھانے والی"
+          },
+          {
+            "term": "عجمی",
+            "meaningUrdu": "فارسی بولنے والا"
+          },
+          {
+            "term": "تازی",
+            "meaningUrdu": "عربی بولنے والا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "یہاں فقر اور سلطنت کے درمیان موازنہ کیا گیا ہے کہ دونوں میں طاقت کا اظہار مختلف طریقوں سے ہوتا ہے۔",
+        "englishTranslation": "There is no such distinction between poverty and sovereignty; this is the sword-play of the army, that is the sword-play of the gaze.",
+        "difficultWords": [
+          {
+            "term": "فقر",
+            "meaningUrdu": "درویشی"
+          },
+          {
+            "term": "سلطنت",
+            "meaningUrdu": "بادشاہت"
+          },
+          {
+            "term": "امتیاز",
+            "meaningUrdu": "فرق"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر کارواں کے امیر (لیڈر) کی بے حسی پر تنقید کر رہا ہے جس کی وجہ سے لوگ بکھر رہے ہیں۔",
+        "englishTranslation": "Someone broke away from the caravan, someone became suspicious of the sanctuary; because the leader of the caravan lacks the quality of heart-nurturing.",
+        "difficultWords": [
+          {
+            "term": "کارواں",
+            "meaningUrdu": "قافلہ"
+          },
+          {
+            "term": "بدگماں",
+            "meaningUrdu": "شک کرنے والا"
+          },
+          {
+            "term": "خوئے دل نوازی",
+            "meaningUrdu": "دل جوئی کی عادت"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet's contrast between the 'falcon' and the 'vultures' reflect his view on the loss of individual identity in society?",
+    "takeaway": "The poem explores themes of spiritual struggle, the loss of identity, and the importance of leadership that possesses empathy and vision.",
+    "themes": [
+      "Spiritual struggle",
+      "Identity",
+      "Leadership",
+      "Divine indifference",
+      "Intellectual conflict"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم بالِ جبریل کے پہلے حصے میں شامل ہے جو علامہ اقبال کی شاعری کا ایک اہم مجموعہ ہے۔",
+      "summaryEnglish": "This poem is included in the first part of Bal-e-Jibril, a significant collection of Allama Iqbal's poetry.",
+      "confidence": "likely",
+      "sourceNote": "Context derived from the collection title provided in the metadata."
+    },
+    "editorialWarnings": [
+      "The interpretation of Rumi and Razi as symbols of intellectual conflict is a common academic reading but remains an interpretation.",
+      "The identification of the 'leader of the caravan' is metaphorical and lacks specific historical reference in the text."
+    ]
+  }
+}

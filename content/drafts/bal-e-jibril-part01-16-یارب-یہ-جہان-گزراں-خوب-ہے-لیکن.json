@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-part01-16-یارب-یہ-جہان-گزراں-خوب-ہے-لیکن",
+  "status": "draft",
+  "generatedAt": "2026-06-27T04:49:26.540Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-3.1-flash-lite"
+  },
+  "usage": {
+    "source": "generateContent.usageMetadata",
+    "inputTokens": 1129,
+    "cachedInputTokens": 0,
+    "outputTokens": 3104,
+    "thinkingTokens": 0,
+    "totalTokens": 4233
+  },
+  "cost": {
+    "currency": "USD",
+    "tier": "paid-standard",
+    "inputUsd": 0.00028225,
+    "uncachedInputUsd": 0.00028225,
+    "cachedInputUsd": 0,
+    "outputUsd": 0.004656,
+    "totalUsd": 0.004938250000000001,
+    "rates": {
+      "inputPerMillionTokens": 0.25,
+      "cachedInputPerMillionTokens": 0.025,
+      "outputPerMillionTokens": 1.5,
+      "outputIncludesThinking": true
+    },
+    "pricingCheckedOn": "2026-06-25",
+    "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+  },
+  "source": {
+    "id": "bal-e-jibril-part01-16-یارب-یہ-جہان-گزراں-خوب-ہے-لیکن",
+    "title": "یارب! یہ جہان گزراں خوب ہے لیکن",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/16.htm",
+    "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/16.htm",
+    "sequence": 16,
+    "section": {
+      "key": "part01",
+      "kind": "ghazal",
+      "collection": "بالِ جبریل · حصہ اول"
+    },
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "reviewed_against_iqbal_academy_html",
+    "reviewNotes": [
+      "Promoted from full-book Academy import for batch generation.",
+      "Still requires editorial review of generated explanation/translation before public use."
+    ],
+    "verses": [
+      {
+        "lines": [
+          "یارب! یہ جہان گزراں خوب ہے لیکن",
+          "کیوں خوار ہیں مردان صفا کیش و ہنرمند"
+        ]
+      },
+      {
+        "lines": [
+          "گو اس کی خدائی میں مہاجن کا بھی ہے ہاتھ",
+          "دنیا تو سمجھتی ہے فرنگی کو خداوند"
+        ]
+      },
+      {
+        "lines": [
+          "تو برگ گیا ہے ندہی اہل خرد را",
+          "او کشت گل و لالہ بنجشد بہ خرے چند"
+        ]
+      },
+      {
+        "lines": [
+          "حاضر ہیں کلیسا میں کباب و مے گلگوں",
+          "مسجد میں دھرا کیا ہے بجز موعظہ و پند"
+        ]
+      },
+      {
+        "lines": [
+          "احکام ترے حق ہیں مگر اپنے مفسر",
+          "تاویل سے قرآں کو بنا سکتے ہیں پاژند"
+        ]
+      },
+      {
+        "lines": [
+          "فردوس جو تیرا ہے، کسی نے نہیں دیکھا",
+          "افرنگ کا ہر قریہ ہے فردوس کی مانند"
+        ]
+      },
+      {
+        "lines": [
+          "مدت سے ہے آوارہ افلاک مرا فکر",
+          "کر دے اسے اب چاند کی غاروں میں نظر بند"
+        ]
+      },
+      {
+        "lines": [
+          "فطرت نے مجھے بخشے ہیں جوہر ملکوتی",
+          "خاکی ہوں مگر خاک سے رکھتا نہیں پیوند"
+        ]
+      },
+      {
+        "lines": [
+          "درویش خدا مست نہ شرقی ہے نہ غربی",
+          "گھر میرا نہ دلی، نہ صفاہاں، نہ سمرقند"
+        ]
+      },
+      {
+        "lines": [
+          "کہتا ہوں وہی بات سمجھتا ہوں جسے حق",
+          "نے ابلہ مسجد ہوں، نہ تہذیب کا فرزند"
+        ]
+      },
+      {
+        "lines": [
+          "اپنے بھی خفا مجھ سے ہیں، بیگانے بھی ناخوش",
+          "میں زہر ہلاہل کو کبھی کہہ نہ سکا قند"
+        ]
+      },
+      {
+        "lines": [
+          "مشکل ہے کہ اک بندہ حق بین و حق اندیش",
+          "خاشاک کے تودے کو کہے کوہ دماوند"
+        ]
+      },
+      {
+        "lines": [
+          "ہوں آتش نمرود کے شعلوں میں بھی خاموش",
+          "میں بندہ مومن ہوں، نہیں دانہ اسپند"
+        ]
+      },
+      {
+        "lines": [
+          "پر سوز و نظرباز و نکوبین و کم آزار",
+          "آزاد و گرفتار و تہی کیسہ و خورسند"
+        ]
+      },
+      {
+        "lines": [
+          "ہر حال میں میرا دل بے قید ہے خرم",
+          "کیا چھینے گا غنچے سے کوئی ذوق شکر خند!"
+        ]
+      },
+      {
+        "lines": [
+          "چپ رہ نہ سکا حضرت یزداں میں بھی اقبال",
+          "کرتا کوئی اس بندہ گستاخ کا منہ بند!"
+        ]
+      }
+    ],
+    "verification": {
+      "source": "Iqbal Academy Pakistan Unicode HTML",
+      "checkedOn": "2026-06-26",
+      "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+    }
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر خدا سے پوچھتا ہے کہ یہ دنیا جو فانی ہے، بظاہر تو بہت اچھی ہے، مگر یہاں نیک اور ہنر مند لوگ ذلیل و خوار کیوں ہیں؟",
+        "englishTranslation": "O Lord! This transient world is beautiful, yet why are the pure-hearted and the talented humiliated?",
+        "difficultWords": [
+          {
+            "term": "جہان گزراں",
+            "meaningUrdu": "فانی دنیا"
+          },
+          {
+            "term": "خوار",
+            "meaningUrdu": "ذلیل"
+          },
+          {
+            "term": "صفا کیش",
+            "meaningUrdu": "صاف دل"
+          }
+        ]
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "اس شعر میں استحصالی نظام کی طرف اشارہ ہے کہ دنیا بظاہر فرنگی (مغربی طاقتوں) کو خدا مانتی ہے، مگر اس کے پیچھے سرمایہ دارانہ نظام کا ہاتھ ہے۔",
+        "englishTranslation": "Though the moneylender has a hand in its governance, the world considers the Westerner to be God.",
+        "difficultWords": [
+          {
+            "term": "مہاجن",
+            "meaningUrdu": "سود خور"
+          },
+          {
+            "term": "فرنگی",
+            "meaningUrdu": "مغربی باشندہ"
+          },
+          {
+            "term": "خداوند",
+            "meaningUrdu": "آقا"
+          }
+        ]
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر فارسی زبان میں کہتا ہے کہ تو نے عقل مندوں کو کچھ نہیں دیا، جبکہ دنیا کے پھول اور گلاب گدھوں کے حوالے کر دیے ہیں۔",
+        "englishTranslation": "You have given nothing to the wise, yet you bestow the harvest of roses and tulips upon a few donkeys.",
+        "difficultWords": [
+          {
+            "term": "برگ",
+            "meaningUrdu": "سامان"
+          },
+          {
+            "term": "اہل خرد",
+            "meaningUrdu": "عقل مند لوگ"
+          },
+          {
+            "term": "خرے",
+            "meaningUrdu": "گدھے"
+          }
+        ]
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "یہاں کلیسا اور مسجد کے مروجہ حالات کا موازنہ ہے، جہاں ایک طرف عیش و عشرت ہے اور دوسری طرف صرف خشک وعظ و نصیحت۔",
+        "englishTranslation": "In the church, roasted meat and red wine are present; what is there in the mosque except for sermons and advice?",
+        "difficultWords": [
+          {
+            "term": "کلیسا",
+            "meaningUrdu": "چرچ"
+          },
+          {
+            "term": "مے گلگوں",
+            "meaningUrdu": "سرخ شراب"
+          },
+          {
+            "term": "موعظہ",
+            "meaningUrdu": "وعظ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "قرآن کے احکام تو سچے ہیں، مگر لوگ اپنی مرضی کی تاویلیں کر کے اسے بدل دیتے ہیں۔",
+        "englishTranslation": "Your commands are true, but our interpreters can turn the Quran into a book of distorted meanings through interpretation.",
+        "difficultWords": [
+          {
+            "term": "مفسر",
+            "meaningUrdu": "تفسیر کرنے والا"
+          },
+          {
+            "term": "تاویل",
+            "meaningUrdu": "مطلب نکالنا"
+          },
+          {
+            "term": "پاژند",
+            "meaningUrdu": "مبہم یا بدل دی گئی تحریر"
+          }
+        ]
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر کہتا ہے کہ جنت تو دیکھی نہیں، مگر مغرب کے شہر جنت کا نمونہ بنے ہوئے ہیں۔",
+        "englishTranslation": "The Paradise that is Yours, no one has seen; every village of the West is like Paradise.",
+        "difficultWords": [
+          {
+            "term": "فردوس",
+            "meaningUrdu": "جنت"
+          },
+          {
+            "term": "افرنگ",
+            "meaningUrdu": "یورپ"
+          },
+          {
+            "term": "قریہ",
+            "meaningUrdu": "بستی"
+          }
+        ]
+      },
+      {
+        "verseIndex": 6,
+        "explanationUrdu": "شاعر اپنی فکر کی وسعت اور اس کے تھک جانے کا ذکر کر رہا ہے، اب وہ اسے چاند کی خاموشی میں قید کرنا چاہتا ہے۔",
+        "englishTranslation": "For a long time, my thought has wandered the heavens; now, imprison it in the caves of the moon.",
+        "difficultWords": [
+          {
+            "term": "آوارہ",
+            "meaningUrdu": "بھٹکنے والا"
+          },
+          {
+            "term": "افلاک",
+            "meaningUrdu": "آسمان"
+          },
+          {
+            "term": "نظر بند",
+            "meaningUrdu": "قید"
+          }
+        ]
+      },
+      {
+        "verseIndex": 7,
+        "explanationUrdu": "اگرچہ جسم خاکی ہے، مگر روح کی صفات آسمانی ہیں۔",
+        "englishTranslation": "Nature has bestowed upon me angelic qualities; I am made of clay, yet I have no bond with the earth.",
+        "difficultWords": [
+          {
+            "term": "جوہر",
+            "meaningUrdu": "صلاحیت"
+          },
+          {
+            "term": "ملکوتی",
+            "meaningUrdu": "فرشتوں جیسی"
+          },
+          {
+            "term": "پیوند",
+            "meaningUrdu": "تعلق"
+          }
+        ]
+      },
+      {
+        "verseIndex": 8,
+        "explanationUrdu": "درویش کی کوئی جغرافیائی حد نہیں ہوتی، وہ ہر جگہ سے بے نیاز ہے۔",
+        "englishTranslation": "The God-intoxicated dervish is neither Eastern nor Western; my home is neither Delhi, nor Isfahan, nor Samarkand.",
+        "difficultWords": [
+          {
+            "term": "درویش",
+            "meaningUrdu": "فقیر"
+          },
+          {
+            "term": "خدا مست",
+            "meaningUrdu": "خدا کی یاد میں مگن"
+          }
+        ]
+      },
+      {
+        "verseIndex": 9,
+        "explanationUrdu": "شاعر کہتا ہے کہ میں وہی کہتا ہوں جسے حق سمجھتا ہوں، نہ میں مذہبی تعصب کا شکار ہوں اور نہ ہی مغربی تہذیب کا اندھا پیروکار۔",
+        "englishTranslation": "I say only that which I understand to be the truth; I am neither a fool of the mosque nor a child of modern civilization.",
+        "difficultWords": [
+          {
+            "term": "حق",
+            "meaningUrdu": "سچ"
+          },
+          {
+            "term": "ابلہ",
+            "meaningUrdu": "نادان"
+          }
+        ]
+      },
+      {
+        "verseIndex": 10,
+        "explanationUrdu": "سچ بولنے کی وجہ سے ہر کوئی ناراض ہے کیونکہ میں زہر کو زہر ہی کہتا ہوں۔",
+        "englishTranslation": "My own are displeased with me, and strangers are unhappy; I could never call deadly poison sugar.",
+        "difficultWords": [
+          {
+            "term": "خفا",
+            "meaningUrdu": "ناراض"
+          },
+          {
+            "term": "زہر ہلاہل",
+            "meaningUrdu": "مہلک زہر"
+          },
+          {
+            "term": "قند",
+            "meaningUrdu": "شکر"
+          }
+        ]
+      },
+      {
+        "verseIndex": 11,
+        "explanationUrdu": "حق پرست انسان کے لیے جھوٹ کو سچ ماننا مشکل ہے۔",
+        "englishTranslation": "It is difficult for a truth-seeing and truth-thinking servant to call a heap of rubbish Mount Damavand.",
+        "difficultWords": [
+          {
+            "term": "حق بین",
+            "meaningUrdu": "سچ دیکھنے والا"
+          },
+          {
+            "term": "خاشاک",
+            "meaningUrdu": "کوڑا کرکٹ"
+          },
+          {
+            "term": "تودے",
+            "meaningUrdu": "ڈھیر"
+          }
+        ]
+      },
+      {
+        "verseIndex": 12,
+        "explanationUrdu": "مومن کی شان یہ ہے کہ وہ مشکلات میں بھی ثابت قدم رہتا ہے۔",
+        "englishTranslation": "I am silent even in the flames of Nimrod's fire; I am a faithful servant, not a seed of harmal.",
+        "difficultWords": [
+          {
+            "term": "آتش نمرود",
+            "meaningUrdu": "نمرود کی آگ"
+          },
+          {
+            "term": "دانہ اسپند",
+            "meaningUrdu": "حرمال کا بیج (جو آگ میں جل کر تڑپتا ہے)"
+          }
+        ]
+      },
+      {
+        "verseIndex": 13,
+        "explanationUrdu": "یہ ایک مومن کی متضاد کیفیات کا بیان ہے، جو بیک وقت آزاد بھی ہے اور پابند بھی۔",
+        "englishTranslation": "Full of burning passion, observant, discerning, and gentle; free yet imprisoned, empty-handed yet content.",
+        "difficultWords": [
+          {
+            "term": "پر سوز",
+            "meaningUrdu": "جذبے سے بھرا"
+          },
+          {
+            "term": "نکوبین",
+            "meaningUrdu": "اچھا دیکھنے والا"
+          },
+          {
+            "term": "تہی کیسہ",
+            "meaningUrdu": "خالی جیب"
+          }
+        ]
+      },
+      {
+        "verseIndex": 14,
+        "explanationUrdu": "مومن کا دل ہر حال میں خوش رہتا ہے، اسے کوئی دنیاوی غم نہیں چھین سکتا۔",
+        "englishTranslation": "In every state, my heart is free and joyful; what will anyone take from the bud that possesses the joy of a sweet smile?",
+        "difficultWords": [
+          {
+            "term": "بے قید",
+            "meaningUrdu": "آزاد"
+          },
+          {
+            "term": "خرم",
+            "meaningUrdu": "خوش"
+          },
+          {
+            "term": "شکر خند",
+            "meaningUrdu": "میٹھی مسکراہٹ"
+          }
+        ]
+      },
+      {
+        "verseIndex": 15,
+        "explanationUrdu": "شاعر اپنی گستاخی اور سچ گوئی پر خود ہی تبصرہ کر رہا ہے کہ وہ خدا کے حضور بھی خاموش نہیں رہ سکا۔",
+        "englishTranslation": "I could not remain silent even in the presence of the Lord, Iqbal; may someone silence this insolent servant!",
+        "difficultWords": [
+          {
+            "term": "حضرت یزداں",
+            "meaningUrdu": "خدا کی بارگاہ"
+          },
+          {
+            "term": "گستاخ",
+            "meaningUrdu": "بے ادب"
+          }
+        ]
+      }
+    ],
+    "reflectionQuestion": "How does the poet reconcile the concept of being a 'servant of God' with his critical stance toward religious and social institutions?",
+    "takeaway": "The poem reflects the internal struggle of a truth-seeker who finds himself alienated from both traditional religious structures and modern materialistic society, emphasizing the importance of spiritual integrity.",
+    "themes": [
+      "Truth-seeking",
+      "Social critique",
+      "Spiritual independence",
+      "Alienation",
+      "Faith vs. Materialism"
+    ],
+    "historicalContext": {
+      "period": "Bal-e-Jibril (1935)",
+      "place": "Unknown",
+      "summaryUrdu": "یہ نظم علامہ اقبال کے مجموعہ کلام 'بالِ جبریل' (حصہ اول) میں شامل ہے۔",
+      "summaryEnglish": "This poem is included in Allama Iqbal's collection 'Bal-e-Jibril' (Part 1).",
+      "confidence": "likely",
+      "sourceNote": "The collection context is verified via Iqbal Academy, but specific poem composition details are not provided in the source metadata."
+    },
+    "editorialWarnings": [
+      "The interpretation of 'Farangi' as Western powers is a common scholarly reading but remains an interpretation.",
+      "The identification of 'Nimrod's fire' is a standard cultural reference, not explicitly defined in the text.",
+      "The poem's tone is highly personal and satirical; interpretations of 'gustaakh' (insolent) should be viewed as poetic humility rather than literal theological claims."
+    ]
+  }
+}

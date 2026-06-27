@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "publisher": "Iqbal Academy Pakistan",
+    "contentsUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/contents.htm",
+    "collection": "Bal-e-Jibril"
+  },
+  "reviewRequired": false,
+  "promotedAt": "2026-06-27T04:44:51.825Z",
+  "readings": [
+    {
+      "id": "bal-e-jibril-part01-08-لا-پھر-اک-بار-وہی-بادہ-و",
+      "title": "لا پھر اک بار وہی بادہ و جام اے ساقی",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/08.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/08.htm",
+      "sequence": 8,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "لا پھر اک بار وہی بادہ و جام اے ساقی",
+            "ہاتھ آ جائے مجھے میرا مقام اے ساقی!"
+          ]
+        },
+        {
+          "lines": [
+            "تین سو سال سے ہیں ہند کے میخانے بند",
+            "اب مناسب ہے ترا فیض ہو عام اے ساقی"
+          ]
+        },
+        {
+          "lines": [
+            "مری مینائے غزل میں تھی ذرا سی باقی",
+            "شیخ کہتا ہے کہ ہے یہ بھی حرام اے ساقی"
+          ]
+        },
+        {
+          "lines": [
+            "شیر مردوں سے ہوا بیشہء تحقیق تہی",
+            "رہ گئے صوفی و ملا کے غلام اے ساقی"
+          ]
+        },
+        {
+          "lines": [
+            "عشق کی تیغ جگردار اڑا لی کس نے",
+            "علم کے ہاتھ میں خالی ہے نیام اے ساقی"
+          ]
+        },
+        {
+          "lines": [
+            "سینہ روشن ہو تو ہے سوز سخن عین حیات",
+            "ہو نہ روشن، تو سخن مرگ دوام اے ساقی"
+          ]
+        },
+        {
+          "lines": [
+            "تو مری رات کو مہتاب سے محروم نہ رکھ",
+            "ترے پیمانے میں ہے ماہ تمام اے ساقی!"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-09-مٹا-دیا-مرے-ساقی-نے-عالم-من",
+      "title": "مٹا دیا مرے ساقی نے عالم من و تو",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/09.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/09.htm",
+      "sequence": 9,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "مٹا دیا مرے ساقی نے عالم من و تو",
+            "پلا کے مجھ کو مے لا الہ الا ھو '"
+          ]
+        },
+        {
+          "lines": [
+            "نہ مے،نہ شعر، نہ ساقی، نہ شور چنگ و رباب",
+            "سکوت کوہ و لب جوے و لالہ خود رو!"
+          ]
+        },
+        {
+          "lines": [
+            "گدائے مے کدہ کی شان بے نیازی دیکھ",
+            "پہنچ کے چشمہ حیواں پہ توڑتا ہے سبو!"
+          ]
+        },
+        {
+          "lines": [
+            "مرا سبوچہ غنیمت ہے اس زمانے میں",
+            "کہ خانقاہ میں خالی ہیں صوفیوں کے کدو"
+          ]
+        },
+        {
+          "lines": [
+            "میں نو نیاز ہوں، مجھ سے حجاب ہی اولی",
+            "کہ دل سے بڑھ کے ہے میری نگاہ بے قابو"
+          ]
+        },
+        {
+          "lines": [
+            "اگرچہ بحر کی موجوں میں ہے مقام اس کا",
+            "صفائے پاکی طینت سے ہے گہر کا وضو"
+          ]
+        },
+        {
+          "lines": [
+            "جمیل تر ہیں گل و لالہ فیض سے اس کے",
+            "نگاہ شاعر رنگیں نوا میں ہے جادو"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-10-متاع-بے-بہا-ہے-درد-و-سوز",
+      "title": "متاع بے بہا ہے درد و سوز آرزو مندی",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/10.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/10.htm",
+      "sequence": 10,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "متاع بے بہا ہے درد و سوز آرزو مندی",
+            "مقام بندگی دے کر نہ لوں شان خداوندی"
+          ]
+        },
+        {
+          "lines": [
+            "ترے آزاد بندوں کی نہ یہ دنیا، نہ وہ دنیا",
+            "یہاں مرنے کی پابندی، وہاں جینے کی پابندی"
+          ]
+        },
+        {
+          "lines": [
+            "حجاب اکسیر ہے آوارہ کوئے محبت کو",
+            "میری آتش کو بھڑکاتی ہے تیری دیر پیوندی"
+          ]
+        },
+        {
+          "lines": [
+            "گزر اوقات کر لیتا ہے یہ کوہ و بیاباں میں",
+            "کہ شاہیں کے لیے ذلت ہے کار آشیاں بندی"
+          ]
+        },
+        {
+          "lines": [
+            "یہ فیضان نظر تھا یا کہ مکتب کی کرامت تھی",
+            "سکھائے کس نے اسمعیل کو آداب فرزندی"
+          ]
+        },
+        {
+          "lines": [
+            "زیارت گاہ اہل عزم و ہمت ہے لحد میری",
+            "کہ خاک راہ کو میں نے بتایا راز الوندی"
+          ]
+        },
+        {
+          "lines": [
+            "مری مشاطگی کی کیا ضرورت حسن معنی کو",
+            "کہ فطرت خود بخود کرتی ہے لالے کی حنا بندی"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-11-تجھے-یاد-کیا-نہیں-ہے-مرے-دل",
+      "title": "تجھے یاد کیا نہیں ہے مرے دل کا وہ زمانہ",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/11.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/11.htm",
+      "sequence": 11,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "تجھے یاد کیا نہیں ہے مرے دل کا وہ زمانہ",
+            "وہ ادب گہ محبت، وہ نگہ کا تازیانہ"
+          ]
+        },
+        {
+          "lines": [
+            "یہ بتان عصر حاضر کہ بنے ہیں مدرسے میں",
+            "نہ ادائے کافرانہ، نہ تراش آزرانہ"
+          ]
+        },
+        {
+          "lines": [
+            "نہیں اس کھلی فضا میں کوئی گوشہء فراغت",
+            "یہ جہاں عجب جہاں ہے، نہ قفس نہ آشیانہ"
+          ]
+        },
+        {
+          "lines": [
+            "رگ تاک منتظر ہے تری بارش کرم کی",
+            "کہ عجم کے مے کدوں میں نہ رہی مے مغانہ"
+          ]
+        },
+        {
+          "lines": [
+            "مرے ہم صفیر اسے بھی اثر بہار سمجھے",
+            "انھیں کیا خبر کہ کیا ہے یہ نوائے عاشقانہ"
+          ]
+        },
+        {
+          "lines": [
+            "مرے خاک و خوں سے تونے یہ جہاں کیا ہے پیدا",
+            "صلہ شہید کیا ہے، تب و تاب جاودانہ"
+          ]
+        },
+        {
+          "lines": [
+            "تری بندہ پروری سے مرے دن گزر رہے ہیں",
+            "نہ گلہ ہے دوستوں کا، نہ شکایت زمانہ"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-12-ضمیر-لالہ-مے-لعل-سے-ہوا-لبریز",
+      "title": "ضمیر لالہ مے لعل سے ہوا لبریز",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/12.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/12.htm",
+      "sequence": 12,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "ضمیر لالہ مے لعل سے ہوا لبریز",
+            "اشارہ پاتے ہی صوفی نے توڑ دی پرہیز"
+          ]
+        },
+        {
+          "lines": [
+            "بچھائی ہے جو کہیں عشق نے بساط اپنی",
+            "کیا ہے اس نے فقیروں کو وارث پرویز"
+          ]
+        },
+        {
+          "lines": [
+            "پرانے ہیں یہ ستارے، فلک بھی فرسودہ",
+            "جہاں وہ چاہیے مجھ کو کہ ہو ابھی نوخیز"
+          ]
+        },
+        {
+          "lines": [
+            "کسے خبر ہے کہ ہنگامہ نشور ہے کیا",
+            "تری نگاہ کی گردش ہے میری رستاخیز"
+          ]
+        },
+        {
+          "lines": [
+            "نہ چھین لذت آہ سحر گہی مجھ سے",
+            "نہ کر نگہ سے تغافل کو التفات آمیز"
+          ]
+        },
+        {
+          "lines": [
+            "دل غمیں کے موافق نہیں ہے موسم گل",
+            "صدائے مرغ چمن ہے بہت نشاط انگیز"
+          ]
+        },
+        {
+          "lines": [
+            "حدیث بے خبراں ہے، تو با زمانہ بساز",
+            "زمانہ با تو نسازد، تو با زمانہ ستیز"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-13-وہی-میری-کم-نصیبی-وہی-تیری-بے",
+      "title": "وہی میری کم نصیبی، وہی تیری بے نیازی",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/13.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/13.htm",
+      "sequence": 13,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "وہی میری کم نصیبی، وہی تیری بے نیازی",
+            "میرے کام کچھ نہ آیا یہ کمال نے نوازی"
+          ]
+        },
+        {
+          "lines": [
+            "میں کہاں ہوں تو کہاں ہے، یہ مکاں کہ لامکاں ہے؟",
+            "یہ جہاں مرا جہاں ہے کہ تری کرشمہ سازی"
+          ]
+        },
+        {
+          "lines": [
+            "اسی کشمکش میں گزریں مری زندگی کی راتیں",
+            "کبھی سوزو ساز رومی، کبھی پیچ و تاب رازی"
+          ]
+        },
+        {
+          "lines": [
+            "وہ فریب خوردہ شاہیں کہ پلا ہو کرگسوں میں",
+            "اسے کیا خبر کہ کیا ہے رہ و رسم شاہبازی"
+          ]
+        },
+        {
+          "lines": [
+            "نہ زباں کوئی غزل کی، نہ زباں سے باخبر میں",
+            "کوئی دلکشا صدا ہو، عجمی ہو یا کہ تازی"
+          ]
+        },
+        {
+          "lines": [
+            "نہیں فقر و سلطنت میں کوئی امتیاز ایسا",
+            "یہ سپہ کی تیغ بازی، وہ نگہ کی تیغ بازی"
+          ]
+        },
+        {
+          "lines": [
+            "کوئی کارواں سے ٹوٹا، کوئی بدگماں حرم سے",
+            "کہ امیر کارواں میں نہیں خوئے دل نوازی"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-14-اپنی-جولاں-گاہ-زیر-آسماں-سمجھا-تھا",
+      "title": "اپنی جولاں گاہ زیر آسماں سمجھا تھا میں",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/14.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/14.htm",
+      "sequence": 14,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "اپنی جولاں گاہ زیر آسماں سمجھا تھا میں",
+            "آب و گل کے کھیل کو اپنا جہاں سمجھا تھا میں"
+          ]
+        },
+        {
+          "lines": [
+            "بے حجابی سے تری ٹوٹا نگاہوں کا طلسم",
+            "اک ردائے نیلگوں کو آسماں سمجھا تھا میں"
+          ]
+        },
+        {
+          "lines": [
+            "کارواں تھک کر فضا کے پیچ و خم میں رہ گیا",
+            "مہروماہ و مشتری کو ہم عناں سمجھا تھا میں"
+          ]
+        },
+        {
+          "lines": [
+            "عشق کی اک جست نے طے کر دیا قصہ تمام",
+            "اس زمین و آسماں کو بے کراں سمجھا تھا میں"
+          ]
+        },
+        {
+          "lines": [
+            "کہہ گئیں راز محبت پردہ دار یہاے شوق",
+            "تھی فغاں وہ بھی جسے ضبط فغاں سمجھا تھا میں"
+          ]
+        },
+        {
+          "lines": [
+            "تھی کسی درماندہ رہرو کی صداے درد ناک",
+            "جس کو آواز رحیل کارواں سمجھا تھا میں"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-15-اک-دانش-نورانی-اک-دانش-برہانی",
+      "title": "اک دانش نورانی، اک دانش برہانی",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/15.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/15.htm",
+      "sequence": 15,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "اک دانش نورانی، اک دانش برہانی",
+            "ہے دانش برہانی، حیرت کی فراوانی"
+          ]
+        },
+        {
+          "lines": [
+            "اس پیکر خاکی میں اک شے ہے، سو وہ تیری",
+            "میرے لیے مشکل ہے اس شے کی نگہبانی"
+          ]
+        },
+        {
+          "lines": [
+            "اب کیا جو فغاں میری پہنچی ہے ستاروں تک",
+            "تو نے ہی سکھائی تھی مجھ کو یہ غزل خوانی"
+          ]
+        },
+        {
+          "lines": [
+            "ہو نقش اگر باطل، تکرار سے کیا حاصل",
+            "کیا تجھ کو خوش آتی ہے آدم کی یہ ارزانی؟"
+          ]
+        },
+        {
+          "lines": [
+            "مجھ کو تو سکھا دی ہے افرنگ نے زندیقی",
+            "اس دور کے ملا ہیں کیوں ننگ مسلمانی!"
+          ]
+        },
+        {
+          "lines": [
+            "تقدیر شکن قوت باقی ہے ابھی اس میں",
+            "ناداں جسے کہتے ہیں تقدیر کا زندانی"
+          ]
+        },
+        {
+          "lines": [
+            "تیرے بھی صنم خانے، میرے بھی صنم خانے",
+            "دونوں کے صنم خاکی، دونوں کے صنم فانی"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    },
+    {
+      "id": "bal-e-jibril-part01-16-یارب-یہ-جہان-گزراں-خوب-ہے-لیکن",
+      "title": "یارب! یہ جہان گزراں خوب ہے لیکن",
+      "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/16.htm",
+      "legacySourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/16.htm",
+      "sequence": 16,
+      "section": {
+        "key": "part01",
+        "kind": "ghazal",
+        "collection": "بالِ جبریل · حصہ اول"
+      },
+      "collection": "بالِ جبریل · حصہ اول",
+      "sourceChecked": true,
+      "importStatus": "reviewed_against_iqbal_academy_html",
+      "reviewNotes": [
+        "Promoted from full-book Academy import for batch generation.",
+        "Still requires editorial review of generated explanation/translation before public use."
+      ],
+      "verses": [
+        {
+          "lines": [
+            "یارب! یہ جہان گزراں خوب ہے لیکن",
+            "کیوں خوار ہیں مردان صفا کیش و ہنرمند"
+          ]
+        },
+        {
+          "lines": [
+            "گو اس کی خدائی میں مہاجن کا بھی ہے ہاتھ",
+            "دنیا تو سمجھتی ہے فرنگی کو خداوند"
+          ]
+        },
+        {
+          "lines": [
+            "تو برگ گیا ہے ندہی اہل خرد را",
+            "او کشت گل و لالہ بنجشد بہ خرے چند"
+          ]
+        },
+        {
+          "lines": [
+            "حاضر ہیں کلیسا میں کباب و مے گلگوں",
+            "مسجد میں دھرا کیا ہے بجز موعظہ و پند"
+          ]
+        },
+        {
+          "lines": [
+            "احکام ترے حق ہیں مگر اپنے مفسر",
+            "تاویل سے قرآں کو بنا سکتے ہیں پاژند"
+          ]
+        },
+        {
+          "lines": [
+            "فردوس جو تیرا ہے، کسی نے نہیں دیکھا",
+            "افرنگ کا ہر قریہ ہے فردوس کی مانند"
+          ]
+        },
+        {
+          "lines": [
+            "مدت سے ہے آوارہ افلاک مرا فکر",
+            "کر دے اسے اب چاند کی غاروں میں نظر بند"
+          ]
+        },
+        {
+          "lines": [
+            "فطرت نے مجھے بخشے ہیں جوہر ملکوتی",
+            "خاکی ہوں مگر خاک سے رکھتا نہیں پیوند"
+          ]
+        },
+        {
+          "lines": [
+            "درویش خدا مست نہ شرقی ہے نہ غربی",
+            "گھر میرا نہ دلی، نہ صفاہاں، نہ سمرقند"
+          ]
+        },
+        {
+          "lines": [
+            "کہتا ہوں وہی بات سمجھتا ہوں جسے حق",
+            "نے ابلہ مسجد ہوں، نہ تہذیب کا فرزند"
+          ]
+        },
+        {
+          "lines": [
+            "اپنے بھی خفا مجھ سے ہیں، بیگانے بھی ناخوش",
+            "میں زہر ہلاہل کو کبھی کہہ نہ سکا قند"
+          ]
+        },
+        {
+          "lines": [
+            "مشکل ہے کہ اک بندہ حق بین و حق اندیش",
+            "خاشاک کے تودے کو کہے کوہ دماوند"
+          ]
+        },
+        {
+          "lines": [
+            "ہوں آتش نمرود کے شعلوں میں بھی خاموش",
+            "میں بندہ مومن ہوں، نہیں دانہ اسپند"
+          ]
+        },
+        {
+          "lines": [
+            "پر سوز و نظرباز و نکوبین و کم آزار",
+            "آزاد و گرفتار و تہی کیسہ و خورسند"
+          ]
+        },
+        {
+          "lines": [
+            "ہر حال میں میرا دل بے قید ہے خرم",
+            "کیا چھینے گا غنچے سے کوئی ذوق شکر خند!"
+          ]
+        },
+        {
+          "lines": [
+            "چپ رہ نہ سکا حضرت یزداں میں بھی اقبال",
+            "کرتا کوئی اس بندہ گستاخ کا منہ بند!"
+          ]
+        }
+      ],
+      "verification": {
+        "source": "Iqbal Academy Pakistan Unicode HTML",
+        "checkedOn": "2026-06-26",
+        "note": "Poem imported from the official Iqbal Academy page and line pairing reviewed for this batch."
+      }
+    }
+  ]
+}

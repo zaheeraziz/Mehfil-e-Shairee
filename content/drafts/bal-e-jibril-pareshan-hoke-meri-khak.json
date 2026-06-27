@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "id": "bal-e-jibril-pareshan-hoke-meri-khak",
+  "status": "draft",
+  "generatedAt": "2026-06-20T03:03:45.610Z",
+  "generator": {
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash"
+  },
+  "source": {
+    "id": "bal-e-jibril-pareshan-hoke-meri-khak",
+    "title": "پریشاں ہوکے میری خاک آخر دل نہ بن جائے",
+    "sourceUrl": "https://www.allamaiqbal.com/works/poetry/urdu/bal/text/part01/06.htm",
+    "sequence": 6,
+    "collection": "بالِ جبریل · حصہ اول",
+    "sourceChecked": true,
+    "importStatus": "verified_against_scan",
+    "verification": {
+      "file": "BalEJibreelByAllamahMuhammadIqbalr.a.pdf",
+      "pdfPages": [
+        27
+      ],
+      "checkedOn": "2026-06-19"
+    },
+    "verses": [
+      {
+        "lines": [
+          "پریشاں ہوکے میری خاک آخر دل نہ بن جائے",
+          "جو مشکل اب ہے یارب پھر وہی مشکل نہ بن جائے"
+        ]
+      },
+      {
+        "lines": [
+          "نہ کر دیں مجھ کو مجبور نوا فردوس میں حوریں",
+          "مرا سوز دروں پھر گرمی محفل نہ بن جائے"
+        ]
+      },
+      {
+        "lines": [
+          "کبھی چھوڑی ہوئی منزل بھی یاد آتی ہے راہی کو",
+          "کھٹک سی ہے، جو سینے میں، غم منزل نہ بن جائے"
+        ]
+      },
+      {
+        "lines": [
+          "بنایا عشق نے دریائے ناپیدا کراں مجھ کو",
+          "یہ میری خود نگہداری مرا ساحل نہ بن جائے"
+        ]
+      },
+      {
+        "lines": [
+          "کہیں اس عالم بے رنگ و بو میں بھی طلب میری",
+          "وہی افسانہ دنبالہ محمل نہ بن جائے"
+        ]
+      },
+      {
+        "lines": [
+          "عروج آدم خاکی سے انجم سہمے جاتے ہیں",
+          "کہ یہ ٹوٹا ہوا تارا مہ کامل نہ بن جائے"
+        ]
+      }
+    ]
+  },
+  "annotations": {
+    "verseAnnotations": [
+      {
+        "verseIndex": 0,
+        "explanationUrdu": "شاعر اپنی مٹی (وجود) کے دل بن جانے کے امکان پر پریشانی کا اظہار کر رہا ہے، اور دعا کرتا ہے کہ یہ نئی صورتحال (دل بننا) کہیں وہی پرانی مشکل یا جذباتی کشمکش دوبارہ نہ بن جائے۔",
+        "difficultWords": [
+          {
+            "term": "پریشاں",
+            "meaningUrdu": "فکر مند، بے چین"
+          },
+          {
+            "term": "خاک",
+            "meaningUrdu": "مٹی، وجود"
+          },
+          {
+            "term": "یارب",
+            "meaningUrdu": "اے میرے رب"
+          },
+          {
+            "term": "مشکل",
+            "meaningUrdu": "دشواری، پریشانی"
+          }
+        ],
+        "englishTranslation": "Disturbed, may my dust not ultimately become a heart; O Lord, may the difficulty I face now not become the same difficulty again."
+      },
+      {
+        "verseIndex": 1,
+        "explanationUrdu": "شاعر جنت میں حوروں کے سامنے اپنی اندرونی کیفیت (سوز دروں) کے اظہار پر تشویش ظاہر کر رہا ہے، کہ کہیں اس کا اندرونی درد محفل کی رونق یا گیت کا سبب نہ بن جائے۔",
+        "difficultWords": [
+          {
+            "term": "مجبور نوا",
+            "meaningUrdu": "گیت گانے پر مجبور"
+          },
+          {
+            "term": "فردوس",
+            "meaningUrdu": "جنت"
+          },
+          {
+            "term": "حوریں",
+            "meaningUrdu": "جنت کی حسین عورتیں"
+          },
+          {
+            "term": "سوز دروں",
+            "meaningUrdu": "اندرونی جلن، درد"
+          },
+          {
+            "term": "گرمی محفل",
+            "meaningUrdu": "محفل کی رونق، جوش"
+          }
+        ],
+        "englishTranslation": "May the houris in Paradise not compel me to sing; may my inner burning not again become the warmth of the assembly."
+      },
+      {
+        "verseIndex": 2,
+        "explanationUrdu": "شاعر کہتا ہے کہ مسافر کو اپنی چھوڑی ہوئی منزل بھی یاد آتی ہے۔ اسے یہ فکر ہے کہ اس کے سینے میں جو ہلکی سی خلش ہے، وہ کہیں منزل کے غم میں تبدیل نہ ہو جائے۔",
+        "difficultWords": [
+          {
+            "term": "منزل",
+            "meaningUrdu": "ٹھکانہ، مقام"
+          },
+          {
+            "term": "راہی",
+            "meaningUrdu": "مسافر"
+          },
+          {
+            "term": "کھٹک",
+            "meaningUrdu": "خلش، چبھن"
+          },
+          {
+            "term": "غم منزل",
+            "meaningUrdu": "منزل کا دکھ یا یاد"
+          }
+        ],
+        "englishTranslation": "Sometimes a traveler remembers a destination left behind; there is a pang in my chest, may it not become the sorrow of the destination."
+      },
+      {
+        "verseIndex": 3,
+        "explanationUrdu": "شاعر بیان کرتا ہے کہ عشق نے اسے ایک بے کراں سمندر بنا دیا ہے۔ اسے یہ خدشہ ہے کہ اس کی اپنی خود نگہداری (اپنے آپ کو سنبھالنا) کہیں اس کے لیے کنارہ (ساحل) نہ بن جائے، یعنی اسے محدود نہ کر دے۔",
+        "difficultWords": [
+          {
+            "term": "دریائے ناپیدا کراں",
+            "meaningUrdu": "بے کراں سمندر، جس کا کنارہ نہ ہو"
+          },
+          {
+            "term": "خود نگہداری",
+            "meaningUrdu": "اپنی حفاظت، خود کو سنبھالنا"
+          },
+          {
+            "term": "ساحل",
+            "meaningUrdu": "کنارہ، سمندر کا کنارہ"
+          }
+        ],
+        "englishTranslation": "Love has made me an endless ocean; may this self-preservation of mine not become my shore."
+      },
+      {
+        "verseIndex": 4,
+        "explanationUrdu": "شاعر کو یہ فکر ہے کہ اس بے رنگ و بو دنیا (یا روحانی دنیا) میں بھی اس کی طلب (خواہش) کہیں وہی پرانا \"افسانہ دنبالہ محمل\" نہ بن جائے، یعنی کسی ایسی چیز کے پیچھے بھاگنا جو ہاتھ نہ آئے۔",
+        "difficultWords": [
+          {
+            "term": "عالم بے رنگ و بو",
+            "meaningUrdu": "ایسی دنیا جہاں رنگ اور خوشبو نہ ہو، روحانی دنیا یا دنیا کی بے ثباتی"
+          },
+          {
+            "term": "طلب",
+            "meaningUrdu": "خواہش، جستجو"
+          },
+          {
+            "term": "افسانہ دنبالہ محمل",
+            "meaningUrdu": "محمل (کجاوہ) کے پیچھے بھاگنے کا قصہ، جو اکثر لیلیٰ مجنوں کے قصے سے منسوب کیا جاتا ہے جہاں مجنوں لیلیٰ کے محمل کے پیچھے بھاگتا ہے"
+          }
+        ],
+        "englishTranslation": "Lest in this colorless and scentless world, my quest becomes that same tale of chasing the palanquin's trail."
+      },
+      {
+        "verseIndex": 5,
+        "explanationUrdu": "شاعر کہتا ہے کہ انسان (آدم خاکی) کی ترقی اور بلندی دیکھ کر ستارے خوفزدہ ہیں۔ انہیں یہ ڈر ہے کہ یہ ٹوٹا ہوا تارا (انسان) کہیں پورا چاند (مہ کامل) نہ بن جائے، یعنی انسان کی صلاحیتیں انہیں پیچھے نہ چھوڑ دیں۔",
+        "difficultWords": [
+          {
+            "term": "عروج",
+            "meaningUrdu": "بلندی، ترقی"
+          },
+          {
+            "term": "آدم خاکی",
+            "meaningUrdu": "مٹی کا بنا انسان"
+          },
+          {
+            "term": "انجم",
+            "meaningUrdu": "ستارے"
+          },
+          {
+            "term": "سہمے جاتے ہیں",
+            "meaningUrdu": "خوفزدہ ہیں"
+          },
+          {
+            "term": "ٹوٹا ہوا تارا",
+            "meaningUrdu": "انسان (اپنی ابتدائی حالت میں)"
+          },
+          {
+            "term": "مہ کامل",
+            "meaningUrdu": "پورا چاند"
+          }
+        ],
+        "englishTranslation": "The stars are frightened by the ascent of earthly man, lest this broken star become a full moon."
+      }
+    ],
+    "reflectionQuestion": "How do the various forms of \"fear\" or \"apprehension\" expressed in the poem (e.g., fear of transformation, fear of repetition, fear of limitation, fear of human potential) relate to the human condition and spiritual journey?",
+    "takeaway": "The poem explores the poet's profound anxieties and aspirations regarding his evolving self, his spiritual journey, and humanity's potential, often expressed through metaphors of transformation, longing, and the unknown.",
+    "themes": [
+      "Self-transformation and identity",
+      "Spiritual journey and longing",
+      "Human potential and destiny",
+      "Anxiety and apprehension",
+      "The nature of love (Ishq)"
+    ],
+    "historicalContextUrdu": "اس نظم کے تاریخی پس منظر کے لیے ایک تصدیق شدہ ماخذ کی ضرورت ہے۔ فراہم کردہ میٹا ڈیٹا میں اس نظم کے تاریخی سیاق و سباق کے بارے میں کافی معلومات موجود نہیں ہیں۔",
+    "editorialWarnings": [
+      "\"افسانہ دنبالہ محمل\" کی تشریح لیلیٰ مجنوں کے قصے سے جوڑنا ایک عام مفہوم ہے، لیکن نظم میں اس کا براہ راست ذکر نہیں ہے۔ یہ ایک ممکنہ تشریح ہے۔",
+      "\"ٹوٹا ہوا تارا\" اور \"مہ کامل\" کی تشریح انسان کی ابتدائی حالت اور اس کی مکمل صلاحیت سے متعلق ہے، جو ایک علامتی مفہوم ہے۔"
+    ],
+    "historicalContext": {
+      "period": "1935",
+      "place": "Lahore, British India",
+      "summaryUrdu": "بالِ جبریل علامہ اقبال کا شعری مجموعہ ہے جو 1935 میں شائع ہوا۔ یہ مجموعہ اقبال کے فکری ارتقاء اور فلسفہ خودی کا عکاس ہے۔ اس میں غزلیں، نظمیں، اور رباعیات شامل ہیں جو روحانیت، خودی، اور ملت اسلامیہ کے مسائل پر روشنی ڈالتی ہیں۔",
+      "summaryEnglish": "Bal-e-Jibril (The Wing of Gabriel) is a collection of poetry by Allama Iqbal, published in 1935. This collection reflects Iqbal's intellectual evolution and his philosophy of 'Khudi' (Selfhood). It includes ghazals, poems, and quatrains that shed light on spirituality, selfhood, and the issues facing the Muslim nation.",
+      "confidence": "likely",
+      "sourceNote": "This context is based on the publication of the Bal-e-Jibril collection, not specific to the writing date or place of this particular poem.",
+      "legacyUrduNote": "اس نظم کے تاریخی پس منظر کے لیے ایک تصدیق شدہ ماخذ کی ضرورت ہے۔ فراہم کردہ میٹا ڈیٹا میں اس نظم کے تاریخی سیاق و سباق کے بارے میں کافی معلومات موجود نہیں ہیں۔"
+    }
+  },
+  "enrichment": {
+    "enrichedAt": "2026-06-24T05:53:26.760Z",
+    "provider": "google-gemini",
+    "model": "gemini-2.5-flash",
+    "usage": {
+      "source": "generateContent.usageMetadata",
+      "inputTokens": 1022,
+      "cachedInputTokens": 0,
+      "outputTokens": 542,
+      "thinkingTokens": 1317,
+      "totalTokens": 2881
+    },
+    "cost": {
+      "currency": "USD",
+      "tier": "paid-standard",
+      "inputUsd": 0.00030659999999999997,
+      "uncachedInputUsd": 0.00030659999999999997,
+      "cachedInputUsd": 0,
+      "outputUsd": 0.0046475,
+      "totalUsd": 0.0049540999999999995,
+      "rates": {
+        "inputPerMillionTokens": 0.3,
+        "cachedInputPerMillionTokens": 0.03,
+        "outputPerMillionTokens": 2.5,
+        "outputIncludesThinking": true
+      },
+      "pricingCheckedOn": "2026-06-19",
+      "pricingSourceUrl": "https://ai.google.dev/gemini-api/docs/pricing"
+    },
+    "purpose": "english_translation_and_historical_context"
+  }
+}
