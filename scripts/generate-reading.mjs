@@ -1,6 +1,7 @@
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { assertGeminiConfigured, getGeminiConfig, requestGeminiContent } from "./gemini-client.mjs";
 import { calculateGeminiCost } from "./gemini-pricing.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -29,12 +30,8 @@ if (dryRun) {
   process.exit(0);
 }
 
-const apiKey = process.env.GEMINI_API_KEY;
-const model = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite";
-
-if (!apiKey) {
-  throw new Error("GEMINI_API_KEY is missing. Set it in your shell; never place it in source-poems.json or commit it.");
-}
+const geminiConfig = getGeminiConfig();
+assertGeminiConfigured(geminiConfig);
 
 const historicalContextSchema = {
   type: "OBJECT",
@@ -108,31 +105,16 @@ Rules:
 Verified source reading:
 ${JSON.stringify(reading)}`;
 
-const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
-const response = await fetch(endpoint, {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-    "x-goog-api-key": apiKey
-  },
-  body: JSON.stringify({
-    systemInstruction: {
-      parts: [{ text: "You are an Urdu literature teaching assistant. Accuracy, textual fidelity, and explicit uncertainty matter more than fluency." }]
-    },
-    contents: [{ role: "user", parts: [{ text: prompt }] }],
-    generationConfig: {
-      temperature: 0.2,
-      responseMimeType: "application/json",
-      responseSchema: annotationSchema
-    }
-  })
+const { payload, provider, model } = await requestGeminiContent({
+  config: geminiConfig,
+  systemInstruction: "You are an Urdu literature teaching assistant. Accuracy, textual fidelity, and explicit uncertainty matter more than fluency.",
+  prompt,
+  generationConfig: {
+    temperature: 0.2,
+    responseMimeType: "application/json",
+    responseSchema: annotationSchema
+  }
 });
-
-const payload = await response.json();
-if (!response.ok) {
-  const message = payload?.error?.message || `Gemini request failed with HTTP ${response.status}`;
-  throw new Error(message);
-}
 
 const rawText = payload?.candidates?.[0]?.content?.parts?.map(part => part.text || "").join("");
 if (!rawText) {
@@ -166,7 +148,7 @@ const draft = {
   id: reading.id,
   status: "draft",
   generatedAt: new Date().toISOString(),
-  generator: { provider: "google-gemini", model },
+  generator: { provider, model },
   usage,
   cost,
   source: reading,

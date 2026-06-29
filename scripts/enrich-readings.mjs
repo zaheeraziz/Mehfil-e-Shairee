@@ -1,6 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { assertGeminiConfigured, getGeminiConfig, requestGeminiContent } from "./gemini-client.mjs";
 import { calculateGeminiCost } from "./gemini-pricing.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -12,12 +13,10 @@ await loadEnvFile(path.join(root, ".env"));
 
 const approval = JSON.parse(await readFile(path.join(root, "content", "approved-readings.json"), "utf8"));
 const ids = requestedIds.length ? requestedIds : approval.ids;
-const apiKey = process.env.GEMINI_API_KEY;
-const model = process.env.GEMINI_MODEL || "gemini-3.1-flash-lite";
+const geminiConfig = getGeminiConfig();
+const model = geminiConfig.model;
 
-if (!apiKey && !dryRun) {
-  throw new Error("GEMINI_API_KEY is missing. Add it to .env before enriching drafts.");
-}
+if (!dryRun) assertGeminiConfigured(geminiConfig);
 
 for (const id of ids) {
   const draftPath = path.join(root, "content", "drafts", `${id}.json`);
@@ -52,7 +51,7 @@ for (const id of ids) {
   const apiUsage = enrichment.__usage || {};
   draft.enrichment = {
     enrichedAt: new Date().toISOString(),
-    provider: "google-gemini",
+    provider: apiUsage.provider,
     model,
     usage: apiUsage.usage,
     cost: apiUsage.cost,
@@ -136,31 +135,16 @@ ${JSON.stringify({
   }
 })}`;
 
-  const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
-  const response = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "x-goog-api-key": apiKey
-    },
-    body: JSON.stringify({
-      systemInstruction: {
-        parts: [{ text: "You are an Urdu literature translation assistant. Be faithful, cautious, and explicit about uncertainty." }]
-      },
-      contents: [{ role: "user", parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.15,
-        responseMimeType: "application/json",
-        responseSchema
-      }
-    })
+  const { payload, provider } = await requestGeminiContent({
+    config: geminiConfig,
+    systemInstruction: "You are an Urdu literature translation assistant. Be faithful, cautious, and explicit about uncertainty.",
+    prompt,
+    generationConfig: {
+      temperature: 0.15,
+      responseMimeType: "application/json",
+      responseSchema
+    }
   });
-
-  const payload = await response.json();
-  if (!response.ok) {
-    const message = payload?.error?.message || `Gemini request failed with HTTP ${response.status}`;
-    throw new Error(message);
-  }
 
   const rawText = payload?.candidates?.[0]?.content?.parts?.map(part => part.text || "").join("");
   if (!rawText) throw new Error("Gemini returned no text content.");
@@ -168,6 +152,7 @@ ${JSON.stringify({
   const result = JSON.parse(rawText);
   const usage = readUsage(payload.usageMetadata || {});
   result.__usage = {
+    provider,
     usage,
     cost: [usage.inputTokens, usage.outputTokens, usage.totalTokens].every(Number.isFinite)
       ? calculateGeminiCost(model, usage)

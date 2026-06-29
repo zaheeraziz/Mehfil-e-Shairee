@@ -14,11 +14,28 @@ Iqbal Academy Pakistan is the primary text source. See `SOURCE_POLICY.md` for pr
 npm run draft:check -- poem-id
 ```
 
-4. Open the local `.env` file and paste your Gemini key after `GEMINI_API_KEY=`. This file is ignored by Git and must never be shared or committed:
+4. Open the local `.env` file and choose your Gemini provider. This file is ignored by Git and must never be shared or committed.
+
+For the simple AI Studio API key path:
 
 ```bash
+GEMINI_PROVIDER=ai-studio
 GEMINI_API_KEY=your-key
 ```
+
+To route the same Gemini requests through Google Cloud Vertex AI, so usage bills
+through the selected Google Cloud project:
+
+```bash
+GEMINI_PROVIDER=vertex
+VERTEX_PROJECT_ID=your-google-cloud-project-id
+VERTEX_LOCATION=us-central1
+```
+
+Vertex AI uses Google Cloud auth instead of a Gemini API key. Install the Google
+Cloud CLI and run `gcloud auth login`, or set `VERTEX_ACCESS_TOKEN` to a
+short-lived token from `gcloud auth print-access-token`. The Vertex AI API must
+be enabled for the project, and billing or credits must be attached there.
 
 5. Generate a review draft:
 
