@@ -1,7 +1,7 @@
 import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { assertGeminiConfigured, getGeminiConfig, requestGeminiContent } from "./gemini-client.mjs";
+import { getGeminiConfig, requestGeminiContent } from "./gemini-client.mjs";
 import { calculateGeminiCost } from "./gemini-pricing.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -31,7 +31,6 @@ if (dryRun) {
 }
 
 const geminiConfig = getGeminiConfig();
-assertGeminiConfigured(geminiConfig);
 
 const historicalContextSchema = {
   type: "OBJECT",
@@ -105,7 +104,7 @@ Rules:
 Verified source reading:
 ${JSON.stringify(reading)}`;
 
-const { payload, provider, model } = await requestGeminiContent({
+const { payload, provider, model, fallbackUsed } = await requestGeminiContent({
   config: geminiConfig,
   systemInstruction: "You are an Urdu literature teaching assistant. Accuracy, textual fidelity, and explicit uncertainty matter more than fluency.",
   prompt,
@@ -115,6 +114,7 @@ const { payload, provider, model } = await requestGeminiContent({
     responseSchema: annotationSchema
   }
 });
+if (fallbackUsed) console.warn(`Draft generation fell back to ${provider}.`);
 
 const rawText = payload?.candidates?.[0]?.content?.parts?.map(part => part.text || "").join("");
 if (!rawText) {

@@ -30,33 +30,63 @@ export function assertGeminiConfigured(config = getGeminiConfig()) {
 }
 
 export async function requestGeminiContent({ config = getGeminiConfig(), systemInstruction, prompt, generationConfig }) {
-  assertGeminiConfigured(config);
-
-  const target = buildRequestTarget(config);
-  const response = await fetch(target.endpoint, {
-    method: "POST",
-    headers: target.headers,
-    body: JSON.stringify({
-      systemInstruction: {
-        parts: [{ text: systemInstruction }]
-      },
-      contents: [{ role: "user", parts: [{ text: prompt }] }],
-      generationConfig
-    })
+  const requestBody = JSON.stringify({
+    systemInstruction: {
+      parts: [{ text: systemInstruction }]
+    },
+    contents: [{ role: "user", parts: [{ text: prompt }] }],
+    generationConfig
   });
 
-  const payload = await readJsonResponse(response);
-  if (!response.ok) {
-    const message = payload?.error?.message || `${config.providerLabel} request failed with HTTP ${response.status}`;
-    throw new Error(message);
+  const attempts = buildAttemptConfigs(config);
+  let firstError;
+
+  for (const attempt of attempts) {
+    try {
+      assertGeminiConfigured(attempt);
+      const target = buildRequestTarget(attempt);
+      const response = await fetch(target.endpoint, {
+        method: "POST",
+        headers: target.headers,
+        body: requestBody
+      });
+
+      const payload = await readJsonResponse(response);
+      if (!response.ok) {
+        const message = payload?.error?.message || `${attempt.providerLabel} request failed with HTTP ${response.status}`;
+        throw new Error(message);
+      }
+
+      return {
+        payload,
+        provider: attempt.providerLabel,
+        model: attempt.model,
+        endpoint: target.endpoint,
+        fallbackUsed: attempt.provider !== config.provider
+      };
+    } catch (error) {
+      if (!firstError) firstError = error;
+      if (attempt === attempts.at(-1)) break;
+      console.warn(`${attempt.providerLabel} failed; retrying with ${attempts.at(-1).providerLabel}.`);
+    }
   }
 
-  return {
-    payload,
-    provider: config.providerLabel,
-    model: config.model,
-    endpoint: target.endpoint
-  };
+  throw firstError;
+}
+
+function buildAttemptConfigs(config) {
+  if (config.provider !== "vertex") return [config];
+  if (process.env.GEMINI_DISABLE_FALLBACK === "true") return [config];
+  if (!process.env.GEMINI_API_KEY) return [config];
+
+  return [
+    config,
+    {
+      ...config,
+      provider: "ai-studio",
+      providerLabel: "google-gemini-ai-studio"
+    }
+  ];
 }
 
 function buildRequestTarget(config) {

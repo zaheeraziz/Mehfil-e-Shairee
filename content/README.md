@@ -37,6 +37,12 @@ Cloud CLI and run `gcloud auth login`, or set `VERTEX_ACCESS_TOKEN` to a
 short-lived token from `gcloud auth print-access-token`. The Vertex AI API must
 be enabled for the project, and billing or credits must be attached there.
 
+Keep `GEMINI_API_KEY` in `.env` even when using Vertex AI. If Vertex auth or the
+Vertex request fails, the generator retries once through AI Studio so daily poem
+prep does not fail only because the Vertex path is temporarily broken. Set
+`GEMINI_DISABLE_FALLBACK=true` only when you want Vertex failures to stop the
+run immediately.
+
 5. Generate a review draft:
 
 ```bash

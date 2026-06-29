@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { assertGeminiConfigured, getGeminiConfig, requestGeminiContent } from "./gemini-client.mjs";
+import { getGeminiConfig, requestGeminiContent } from "./gemini-client.mjs";
 import { calculateGeminiCost } from "./gemini-pricing.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -15,8 +15,6 @@ const approval = JSON.parse(await readFile(path.join(root, "content", "approved-
 const ids = requestedIds.length ? requestedIds : approval.ids;
 const geminiConfig = getGeminiConfig();
 const model = geminiConfig.model;
-
-if (!dryRun) assertGeminiConfigured(geminiConfig);
 
 for (const id of ids) {
   const draftPath = path.join(root, "content", "drafts", `${id}.json`);
@@ -135,7 +133,7 @@ ${JSON.stringify({
   }
 })}`;
 
-  const { payload, provider } = await requestGeminiContent({
+  const { payload, provider, fallbackUsed } = await requestGeminiContent({
     config: geminiConfig,
     systemInstruction: "You are an Urdu literature translation assistant. Be faithful, cautious, and explicit about uncertainty.",
     prompt,
@@ -145,6 +143,7 @@ ${JSON.stringify({
       responseSchema
     }
   });
+  if (fallbackUsed) console.warn(`Enrichment fell back to ${provider}.`);
 
   const rawText = payload?.candidates?.[0]?.content?.parts?.map(part => part.text || "").join("");
   if (!rawText) throw new Error("Gemini returned no text content.");
