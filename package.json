@@ -11,6 +11,7 @@
     "import:iqbal-academy:full": "node scripts/import-iqbal-academy-full.mjs",
     "build:delivery-plan": "node scripts/build-delivery-plan.mjs",
     "build:readings": "node scripts/build-readings.mjs",
+    "backup:imap": "node scripts/backup-imap-mailbox.mjs",
     "tokens": "node scripts/token-report.mjs",
     "estimate:full-book": "node scripts/estimate-full-book-cost.mjs"
   }
